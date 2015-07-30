@@ -1,0 +1,5712 @@
+[
+	{
+		"coord": "1-5000001",
+		"category": "Noncoding",
+		"value": 1005
+	},
+	{
+		"coord": "1-5000001",
+		"category": "Coding",
+		"value": 590
+	},
+	{
+		"coord": "45000001-50000001",
+		"category": "Noncoding",
+		"value": 1170
+	},
+	{
+		"coord": "45000001-50000001",
+		"category": "Coding",
+		"value": 395
+	},
+	{
+		"coord": "50000001-55000001",
+		"category": "Noncoding",
+		"value": 1178
+	},
+	{
+		"coord": "50000001-55000001",
+		"category": "Coding",
+		"value": 297
+	},
+	{
+		"coord": "55000001-60000001",
+		"category": "Noncoding",
+		"value": 1395
+	},
+	{
+		"coord": "55000001-60000001",
+		"category": "Coding",
+		"value": 256
+	},
+	{
+		"coord": "60000001-65000001",
+		"category": "Noncoding",
+		"value": 1395
+	},
+	{
+		"coord": "60000001-65000001",
+		"category": "Coding",
+		"value": 170
+	},
+	{
+		"coord": "65000001-70000001",
+		"category": "Noncoding",
+		"value": 1131
+	},
+	{
+		"coord": "65000001-70000001",
+		"category": "Coding",
+		"value": 239
+	},
+	{
+		"coord": "70000001-75000001",
+		"category": "Noncoding",
+		"value": 1109
+	},
+	{
+		"coord": "70000001-75000001",
+		"category": "Coding",
+		"value": 66
+	},
+	{
+		"coord": "75000001-80000001",
+		"category": "Noncoding",
+		"value": 1197
+	},
+	{
+		"coord": "75000001-80000001",
+		"category": "Coding",
+		"value": 142
+	},
+	{
+		"coord": "80000001-85000001",
+		"category": "Noncoding",
+		"value": 801
+	},
+	{
+		"coord": "80000001-85000001",
+		"category": "Coding",
+		"value": 99
+	},
+	{
+		"coord": "85000001-90000001",
+		"category": "Noncoding",
+		"value": 1726
+	},
+	{
+		"coord": "85000001-90000001",
+		"category": "Coding",
+		"value": 284
+	},
+	{
+		"coord": "90000001-95000001",
+		"category": "Noncoding",
+		"value": 581
+	},
+	{
+		"coord": "90000001-95000001",
+		"category": "Coding",
+		"value": 160
+	},
+	{
+		"coord": "5000001-10000001",
+		"category": "Noncoding",
+		"value": 1158
+	},
+	{
+		"coord": "5000001-10000001",
+		"category": "Coding",
+		"value": 371
+	},
+	{
+		"coord": "95000001-100000001",
+		"category": "Noncoding",
+		"value": 1519
+	},
+	{
+		"coord": "95000001-100000001",
+		"category": "Coding",
+		"value": 180
+	},
+	{
+		"coord": "100000001-105000001",
+		"category": "Noncoding",
+		"value": 100
+	},
+	{
+		"coord": "100000001-105000001",
+		"category": "Coding",
+		"value": 12
+	},
+	{
+		"coord": "105000001-110000001",
+		"category": "Noncoding",
+		"value": 821
+	},
+	{
+		"coord": "105000001-110000001",
+		"category": "Coding",
+		"value": 232
+	},
+	{
+		"coord": "110000001-115000001",
+		"category": "Noncoding",
+		"value": 2083
+	},
+	{
+		"coord": "110000001-115000001",
+		"category": "Coding",
+		"value": 356
+	},
+	{
+		"coord": "115000001-120000001",
+		"category": "Noncoding",
+		"value": 1673
+	},
+	{
+		"coord": "115000001-120000001",
+		"category": "Coding",
+		"value": 315
+	},
+	{
+		"coord": "120000001-125000001",
+		"category": "Noncoding",
+		"value": 60
+	},
+	{
+		"coord": "120000001-125000001",
+		"category": "Coding",
+		"value": 26
+	},
+	{
+		"coord": "10000001-15000001",
+		"category": "Noncoding",
+		"value": 1493
+	},
+	{
+		"coord": "10000001-15000001",
+		"category": "Coding",
+		"value": 432
+	},
+	{
+		"coord": "145000001-150000001",
+		"category": "Noncoding",
+		"value": 508
+	},
+	{
+		"coord": "145000001-150000001",
+		"category": "Coding",
+		"value": 224
+	},
+	{
+		"coord": "150000001-155000001",
+		"category": "Noncoding",
+		"value": 1509
+	},
+	{
+		"coord": "150000001-155000001",
+		"category": "Coding",
+		"value": 753
+	},
+	{
+		"coord": "155000001-160000001",
+		"category": "Noncoding",
+		"value": 1483
+	},
+	{
+		"coord": "155000001-160000001",
+		"category": "Coding",
+		"value": 731
+	},
+	{
+		"coord": "160000001-165000001",
+		"category": "Noncoding",
+		"value": 990
+	},
+	{
+		"coord": "160000001-165000001",
+		"category": "Coding",
+		"value": 376
+	},
+	{
+		"coord": "165000001-170000001",
+		"category": "Noncoding",
+		"value": 1098
+	},
+	{
+		"coord": "165000001-170000001",
+		"category": "Coding",
+		"value": 264
+	},
+	{
+		"coord": "170000001-175000001",
+		"category": "Noncoding",
+		"value": 1236
+	},
+	{
+		"coord": "170000001-175000001",
+		"category": "Coding",
+		"value": 233
+	},
+	{
+		"coord": "175000001-180000001",
+		"category": "Noncoding",
+		"value": 2518
+	},
+	{
+		"coord": "175000001-180000001",
+		"category": "Coding",
+		"value": 242
+	},
+	{
+		"coord": "180000001-185000001",
+		"category": "Noncoding",
+		"value": 1956
+	},
+	{
+		"coord": "180000001-185000001",
+		"category": "Coding",
+		"value": 362
+	},
+	{
+		"coord": "185000001-190000001",
+		"category": "Noncoding",
+		"value": 1062
+	},
+	{
+		"coord": "185000001-190000001",
+		"category": "Coding",
+		"value": 156
+	},
+	{
+		"coord": "190000001-195000001",
+		"category": "Noncoding",
+		"value": 694
+	},
+	{
+		"coord": "190000001-195000001",
+		"category": "Coding",
+		"value": 43
+	},
+	{
+		"coord": "15000001-20000001",
+		"category": "Noncoding",
+		"value": 1200
+	},
+	{
+		"coord": "15000001-20000001",
+		"category": "Coding",
+		"value": 594
+	},
+	{
+		"coord": "200000001-205000001",
+		"category": "Noncoding",
+		"value": 2649
+	},
+	{
+		"coord": "200000001-205000001",
+		"category": "Coding",
+		"value": 708
+	},
+	{
+		"coord": "205000001-210000001",
+		"category": "Noncoding",
+		"value": 1629
+	},
+	{
+		"coord": "205000001-210000001",
+		"category": "Coding",
+		"value": 417
+	},
+	{
+		"coord": "210000001-215000001",
+		"category": "Noncoding",
+		"value": 551
+	},
+	{
+		"coord": "210000001-215000001",
+		"category": "Coding",
+		"value": 143
+	},
+	{
+		"coord": "215000001-220000001",
+		"category": "Noncoding",
+		"value": 700
+	},
+	{
+		"coord": "215000001-220000001",
+		"category": "Coding",
+		"value": 79
+	},
+	{
+		"coord": "220000001-225000001",
+		"category": "Noncoding",
+		"value": 1075
+	},
+	{
+		"coord": "220000001-225000001",
+		"category": "Coding",
+		"value": 242
+	},
+	{
+		"coord": "225000001-230000001",
+		"category": "Noncoding",
+		"value": 810
+	},
+	{
+		"coord": "225000001-230000001",
+		"category": "Coding",
+		"value": 310
+	},
+	{
+		"coord": "230000001-235000001",
+		"category": "Noncoding",
+		"value": 1073
+	},
+	{
+		"coord": "230000001-235000001",
+		"category": "Coding",
+		"value": 258
+	},
+	{
+		"coord": "235000001-240000001",
+		"category": "Noncoding",
+		"value": 1659
+	},
+	{
+		"coord": "235000001-240000001",
+		"category": "Coding",
+		"value": 296
+	},
+	{
+		"coord": "240000001-245000001",
+		"category": "Noncoding",
+		"value": 1224
+	},
+	{
+		"coord": "240000001-245000001",
+		"category": "Coding",
+		"value": 141
+	},
+	{
+		"coord": "20000001-25000001",
+		"category": "Noncoding",
+		"value": 1188
+	},
+	{
+		"coord": "20000001-25000001",
+		"category": "Coding",
+		"value": 544
+	},
+	{
+		"coord": "245000001-249250621",
+		"category": "Noncoding",
+		"value": 832
+	},
+	{
+		"coord": "245000001-249250621",
+		"category": "Coding",
+		"value": 139
+	},
+	{
+		"coord": "25000001-30000001",
+		"category": "Noncoding",
+		"value": 1574
+	},
+	{
+		"coord": "25000001-30000001",
+		"category": "Coding",
+		"value": 486
+	},
+	{
+		"coord": "30000001-35000001",
+		"category": "Noncoding",
+		"value": 1446
+	},
+	{
+		"coord": "30000001-35000001",
+		"category": "Coding",
+		"value": 428
+	},
+	{
+		"coord": "35000001-40000001",
+		"category": "Noncoding",
+		"value": 2018
+	},
+	{
+		"coord": "35000001-40000001",
+		"category": "Coding",
+		"value": 579
+	},
+	{
+		"coord": "40000001-45000001",
+		"category": "Noncoding",
+		"value": 1697
+	},
+	{
+		"coord": "40000001-45000001",
+		"category": "Coding",
+		"value": 487
+	},
+	{
+		"coord": "1680373145-1685373145",
+		"category": "Noncoding",
+		"value": 890
+	},
+	{
+		"coord": "1680373145-1685373145",
+		"category": "Coding",
+		"value": 135
+	},
+	{
+		"coord": "1725373145-1730373145",
+		"category": "Noncoding",
+		"value": 375
+	},
+	{
+		"coord": "1725373145-1730373145",
+		"category": "Coding",
+		"value": 116
+	},
+	{
+		"coord": "1730373145-1735373145",
+		"category": "Noncoding",
+		"value": 733
+	},
+	{
+		"coord": "1730373145-1735373145",
+		"category": "Coding",
+		"value": 128
+	},
+	{
+		"coord": "1735373145-1740373145",
+		"category": "Noncoding",
+		"value": 91
+	},
+	{
+		"coord": "1735373145-1740373145",
+		"category": "Coding",
+		"value": 8
+	},
+	{
+		"coord": "1740373145-1745373145",
+		"category": "Noncoding",
+		"value": 1755
+	},
+	{
+		"coord": "1740373145-1745373145",
+		"category": "Coding",
+		"value": 229
+	},
+	{
+		"coord": "1745373145-1750373145",
+		"category": "Noncoding",
+		"value": 785
+	},
+	{
+		"coord": "1745373145-1750373145",
+		"category": "Coding",
+		"value": 16
+	},
+	{
+		"coord": "1750373145-1755373145",
+		"category": "Noncoding",
+		"value": 1574
+	},
+	{
+		"coord": "1750373145-1755373145",
+		"category": "Coding",
+		"value": 424
+	},
+	{
+		"coord": "1755373145-1760373145",
+		"category": "Noncoding",
+		"value": 1895
+	},
+	{
+		"coord": "1755373145-1760373145",
+		"category": "Coding",
+		"value": 265
+	},
+	{
+		"coord": "1760373145-1765373145",
+		"category": "Noncoding",
+		"value": 575
+	},
+	{
+		"coord": "1760373145-1765373145",
+		"category": "Coding",
+		"value": 45
+	},
+	{
+		"coord": "1765373145-1770373145",
+		"category": "Noncoding",
+		"value": 954
+	},
+	{
+		"coord": "1765373145-1770373145",
+		"category": "Coding",
+		"value": 134
+	},
+	{
+		"coord": "1770373145-1775373145",
+		"category": "Noncoding",
+		"value": 867
+	},
+	{
+		"coord": "1770373145-1775373145",
+		"category": "Coding",
+		"value": 218
+	},
+	{
+		"coord": "1685373145-1690373145",
+		"category": "Noncoding",
+		"value": 1435
+	},
+	{
+		"coord": "1685373145-1690373145",
+		"category": "Coding",
+		"value": 189
+	},
+	{
+		"coord": "1775373145-1780373145",
+		"category": "Noncoding",
+		"value": 1576
+	},
+	{
+		"coord": "1775373145-1780373145",
+		"category": "Coding",
+		"value": 422
+	},
+	{
+		"coord": "1780373145-1785373145",
+		"category": "Noncoding",
+		"value": 1063
+	},
+	{
+		"coord": "1780373145-1785373145",
+		"category": "Coding",
+		"value": 347
+	},
+	{
+		"coord": "1785373145-1790373145",
+		"category": "Noncoding",
+		"value": 1566
+	},
+	{
+		"coord": "1785373145-1790373145",
+		"category": "Coding",
+		"value": 382
+	},
+	{
+		"coord": "1790373145-1795373145",
+		"category": "Noncoding",
+		"value": 1691
+	},
+	{
+		"coord": "1790373145-1795373145",
+		"category": "Coding",
+		"value": 200
+	},
+	{
+		"coord": "1795373145-1800373145",
+		"category": "Noncoding",
+		"value": 1929
+	},
+	{
+		"coord": "1795373145-1800373145",
+		"category": "Coding",
+		"value": 347
+	},
+	{
+		"coord": "1800373145-1805373145",
+		"category": "Noncoding",
+		"value": 1251
+	},
+	{
+		"coord": "1800373145-1805373145",
+		"category": "Coding",
+		"value": 409
+	},
+	{
+		"coord": "1805373145-1810373145",
+		"category": "Noncoding",
+		"value": 1560
+	},
+	{
+		"coord": "1805373145-1810373145",
+		"category": "Coding",
+		"value": 277
+	},
+	{
+		"coord": "1810373145-1815373145",
+		"category": "Noncoding",
+		"value": 708
+	},
+	{
+		"coord": "1810373145-1815373145",
+		"category": "Coding",
+		"value": 118
+	},
+	{
+		"coord": "1815373145-1815907891",
+		"category": "Noncoding",
+		"value": 119
+	},
+	{
+		"coord": "1815373145-1815907891",
+		"category": "Coding",
+		"value": 100
+	},
+	{
+		"coord": "1690373145-1695373145",
+		"category": "Noncoding",
+		"value": 1612
+	},
+	{
+		"coord": "1690373145-1695373145",
+		"category": "Coding",
+		"value": 125
+	},
+	{
+		"coord": "1695373145-1700373145",
+		"category": "Noncoding",
+		"value": 859
+	},
+	{
+		"coord": "1695373145-1700373145",
+		"category": "Coding",
+		"value": 164
+	},
+	{
+		"coord": "1700373145-1705373145",
+		"category": "Noncoding",
+		"value": 1091
+	},
+	{
+		"coord": "1700373145-1705373145",
+		"category": "Coding",
+		"value": 137
+	},
+	{
+		"coord": "1705373145-1710373145",
+		"category": "Noncoding",
+		"value": 1386
+	},
+	{
+		"coord": "1705373145-1710373145",
+		"category": "Coding",
+		"value": 217
+	},
+	{
+		"coord": "1710373145-1715373145",
+		"category": "Noncoding",
+		"value": 1686
+	},
+	{
+		"coord": "1710373145-1715373145",
+		"category": "Coding",
+		"value": 149
+	},
+	{
+		"coord": "1715373145-1720373145",
+		"category": "Noncoding",
+		"value": 361
+	},
+	{
+		"coord": "1715373145-1720373145",
+		"category": "Coding",
+		"value": 35
+	},
+	{
+		"coord": "1720373145-1725373145",
+		"category": "Noncoding",
+		"value": 353
+	},
+	{
+		"coord": "1720373145-1725373145",
+		"category": "Coding",
+		"value": 84
+	},
+	{
+		"coord": "1815907892-1820907892",
+		"category": "Noncoding",
+		"value": 1064
+	},
+	{
+		"coord": "1815907892-1820907892",
+		"category": "Coding",
+		"value": 594
+	},
+	{
+		"coord": "1860907892-1865907892",
+		"category": "Noncoding",
+		"value": 1380
+	},
+	{
+		"coord": "1860907892-1865907892",
+		"category": "Coding",
+		"value": 397
+	},
+	{
+		"coord": "1870907892-1875907892",
+		"category": "Noncoding",
+		"value": 506
+	},
+	{
+		"coord": "1870907892-1875907892",
+		"category": "Coding",
+		"value": 179
+	},
+	{
+		"coord": "1875907892-1880907892",
+		"category": "Noncoding",
+		"value": 1554
+	},
+	{
+		"coord": "1875907892-1880907892",
+		"category": "Coding",
+		"value": 1080
+	},
+	{
+		"coord": "1880907892-1885907892",
+		"category": "Noncoding",
+		"value": 1761
+	},
+	{
+		"coord": "1880907892-1885907892",
+		"category": "Coding",
+		"value": 952
+	},
+	{
+		"coord": "1885907892-1890907892",
+		"category": "Noncoding",
+		"value": 1245
+	},
+	{
+		"coord": "1885907892-1890907892",
+		"category": "Coding",
+		"value": 383
+	},
+	{
+		"coord": "1890907892-1895907892",
+		"category": "Noncoding",
+		"value": 1114
+	},
+	{
+		"coord": "1890907892-1895907892",
+		"category": "Coding",
+		"value": 252
+	},
+	{
+		"coord": "1895907892-1900907892",
+		"category": "Noncoding",
+		"value": 898
+	},
+	{
+		"coord": "1895907892-1900907892",
+		"category": "Coding",
+		"value": 69
+	},
+	{
+		"coord": "1900907892-1905907892",
+		"category": "Noncoding",
+		"value": 950
+	},
+	{
+		"coord": "1900907892-1905907892",
+		"category": "Coding",
+		"value": 150
+	},
+	{
+		"coord": "1905907892-1910907892",
+		"category": "Noncoding",
+		"value": 1020
+	},
+	{
+		"coord": "1905907892-1910907892",
+		"category": "Coding",
+		"value": 160
+	},
+	{
+		"coord": "1820907892-1825907892",
+		"category": "Noncoding",
+		"value": 1316
+	},
+	{
+		"coord": "1820907892-1825907892",
+		"category": "Coding",
+		"value": 415
+	},
+	{
+		"coord": "1910907892-1915907892",
+		"category": "Noncoding",
+		"value": 179
+	},
+	{
+		"coord": "1910907892-1915907892",
+		"category": "Coding",
+		"value": 38
+	},
+	{
+		"coord": "1915907892-1920907892",
+		"category": "Noncoding",
+		"value": 1241
+	},
+	{
+		"coord": "1915907892-1920907892",
+		"category": "Coding",
+		"value": 210
+	},
+	{
+		"coord": "1920907892-1925907892",
+		"category": "Noncoding",
+		"value": 906
+	},
+	{
+		"coord": "1920907892-1925907892",
+		"category": "Coding",
+		"value": 181
+	},
+	{
+		"coord": "1925907892-1930907892",
+		"category": "Noncoding",
+		"value": 1441
+	},
+	{
+		"coord": "1925907892-1930907892",
+		"category": "Coding",
+		"value": 319
+	},
+	{
+		"coord": "1930907892-1935907892",
+		"category": "Noncoding",
+		"value": 1818
+	},
+	{
+		"coord": "1930907892-1935907892",
+		"category": "Coding",
+		"value": 631
+	},
+	{
+		"coord": "1935907892-1940907892",
+		"category": "Noncoding",
+		"value": 1769
+	},
+	{
+		"coord": "1935907892-1940907892",
+		"category": "Coding",
+		"value": 389
+	},
+	{
+		"coord": "1940907892-1945907892",
+		"category": "Noncoding",
+		"value": 693
+	},
+	{
+		"coord": "1940907892-1945907892",
+		"category": "Coding",
+		"value": 133
+	},
+	{
+		"coord": "1945907892-1950907892",
+		"category": "Noncoding",
+		"value": 2304
+	},
+	{
+		"coord": "1945907892-1950907892",
+		"category": "Coding",
+		"value": 311
+	},
+	{
+		"coord": "1825907892-1830907892",
+		"category": "Noncoding",
+		"value": 941
+	},
+	{
+		"coord": "1825907892-1830907892",
+		"category": "Coding",
+		"value": 179
+	},
+	{
+		"coord": "1830907892-1835907892",
+		"category": "Noncoding",
+		"value": 1702
+	},
+	{
+		"coord": "1830907892-1835907892",
+		"category": "Coding",
+		"value": 336
+	},
+	{
+		"coord": "1835907892-1840907892",
+		"category": "Noncoding",
+		"value": 814
+	},
+	{
+		"coord": "1835907892-1840907892",
+		"category": "Coding",
+		"value": 129
+	},
+	{
+		"coord": "1840907892-1845907892",
+		"category": "Noncoding",
+		"value": 2
+	},
+	{
+		"coord": "1840907892-1845907892",
+		"category": "Coding",
+		"value": 2
+	},
+	{
+		"coord": "1845907892-1850907892",
+		"category": "Noncoding",
+		"value": 1869
+	},
+	{
+		"coord": "1845907892-1850907892",
+		"category": "Coding",
+		"value": 324
+	},
+	{
+		"coord": "1850907892-1855907892",
+		"category": "Noncoding",
+		"value": 888
+	},
+	{
+		"coord": "1850907892-1855907892",
+		"category": "Coding",
+		"value": 76
+	},
+	{
+		"coord": "1855907892-1860907892",
+		"category": "Noncoding",
+		"value": 1404
+	},
+	{
+		"coord": "1855907892-1860907892",
+		"category": "Coding",
+		"value": 111
+	},
+	{
+		"coord": "1950914408-1955914408",
+		"category": "Noncoding",
+		"value": 1543
+	},
+	{
+		"coord": "1950914408-1955914408",
+		"category": "Coding",
+		"value": 280
+	},
+	{
+		"coord": "1995914408-2000914408",
+		"category": "Noncoding",
+		"value": 644
+	},
+	{
+		"coord": "1995914408-2000914408",
+		"category": "Coding",
+		"value": 325
+	},
+	{
+		"coord": "2000914408-2005914408",
+		"category": "Noncoding",
+		"value": 1925
+	},
+	{
+		"coord": "2000914408-2005914408",
+		"category": "Coding",
+		"value": 657
+	},
+	{
+		"coord": "2005914408-2010914408",
+		"category": "Noncoding",
+		"value": 1686
+	},
+	{
+		"coord": "2005914408-2010914408",
+		"category": "Coding",
+		"value": 740
+	},
+	{
+		"coord": "2010914408-2015914408",
+		"category": "Noncoding",
+		"value": 47
+	},
+	{
+		"coord": "2010914408-2015914408",
+		"category": "Coding",
+		"value": 6
+	},
+	{
+		"coord": "2015914408-2020914408",
+		"category": "Noncoding",
+		"value": 1266
+	},
+	{
+		"coord": "2015914408-2020914408",
+		"category": "Coding",
+		"value": 112
+	},
+	{
+		"coord": "2020914408-2025914408",
+		"category": "Noncoding",
+		"value": 1170
+	},
+	{
+		"coord": "2020914408-2025914408",
+		"category": "Coding",
+		"value": 172
+	},
+	{
+		"coord": "2025914408-2030914408",
+		"category": "Noncoding",
+		"value": 413
+	},
+	{
+		"coord": "2025914408-2030914408",
+		"category": "Coding",
+		"value": 51
+	},
+	{
+		"coord": "2030914408-2035914408",
+		"category": "Noncoding",
+		"value": 863
+	},
+	{
+		"coord": "2030914408-2035914408",
+		"category": "Coding",
+		"value": 79
+	},
+	{
+		"coord": "2035914408-2040914408",
+		"category": "Noncoding",
+		"value": 257
+	},
+	{
+		"coord": "2035914408-2040914408",
+		"category": "Coding",
+		"value": 73
+	},
+	{
+		"coord": "2040914408-2045914408",
+		"category": "Noncoding",
+		"value": 743
+	},
+	{
+		"coord": "2040914408-2045914408",
+		"category": "Coding",
+		"value": 81
+	},
+	{
+		"coord": "1955914408-1960914408",
+		"category": "Noncoding",
+		"value": 1160
+	},
+	{
+		"coord": "1955914408-1960914408",
+		"category": "Coding",
+		"value": 539
+	},
+	{
+		"coord": "2045914408-2050914408",
+		"category": "Noncoding",
+		"value": 667
+	},
+	{
+		"coord": "2045914408-2050914408",
+		"category": "Coding",
+		"value": 115
+	},
+	{
+		"coord": "2050914408-2055914408",
+		"category": "Noncoding",
+		"value": 836
+	},
+	{
+		"coord": "2050914408-2055914408",
+		"category": "Coding",
+		"value": 311
+	},
+	{
+		"coord": "2055914408-2060914408",
+		"category": "Noncoding",
+		"value": 818
+	},
+	{
+		"coord": "2055914408-2060914408",
+		"category": "Coding",
+		"value": 387
+	},
+	{
+		"coord": "2060914408-2065914408",
+		"category": "Noncoding",
+		"value": 1048
+	},
+	{
+		"coord": "2060914408-2065914408",
+		"category": "Coding",
+		"value": 451
+	},
+	{
+		"coord": "2065914408-2070914408",
+		"category": "Noncoding",
+		"value": 1588
+	},
+	{
+		"coord": "2065914408-2070914408",
+		"category": "Coding",
+		"value": 228
+	},
+	{
+		"coord": "2070914408-2075914408",
+		"category": "Noncoding",
+		"value": 1490
+	},
+	{
+		"coord": "2070914408-2075914408",
+		"category": "Coding",
+		"value": 717
+	},
+	{
+		"coord": "2075914408-2080914408",
+		"category": "Noncoding",
+		"value": 468
+	},
+	{
+		"coord": "2075914408-2080914408",
+		"category": "Coding",
+		"value": 93
+	},
+	{
+		"coord": "2080914408-2084766302",
+		"category": "Noncoding",
+		"value": 876
+	},
+	{
+		"coord": "2080914408-2084766302",
+		"category": "Coding",
+		"value": 296
+	},
+	{
+		"coord": "1960914408-1965914408",
+		"category": "Noncoding",
+		"value": 1621
+	},
+	{
+		"coord": "1960914408-1965914408",
+		"category": "Coding",
+		"value": 209
+	},
+	{
+		"coord": "1965914408-1970914408",
+		"category": "Noncoding",
+		"value": 1106
+	},
+	{
+		"coord": "1965914408-1970914408",
+		"category": "Coding",
+		"value": 153
+	},
+	{
+		"coord": "1970914408-1975914408",
+		"category": "Noncoding",
+		"value": 1844
+	},
+	{
+		"coord": "1970914408-1975914408",
+		"category": "Coding",
+		"value": 186
+	},
+	{
+		"coord": "1975914408-1980914408",
+		"category": "Noncoding",
+		"value": 983
+	},
+	{
+		"coord": "1975914408-1980914408",
+		"category": "Coding",
+		"value": 176
+	},
+	{
+		"coord": "1980914408-1985914408",
+		"category": "Noncoding",
+		"value": 703
+	},
+	{
+		"coord": "1980914408-1985914408",
+		"category": "Coding",
+		"value": 96
+	},
+	{
+		"coord": "1985914408-1990914408",
+		"category": "Noncoding",
+		"value": 72
+	},
+	{
+		"coord": "1985914408-1990914408",
+		"category": "Coding",
+		"value": 31
+	},
+	{
+		"coord": "1990914408-1995914408",
+		"category": "Noncoding",
+		"value": 1028
+	},
+	{
+		"coord": "1990914408-1995914408",
+		"category": "Coding",
+		"value": 206
+	},
+	{
+		"coord": "2129766303-2134766303",
+		"category": "Noncoding",
+		"value": 1110
+	},
+	{
+		"coord": "2129766303-2134766303",
+		"category": "Coding",
+		"value": 135
+	},
+	{
+		"coord": "2134766303-2139766303",
+		"category": "Noncoding",
+		"value": 1008
+	},
+	{
+		"coord": "2134766303-2139766303",
+		"category": "Coding",
+		"value": 99
+	},
+	{
+		"coord": "2154766303-2159766303",
+		"category": "Noncoding",
+		"value": 1599
+	},
+	{
+		"coord": "2154766303-2159766303",
+		"category": "Coding",
+		"value": 71
+	},
+	{
+		"coord": "2159766303-2164766303",
+		"category": "Noncoding",
+		"value": 1624
+	},
+	{
+		"coord": "2159766303-2164766303",
+		"category": "Coding",
+		"value": 313
+	},
+	{
+		"coord": "2164766303-2169766303",
+		"category": "Noncoding",
+		"value": 270
+	},
+	{
+		"coord": "2164766303-2169766303",
+		"category": "Coding",
+		"value": 78
+	},
+	{
+		"coord": "2174766303-2179766303",
+		"category": "Noncoding",
+		"value": 746
+	},
+	{
+		"coord": "2174766303-2179766303",
+		"category": "Coding",
+		"value": 13
+	},
+	{
+		"coord": "2179766303-2184766303",
+		"category": "Noncoding",
+		"value": 850
+	},
+	{
+		"coord": "2179766303-2184766303",
+		"category": "Coding",
+		"value": 118
+	},
+	{
+		"coord": "2184766303-2189766303",
+		"category": "Noncoding",
+		"value": 1672
+	},
+	{
+		"coord": "2184766303-2189766303",
+		"category": "Coding",
+		"value": 165
+	},
+	{
+		"coord": "2189766303-2194766303",
+		"category": "Noncoding",
+		"value": 1214
+	},
+	{
+		"coord": "2189766303-2194766303",
+		"category": "Coding",
+		"value": 54
+	},
+	{
+		"coord": "2194766303-2199766303",
+		"category": "Noncoding",
+		"value": 792
+	},
+	{
+		"coord": "2194766303-2199766303",
+		"category": "Coding",
+		"value": 270
+	},
+	{
+		"coord": "2199766303-2199936180",
+		"category": "Noncoding",
+		"value": 44
+	},
+	{
+		"coord": "2199766303-2199936180",
+		"category": "Coding",
+		"value": 21
+	},
+	{
+		"coord": "2104766303-2109766303",
+		"category": "Noncoding",
+		"value": 1187
+	},
+	{
+		"coord": "2104766303-2109766303",
+		"category": "Coding",
+		"value": 204
+	},
+	{
+		"coord": "2109766303-2114766303",
+		"category": "Noncoding",
+		"value": 1222
+	},
+	{
+		"coord": "2109766303-2114766303",
+		"category": "Coding",
+		"value": 210
+	},
+	{
+		"coord": "2114766303-2119766303",
+		"category": "Noncoding",
+		"value": 1372
+	},
+	{
+		"coord": "2114766303-2119766303",
+		"category": "Coding",
+		"value": 195
+	},
+	{
+		"coord": "2119766303-2124766303",
+		"category": "Noncoding",
+		"value": 985
+	},
+	{
+		"coord": "2119766303-2124766303",
+		"category": "Coding",
+		"value": 160
+	},
+	{
+		"coord": "2124766303-2129766303",
+		"category": "Noncoding",
+		"value": 1682
+	},
+	{
+		"coord": "2124766303-2129766303",
+		"category": "Coding",
+		"value": 260
+	},
+	{
+		"coord": "2244936181-2249936181",
+		"category": "Noncoding",
+		"value": 1008
+	},
+	{
+		"coord": "2244936181-2249936181",
+		"category": "Coding",
+		"value": 39
+	},
+	{
+		"coord": "2249936181-2254936181",
+		"category": "Noncoding",
+		"value": 1202
+	},
+	{
+		"coord": "2249936181-2254936181",
+		"category": "Coding",
+		"value": 291
+	},
+	{
+		"coord": "2254936181-2259936181",
+		"category": "Noncoding",
+		"value": 1766
+	},
+	{
+		"coord": "2254936181-2259936181",
+		"category": "Coding",
+		"value": 231
+	},
+	{
+		"coord": "2259936181-2264936181",
+		"category": "Noncoding",
+		"value": 872
+	},
+	{
+		"coord": "2259936181-2264936181",
+		"category": "Coding",
+		"value": 153
+	},
+	{
+		"coord": "2264936181-2269936181",
+		"category": "Noncoding",
+		"value": 1634
+	},
+	{
+		"coord": "2264936181-2269936181",
+		"category": "Coding",
+		"value": 264
+	},
+	{
+		"coord": "2269936181-2274936181",
+		"category": "Noncoding",
+		"value": 1128
+	},
+	{
+		"coord": "2269936181-2274936181",
+		"category": "Coding",
+		"value": 265
+	},
+	{
+		"coord": "2274936181-2279936181",
+		"category": "Noncoding",
+		"value": 1779
+	},
+	{
+		"coord": "2274936181-2279936181",
+		"category": "Coding",
+		"value": 326
+	},
+	{
+		"coord": "2279936181-2284936181",
+		"category": "Noncoding",
+		"value": 1835
+	},
+	{
+		"coord": "2279936181-2284936181",
+		"category": "Coding",
+		"value": 70
+	},
+	{
+		"coord": "2284936181-2289936181",
+		"category": "Noncoding",
+		"value": 1431
+	},
+	{
+		"coord": "2284936181-2289936181",
+		"category": "Coding",
+		"value": 183
+	},
+	{
+		"coord": "2289936181-2294936181",
+		"category": "Noncoding",
+		"value": 1233
+	},
+	{
+		"coord": "2289936181-2294936181",
+		"category": "Coding",
+		"value": 323
+	},
+	{
+		"coord": "2294936181-2299936181",
+		"category": "Noncoding",
+		"value": 899
+	},
+	{
+		"coord": "2294936181-2299936181",
+		"category": "Coding",
+		"value": 178
+	},
+	{
+		"coord": "2299936181-2304936181",
+		"category": "Noncoding",
+		"value": 828
+	},
+	{
+		"coord": "2299936181-2304936181",
+		"category": "Coding",
+		"value": 339
+	},
+	{
+		"coord": "2304936181-2307285720",
+		"category": "Noncoding",
+		"value": 267
+	},
+	{
+		"coord": "2304936181-2307285720",
+		"category": "Coding",
+		"value": 202
+	},
+	{
+		"coord": "2219936181-2224936181",
+		"category": "Noncoding",
+		"value": 1239
+	},
+	{
+		"coord": "2219936181-2224936181",
+		"category": "Coding",
+		"value": 798
+	},
+	{
+		"coord": "2224936181-2229936181",
+		"category": "Noncoding",
+		"value": 1230
+	},
+	{
+		"coord": "2224936181-2229936181",
+		"category": "Coding",
+		"value": 40
+	},
+	{
+		"coord": "2229936181-2234936181",
+		"category": "Noncoding",
+		"value": 2115
+	},
+	{
+		"coord": "2229936181-2234936181",
+		"category": "Coding",
+		"value": 192
+	},
+	{
+		"coord": "2234936181-2239936181",
+		"category": "Noncoding",
+		"value": 1698
+	},
+	{
+		"coord": "2234936181-2239936181",
+		"category": "Coding",
+		"value": 245
+	},
+	{
+		"coord": "2239936181-2244936181",
+		"category": "Noncoding",
+		"value": 947
+	},
+	{
+		"coord": "2239936181-2244936181",
+		"category": "Coding",
+		"value": 45
+	},
+	{
+		"coord": "2352285721-2357285721",
+		"category": "Noncoding",
+		"value": 1767
+	},
+	{
+		"coord": "2352285721-2357285721",
+		"category": "Coding",
+		"value": 273
+	},
+	{
+		"coord": "2357285721-2362285721",
+		"category": "Noncoding",
+		"value": 1572
+	},
+	{
+		"coord": "2357285721-2362285721",
+		"category": "Coding",
+		"value": 282
+	},
+	{
+		"coord": "2362285721-2367285721",
+		"category": "Noncoding",
+		"value": 841
+	},
+	{
+		"coord": "2362285721-2367285721",
+		"category": "Coding",
+		"value": 181
+	},
+	{
+		"coord": "2367285721-2372285721",
+		"category": "Noncoding",
+		"value": 2461
+	},
+	{
+		"coord": "2367285721-2372285721",
+		"category": "Coding",
+		"value": 338
+	},
+	{
+		"coord": "2372285721-2377285721",
+		"category": "Noncoding",
+		"value": 1671
+	},
+	{
+		"coord": "2372285721-2377285721",
+		"category": "Coding",
+		"value": 429
+	},
+	{
+		"coord": "2377285721-2382285721",
+		"category": "Noncoding",
+		"value": 1272
+	},
+	{
+		"coord": "2377285721-2382285721",
+		"category": "Coding",
+		"value": 315
+	},
+	{
+		"coord": "2382285721-2387285721",
+		"category": "Noncoding",
+		"value": 1043
+	},
+	{
+		"coord": "2382285721-2387285721",
+		"category": "Coding",
+		"value": 368
+	},
+	{
+		"coord": "2387285721-2392285721",
+		"category": "Noncoding",
+		"value": 1018
+	},
+	{
+		"coord": "2387285721-2392285721",
+		"category": "Coding",
+		"value": 259
+	},
+	{
+		"coord": "2392285721-2397285721",
+		"category": "Noncoding",
+		"value": 829
+	},
+	{
+		"coord": "2392285721-2397285721",
+		"category": "Coding",
+		"value": 214
+	},
+	{
+		"coord": "2397285721-2402285721",
+		"category": "Noncoding",
+		"value": 1189
+	},
+	{
+		"coord": "2397285721-2402285721",
+		"category": "Coding",
+		"value": 328
+	},
+	{
+		"coord": "2402285721-2407285721",
+		"category": "Noncoding",
+		"value": 215
+	},
+	{
+		"coord": "2402285721-2407285721",
+		"category": "Coding",
+		"value": 24
+	},
+	{
+		"coord": "2407285721-2409817112",
+		"category": "Noncoding",
+		"value": 733
+	},
+	{
+		"coord": "2407285721-2409817112",
+		"category": "Coding",
+		"value": 107
+	},
+	{
+		"coord": "2327285721-2332285721",
+		"category": "Noncoding",
+		"value": 74
+	},
+	{
+		"coord": "2327285721-2332285721",
+		"category": "Coding",
+		"value": 58
+	},
+	{
+		"coord": "2332285721-2337285721",
+		"category": "Noncoding",
+		"value": 604
+	},
+	{
+		"coord": "2332285721-2337285721",
+		"category": "Coding",
+		"value": 130
+	},
+	{
+		"coord": "2337285721-2342285721",
+		"category": "Noncoding",
+		"value": 517
+	},
+	{
+		"coord": "2337285721-2342285721",
+		"category": "Coding",
+		"value": 152
+	},
+	{
+		"coord": "2342285721-2347285721",
+		"category": "Noncoding",
+		"value": 1674
+	},
+	{
+		"coord": "2342285721-2347285721",
+		"category": "Coding",
+		"value": 176
+	},
+	{
+		"coord": "2347285721-2352285721",
+		"category": "Noncoding",
+		"value": 2076
+	},
+	{
+		"coord": "2347285721-2352285721",
+		"category": "Coding",
+		"value": 845
+	},
+	{
+		"coord": "2409817113-2414817113",
+		"category": "Noncoding",
+		"value": 1596
+	},
+	{
+		"coord": "2409817113-2414817113",
+		"category": "Coding",
+		"value": 1277
+	},
+	{
+		"coord": "2454817113-2459817113",
+		"category": "Noncoding",
+		"value": 625
+	},
+	{
+		"coord": "2454817113-2459817113",
+		"category": "Coding",
+		"value": 104
+	},
+	{
+		"coord": "2459817113-2464817113",
+		"category": "Noncoding",
+		"value": 1796
+	},
+	{
+		"coord": "2459817113-2464817113",
+		"category": "Coding",
+		"value": 335
+	},
+	{
+		"coord": "2464817113-2469817113",
+		"category": "Noncoding",
+		"value": 1774
+	},
+	{
+		"coord": "2464817113-2469817113",
+		"category": "Coding",
+		"value": 598
+	},
+	{
+		"coord": "2469817113-2474817113",
+		"category": "Noncoding",
+		"value": 619
+	},
+	{
+		"coord": "2469817113-2474817113",
+		"category": "Coding",
+		"value": 34
+	},
+	{
+		"coord": "2474817113-2479817113",
+		"category": "Noncoding",
+		"value": 1443
+	},
+	{
+		"coord": "2474817113-2479817113",
+		"category": "Coding",
+		"value": 664
+	},
+	{
+		"coord": "2479817113-2484817113",
+		"category": "Noncoding",
+		"value": 956
+	},
+	{
+		"coord": "2479817113-2484817113",
+		"category": "Coding",
+		"value": 368
+	},
+	{
+		"coord": "2484817113-2489817113",
+		"category": "Noncoding",
+		"value": 1719
+	},
+	{
+		"coord": "2484817113-2489817113",
+		"category": "Coding",
+		"value": 137
+	},
+	{
+		"coord": "2489817113-2494817113",
+		"category": "Noncoding",
+		"value": 1218
+	},
+	{
+		"coord": "2489817113-2494817113",
+		"category": "Coding",
+		"value": 207
+	},
+	{
+		"coord": "2494817113-2499817113",
+		"category": "Noncoding",
+		"value": 777
+	},
+	{
+		"coord": "2494817113-2499817113",
+		"category": "Coding",
+		"value": 464
+	},
+	{
+		"coord": "2499817113-2500171865",
+		"category": "Noncoding",
+		"value": 76
+	},
+	{
+		"coord": "2499817113-2500171865",
+		"category": "Coding",
+		"value": 25
+	},
+	{
+		"coord": "2414817113-2419817113",
+		"category": "Noncoding",
+		"value": 2088
+	},
+	{
+		"coord": "2414817113-2419817113",
+		"category": "Coding",
+		"value": 141
+	},
+	{
+		"coord": "2419817113-2424817113",
+		"category": "Noncoding",
+		"value": 867
+	},
+	{
+		"coord": "2419817113-2424817113",
+		"category": "Coding",
+		"value": 180
+	},
+	{
+		"coord": "2424817113-2429817113",
+		"category": "Noncoding",
+		"value": 548
+	},
+	{
+		"coord": "2424817113-2429817113",
+		"category": "Coding",
+		"value": 327
+	},
+	{
+		"coord": "2429817113-2434817113",
+		"category": "Noncoding",
+		"value": 1019
+	},
+	{
+		"coord": "2429817113-2434817113",
+		"category": "Coding",
+		"value": 462
+	},
+	{
+		"coord": "2434817113-2439817113",
+		"category": "Noncoding",
+		"value": 837
+	},
+	{
+		"coord": "2434817113-2439817113",
+		"category": "Coding",
+		"value": 420
+	},
+	{
+		"coord": "2439817113-2444817113",
+		"category": "Noncoding",
+		"value": 347
+	},
+	{
+		"coord": "2439817113-2444817113",
+		"category": "Coding",
+		"value": 354
+	},
+	{
+		"coord": "2500171866-2505171866",
+		"category": "Noncoding",
+		"value": 2127
+	},
+	{
+		"coord": "2500171866-2505171866",
+		"category": "Coding",
+		"value": 829
+	},
+	{
+		"coord": "2545171866-2550171866",
+		"category": "Noncoding",
+		"value": 2329
+	},
+	{
+		"coord": "2545171866-2550171866",
+		"category": "Coding",
+		"value": 556
+	},
+	{
+		"coord": "2550171866-2555171866",
+		"category": "Noncoding",
+		"value": 462
+	},
+	{
+		"coord": "2550171866-2555171866",
+		"category": "Coding",
+		"value": 48
+	},
+	{
+		"coord": "2555171866-2560171866",
+		"category": "Noncoding",
+		"value": 2178
+	},
+	{
+		"coord": "2555171866-2560171866",
+		"category": "Coding",
+		"value": 396
+	},
+	{
+		"coord": "2560171866-2565171866",
+		"category": "Noncoding",
+		"value": 1212
+	},
+	{
+		"coord": "2560171866-2565171866",
+		"category": "Coding",
+		"value": 398
+	},
+	{
+		"coord": "2565171866-2570171866",
+		"category": "Noncoding",
+		"value": 897
+	},
+	{
+		"coord": "2565171866-2570171866",
+		"category": "Coding",
+		"value": 159
+	},
+	{
+		"coord": "2570171866-2575171866",
+		"category": "Noncoding",
+		"value": 1448
+	},
+	{
+		"coord": "2570171866-2575171866",
+		"category": "Coding",
+		"value": 694
+	},
+	{
+		"coord": "2575171866-2580171866",
+		"category": "Noncoding",
+		"value": 1593
+	},
+	{
+		"coord": "2575171866-2580171866",
+		"category": "Coding",
+		"value": 778
+	},
+	{
+		"coord": "2580171866-2581367075",
+		"category": "Noncoding",
+		"value": 161
+	},
+	{
+		"coord": "2580171866-2581367075",
+		"category": "Coding",
+		"value": 113
+	},
+	{
+		"coord": "2505171866-2510171866",
+		"category": "Noncoding",
+		"value": 1897
+	},
+	{
+		"coord": "2505171866-2510171866",
+		"category": "Coding",
+		"value": 1071
+	},
+	{
+		"coord": "2510171866-2515171866",
+		"category": "Noncoding",
+		"value": 1093
+	},
+	{
+		"coord": "2510171866-2515171866",
+		"category": "Coding",
+		"value": 220
+	},
+	{
+		"coord": "2515171866-2520171866",
+		"category": "Noncoding",
+		"value": 1213
+	},
+	{
+		"coord": "2515171866-2520171866",
+		"category": "Coding",
+		"value": 383
+	},
+	{
+		"coord": "2520171866-2525171866",
+		"category": "Noncoding",
+		"value": 110
+	},
+	{
+		"coord": "2520171866-2525171866",
+		"category": "Coding",
+		"value": 16
+	},
+	{
+		"coord": "2525171866-2530171866",
+		"category": "Noncoding",
+		"value": 1761
+	},
+	{
+		"coord": "2525171866-2530171866",
+		"category": "Coding",
+		"value": 610
+	},
+	{
+		"coord": "2530171866-2535171866",
+		"category": "Noncoding",
+		"value": 1055
+	},
+	{
+		"coord": "2530171866-2535171866",
+		"category": "Coding",
+		"value": 317
+	},
+	{
+		"coord": "2535171866-2540171866",
+		"category": "Noncoding",
+		"value": 2012
+	},
+	{
+		"coord": "2535171866-2540171866",
+		"category": "Coding",
+		"value": 711
+	},
+	{
+		"coord": "2540171866-2545171866",
+		"category": "Noncoding",
+		"value": 1396
+	},
+	{
+		"coord": "2540171866-2545171866",
+		"category": "Coding",
+		"value": 961
+	},
+	{
+		"coord": "2581367076-2586367076",
+		"category": "Noncoding",
+		"value": 1077
+	},
+	{
+		"coord": "2581367076-2586367076",
+		"category": "Coding",
+		"value": 173
+	},
+	{
+		"coord": "2626367076-2631367076",
+		"category": "Noncoding",
+		"value": 1483
+	},
+	{
+		"coord": "2626367076-2631367076",
+		"category": "Coding",
+		"value": 152
+	},
+	{
+		"coord": "2631367076-2636367076",
+		"category": "Noncoding",
+		"value": 1328
+	},
+	{
+		"coord": "2631367076-2636367076",
+		"category": "Coding",
+		"value": 118
+	},
+	{
+		"coord": "2636367076-2641367076",
+		"category": "Noncoding",
+		"value": 853
+	},
+	{
+		"coord": "2636367076-2641367076",
+		"category": "Coding",
+		"value": 129
+	},
+	{
+		"coord": "2641367076-2646367076",
+		"category": "Noncoding",
+		"value": 1409
+	},
+	{
+		"coord": "2641367076-2646367076",
+		"category": "Coding",
+		"value": 123
+	},
+	{
+		"coord": "2646367076-2651367076",
+		"category": "Noncoding",
+		"value": 555
+	},
+	{
+		"coord": "2646367076-2651367076",
+		"category": "Coding",
+		"value": 42
+	},
+	{
+		"coord": "2651367076-2656367076",
+		"category": "Noncoding",
+		"value": 684
+	},
+	{
+		"coord": "2651367076-2656367076",
+		"category": "Coding",
+		"value": 126
+	},
+	{
+		"coord": "2656367076-2659444323",
+		"category": "Noncoding",
+		"value": 908
+	},
+	{
+		"coord": "2656367076-2659444323",
+		"category": "Coding",
+		"value": 84
+	},
+	{
+		"coord": "2586367076-2591367076",
+		"category": "Noncoding",
+		"value": 1541
+	},
+	{
+		"coord": "2586367076-2591367076",
+		"category": "Coding",
+		"value": 189
+	},
+	{
+		"coord": "2591367076-2596367076",
+		"category": "Noncoding",
+		"value": 288
+	},
+	{
+		"coord": "2591367076-2596367076",
+		"category": "Coding",
+		"value": 135
+	},
+	{
+		"coord": "2596367076-2601367076",
+		"category": "Noncoding",
+		"value": 776
+	},
+	{
+		"coord": "2596367076-2601367076",
+		"category": "Coding",
+		"value": 86
+	},
+	{
+		"coord": "2601367076-2606367076",
+		"category": "Noncoding",
+		"value": 2367
+	},
+	{
+		"coord": "2601367076-2606367076",
+		"category": "Coding",
+		"value": 259
+	},
+	{
+		"coord": "2606367076-2611367076",
+		"category": "Noncoding",
+		"value": 295
+	},
+	{
+		"coord": "2606367076-2611367076",
+		"category": "Coding",
+		"value": 134
+	},
+	{
+		"coord": "2611367076-2616367076",
+		"category": "Noncoding",
+		"value": 1538
+	},
+	{
+		"coord": "2611367076-2616367076",
+		"category": "Coding",
+		"value": 149
+	},
+	{
+		"coord": "2616367076-2621367076",
+		"category": "Noncoding",
+		"value": 198
+	},
+	{
+		"coord": "2616367076-2621367076",
+		"category": "Coding",
+		"value": 19
+	},
+	{
+		"coord": "2621367076-2626367076",
+		"category": "Noncoding",
+		"value": 2237
+	},
+	{
+		"coord": "2621367076-2626367076",
+		"category": "Coding",
+		"value": 198
+	},
+	{
+		"coord": "2659444324-2664444324",
+		"category": "Noncoding",
+		"value": 757
+	},
+	{
+		"coord": "2659444324-2664444324",
+		"category": "Coding",
+		"value": 841
+	},
+	{
+		"coord": "2704444324-2709444324",
+		"category": "Noncoding",
+		"value": 1239
+	},
+	{
+		"coord": "2704444324-2709444324",
+		"category": "Coding",
+		"value": 945
+	},
+	{
+		"coord": "2709444324-2714444324",
+		"category": "Noncoding",
+		"value": 547
+	},
+	{
+		"coord": "2709444324-2714444324",
+		"category": "Coding",
+		"value": 568
+	},
+	{
+		"coord": "2714444324-2718573306",
+		"category": "Noncoding",
+		"value": 330
+	},
+	{
+		"coord": "2714444324-2718573306",
+		"category": "Coding",
+		"value": 348
+	},
+	{
+		"coord": "2664444324-2669444324",
+		"category": "Noncoding",
+		"value": 642
+	},
+	{
+		"coord": "2664444324-2669444324",
+		"category": "Coding",
+		"value": 615
+	},
+	{
+		"coord": "2669444324-2674444324",
+		"category": "Noncoding",
+		"value": 1005
+	},
+	{
+		"coord": "2669444324-2674444324",
+		"category": "Coding",
+		"value": 880
+	},
+	{
+		"coord": "2674444324-2679444324",
+		"category": "Noncoding",
+		"value": 827
+	},
+	{
+		"coord": "2674444324-2679444324",
+		"category": "Coding",
+		"value": 844
+	},
+	{
+		"coord": "2689444324-2694444324",
+		"category": "Noncoding",
+		"value": 1976
+	},
+	{
+		"coord": "2689444324-2694444324",
+		"category": "Coding",
+		"value": 286
+	},
+	{
+		"coord": "2694444324-2699444324",
+		"category": "Noncoding",
+		"value": 890
+	},
+	{
+		"coord": "2694444324-2699444324",
+		"category": "Coding",
+		"value": 826
+	},
+	{
+		"coord": "2699444324-2704444324",
+		"category": "Noncoding",
+		"value": 627
+	},
+	{
+		"coord": "2699444324-2704444324",
+		"category": "Coding",
+		"value": 511
+	},
+	{
+		"coord": "249250622-254250622",
+		"category": "Noncoding",
+		"value": 868
+	},
+	{
+		"coord": "249250622-254250622",
+		"category": "Coding",
+		"value": 133
+	},
+	{
+		"coord": "294250622-299250622",
+		"category": "Noncoding",
+		"value": 1852
+	},
+	{
+		"coord": "294250622-299250622",
+		"category": "Coding",
+		"value": 185
+	},
+	{
+		"coord": "299250622-304250622",
+		"category": "Noncoding",
+		"value": 884
+	},
+	{
+		"coord": "299250622-304250622",
+		"category": "Coding",
+		"value": 137
+	},
+	{
+		"coord": "304250622-309250622",
+		"category": "Noncoding",
+		"value": 1118
+	},
+	{
+		"coord": "304250622-309250622",
+		"category": "Coding",
+		"value": 150
+	},
+	{
+		"coord": "309250622-314250622",
+		"category": "Noncoding",
+		"value": 1446
+	},
+	{
+		"coord": "309250622-314250622",
+		"category": "Coding",
+		"value": 267
+	},
+	{
+		"coord": "314250622-319250622",
+		"category": "Noncoding",
+		"value": 1187
+	},
+	{
+		"coord": "314250622-319250622",
+		"category": "Coding",
+		"value": 98
+	},
+	{
+		"coord": "319250622-324250622",
+		"category": "Noncoding",
+		"value": 888
+	},
+	{
+		"coord": "319250622-324250622",
+		"category": "Coding",
+		"value": 330
+	},
+	{
+		"coord": "324250622-329250622",
+		"category": "Noncoding",
+		"value": 276
+	},
+	{
+		"coord": "324250622-329250622",
+		"category": "Coding",
+		"value": 52
+	},
+	{
+		"coord": "329250622-334250622",
+		"category": "Noncoding",
+		"value": 17
+	},
+	{
+		"coord": "329250622-334250622",
+		"category": "Coding",
+		"value": 8
+	},
+	{
+		"coord": "334250622-339250622",
+		"category": "Noncoding",
+		"value": 788
+	},
+	{
+		"coord": "334250622-339250622",
+		"category": "Coding",
+		"value": 243
+	},
+	{
+		"coord": "254250622-259250622",
+		"category": "Noncoding",
+		"value": 1472
+	},
+	{
+		"coord": "254250622-259250622",
+		"category": "Coding",
+		"value": 137
+	},
+	{
+		"coord": "344250622-349250622",
+		"category": "Noncoding",
+		"value": 780
+	},
+	{
+		"coord": "344250622-349250622",
+		"category": "Coding",
+		"value": 290
+	},
+	{
+		"coord": "349250622-354250622",
+		"category": "Noncoding",
+		"value": 1600
+	},
+	{
+		"coord": "349250622-354250622",
+		"category": "Coding",
+		"value": 263
+	},
+	{
+		"coord": "354250622-359250622",
+		"category": "Noncoding",
+		"value": 950
+	},
+	{
+		"coord": "354250622-359250622",
+		"category": "Coding",
+		"value": 105
+	},
+	{
+		"coord": "359250622-364250622",
+		"category": "Noncoding",
+		"value": 562
+	},
+	{
+		"coord": "359250622-364250622",
+		"category": "Coding",
+		"value": 167
+	},
+	{
+		"coord": "364250622-369250622",
+		"category": "Noncoding",
+		"value": 1139
+	},
+	{
+		"coord": "364250622-369250622",
+		"category": "Coding",
+		"value": 96
+	},
+	{
+		"coord": "369250622-374250622",
+		"category": "Noncoding",
+		"value": 1420
+	},
+	{
+		"coord": "369250622-374250622",
+		"category": "Coding",
+		"value": 224
+	},
+	{
+		"coord": "374250622-379250622",
+		"category": "Noncoding",
+		"value": 1023
+	},
+	{
+		"coord": "374250622-379250622",
+		"category": "Coding",
+		"value": 198
+	},
+	{
+		"coord": "379250622-384250622",
+		"category": "Noncoding",
+		"value": 808
+	},
+	{
+		"coord": "379250622-384250622",
+		"category": "Coding",
+		"value": 66
+	},
+	{
+		"coord": "384250622-389250622",
+		"category": "Noncoding",
+		"value": 1340
+	},
+	{
+		"coord": "384250622-389250622",
+		"category": "Coding",
+		"value": 165
+	},
+	{
+		"coord": "389250622-394250622",
+		"category": "Noncoding",
+		"value": 873
+	},
+	{
+		"coord": "389250622-394250622",
+		"category": "Coding",
+		"value": 28
+	},
+	{
+		"coord": "259250622-264250622",
+		"category": "Noncoding",
+		"value": 981
+	},
+	{
+		"coord": "259250622-264250622",
+		"category": "Coding",
+		"value": 225
+	},
+	{
+		"coord": "394250622-399250622",
+		"category": "Noncoding",
+		"value": 2447
+	},
+	{
+		"coord": "394250622-399250622",
+		"category": "Coding",
+		"value": 111
+	},
+	{
+		"coord": "399250622-404250622",
+		"category": "Noncoding",
+		"value": 1868
+	},
+	{
+		"coord": "399250622-404250622",
+		"category": "Coding",
+		"value": 304
+	},
+	{
+		"coord": "404250622-409250622",
+		"category": "Noncoding",
+		"value": 1590
+	},
+	{
+		"coord": "404250622-409250622",
+		"category": "Coding",
+		"value": 206
+	},
+	{
+		"coord": "409250622-414250622",
+		"category": "Noncoding",
+		"value": 1550
+	},
+	{
+		"coord": "409250622-414250622",
+		"category": "Coding",
+		"value": 268
+	},
+	{
+		"coord": "414250622-419250622",
+		"category": "Noncoding",
+		"value": 172
+	},
+	{
+		"coord": "414250622-419250622",
+		"category": "Coding",
+		"value": 64
+	},
+	{
+		"coord": "419250622-424250622",
+		"category": "Noncoding",
+		"value": 1327
+	},
+	{
+		"coord": "419250622-424250622",
+		"category": "Coding",
+		"value": 317
+	},
+	{
+		"coord": "424250622-429250622",
+		"category": "Noncoding",
+		"value": 1612
+	},
+	{
+		"coord": "424250622-429250622",
+		"category": "Coding",
+		"value": 410
+	},
+	{
+		"coord": "429250622-434250622",
+		"category": "Noncoding",
+		"value": 1683
+	},
+	{
+		"coord": "429250622-434250622",
+		"category": "Coding",
+		"value": 170
+	},
+	{
+		"coord": "434250622-439250622",
+		"category": "Noncoding",
+		"value": 448
+	},
+	{
+		"coord": "434250622-439250622",
+		"category": "Coding",
+		"value": 138
+	},
+	{
+		"coord": "439250622-444250622",
+		"category": "Noncoding",
+		"value": 985
+	},
+	{
+		"coord": "439250622-444250622",
+		"category": "Coding",
+		"value": 220
+	},
+	{
+		"coord": "264250622-269250622",
+		"category": "Noncoding",
+		"value": 929
+	},
+	{
+		"coord": "264250622-269250622",
+		"category": "Coding",
+		"value": 121
+	},
+	{
+		"coord": "444250622-449250622",
+		"category": "Noncoding",
+		"value": 772
+	},
+	{
+		"coord": "444250622-449250622",
+		"category": "Coding",
+		"value": 204
+	},
+	{
+		"coord": "449250622-454250622",
+		"category": "Noncoding",
+		"value": 786
+	},
+	{
+		"coord": "449250622-454250622",
+		"category": "Coding",
+		"value": 178
+	},
+	{
+		"coord": "454250622-459250622",
+		"category": "Noncoding",
+		"value": 1339
+	},
+	{
+		"coord": "454250622-459250622",
+		"category": "Coding",
+		"value": 194
+	},
+	{
+		"coord": "459250622-464250622",
+		"category": "Noncoding",
+		"value": 656
+	},
+	{
+		"coord": "459250622-464250622",
+		"category": "Coding",
+		"value": 136
+	},
+	{
+		"coord": "464250622-469250622",
+		"category": "Noncoding",
+		"value": 1631
+	},
+	{
+		"coord": "464250622-469250622",
+		"category": "Coding",
+		"value": 369
+	},
+	{
+		"coord": "469250622-474250622",
+		"category": "Noncoding",
+		"value": 1122
+	},
+	{
+		"coord": "469250622-474250622",
+		"category": "Coding",
+		"value": 357
+	},
+	{
+		"coord": "474250622-479250622",
+		"category": "Noncoding",
+		"value": 1671
+	},
+	{
+		"coord": "474250622-479250622",
+		"category": "Coding",
+		"value": 232
+	},
+	{
+		"coord": "479250622-484250622",
+		"category": "Noncoding",
+		"value": 1392
+	},
+	{
+		"coord": "479250622-484250622",
+		"category": "Coding",
+		"value": 391
+	},
+	{
+		"coord": "484250622-489250622",
+		"category": "Noncoding",
+		"value": 1678
+	},
+	{
+		"coord": "484250622-489250622",
+		"category": "Coding",
+		"value": 228
+	},
+	{
+		"coord": "489250622-492449994",
+		"category": "Noncoding",
+		"value": 559
+	},
+	{
+		"coord": "489250622-492449994",
+		"category": "Coding",
+		"value": 313
+	},
+	{
+		"coord": "269250622-274250622",
+		"category": "Noncoding",
+		"value": 1582
+	},
+	{
+		"coord": "269250622-274250622",
+		"category": "Coding",
+		"value": 208
+	},
+	{
+		"coord": "274250622-279250622",
+		"category": "Noncoding",
+		"value": 1405
+	},
+	{
+		"coord": "274250622-279250622",
+		"category": "Coding",
+		"value": 665
+	},
+	{
+		"coord": "279250622-284250622",
+		"category": "Noncoding",
+		"value": 1427
+	},
+	{
+		"coord": "279250622-284250622",
+		"category": "Coding",
+		"value": 279
+	},
+	{
+		"coord": "284250622-289250622",
+		"category": "Noncoding",
+		"value": 2106
+	},
+	{
+		"coord": "284250622-289250622",
+		"category": "Coding",
+		"value": 262
+	},
+	{
+		"coord": "289250622-294250622",
+		"category": "Noncoding",
+		"value": 1726
+	},
+	{
+		"coord": "289250622-294250622",
+		"category": "Coding",
+		"value": 282
+	},
+	{
+		"coord": "2718573307-2723573307",
+		"category": "Noncoding",
+		"value": 1136
+	},
+	{
+		"coord": "2718573307-2723573307",
+		"category": "Coding",
+		"value": 343
+	},
+	{
+		"coord": "2763573307-2768573307",
+		"category": "Noncoding",
+		"value": 485
+	},
+	{
+		"coord": "2763573307-2768573307",
+		"category": "Coding",
+		"value": 175
+	},
+	{
+		"coord": "2768573307-2773573307",
+		"category": "Noncoding",
+		"value": 778
+	},
+	{
+		"coord": "2768573307-2773573307",
+		"category": "Coding",
+		"value": 121
+	},
+	{
+		"coord": "2773573307-2778573307",
+		"category": "Noncoding",
+		"value": 1062
+	},
+	{
+		"coord": "2773573307-2778573307",
+		"category": "Coding",
+		"value": 240
+	},
+	{
+		"coord": "2778573307-2781598826",
+		"category": "Noncoding",
+		"value": 891
+	},
+	{
+		"coord": "2778573307-2781598826",
+		"category": "Coding",
+		"value": 539
+	},
+	{
+		"coord": "2723573307-2728573307",
+		"category": "Noncoding",
+		"value": 24
+	},
+	{
+		"coord": "2723573307-2728573307",
+		"category": "Coding",
+		"value": 6
+	},
+	{
+		"coord": "2733573307-2738573307",
+		"category": "Noncoding",
+		"value": 340
+	},
+	{
+		"coord": "2733573307-2738573307",
+		"category": "Coding",
+		"value": 26
+	},
+	{
+		"coord": "2738573307-2743573307",
+		"category": "Noncoding",
+		"value": 1185
+	},
+	{
+		"coord": "2738573307-2743573307",
+		"category": "Coding",
+		"value": 194
+	},
+	{
+		"coord": "2743573307-2748573307",
+		"category": "Noncoding",
+		"value": 268
+	},
+	{
+		"coord": "2743573307-2748573307",
+		"category": "Coding",
+		"value": 80
+	},
+	{
+		"coord": "2748573307-2753573307",
+		"category": "Noncoding",
+		"value": 1757
+	},
+	{
+		"coord": "2748573307-2753573307",
+		"category": "Coding",
+		"value": 474
+	},
+	{
+		"coord": "2753573307-2758573307",
+		"category": "Noncoding",
+		"value": 1080
+	},
+	{
+		"coord": "2753573307-2758573307",
+		"category": "Coding",
+		"value": 304
+	},
+	{
+		"coord": "2758573307-2763573307",
+		"category": "Noncoding",
+		"value": 1283
+	},
+	{
+		"coord": "2758573307-2763573307",
+		"category": "Coding",
+		"value": 370
+	},
+	{
+		"coord": "2826598827-2829728721",
+		"category": "Noncoding",
+		"value": 399
+	},
+	{
+		"coord": "2826598827-2829728721",
+		"category": "Coding",
+		"value": 429
+	},
+	{
+		"coord": "2796598827-2801598827",
+		"category": "Noncoding",
+		"value": 859
+	},
+	{
+		"coord": "2796598827-2801598827",
+		"category": "Coding",
+		"value": 114
+	},
+	{
+		"coord": "2801598827-2806598827",
+		"category": "Noncoding",
+		"value": 715
+	},
+	{
+		"coord": "2801598827-2806598827",
+		"category": "Coding",
+		"value": 53
+	},
+	{
+		"coord": "2806598827-2811598827",
+		"category": "Noncoding",
+		"value": 785
+	},
+	{
+		"coord": "2806598827-2811598827",
+		"category": "Coding",
+		"value": 52
+	},
+	{
+		"coord": "2811598827-2816598827",
+		"category": "Noncoding",
+		"value": 1326
+	},
+	{
+		"coord": "2811598827-2816598827",
+		"category": "Coding",
+		"value": 242
+	},
+	{
+		"coord": "2816598827-2821598827",
+		"category": "Noncoding",
+		"value": 1031
+	},
+	{
+		"coord": "2816598827-2821598827",
+		"category": "Coding",
+		"value": 185
+	},
+	{
+		"coord": "2821598827-2826598827",
+		"category": "Noncoding",
+		"value": 973
+	},
+	{
+		"coord": "2821598827-2826598827",
+		"category": "Coding",
+		"value": 222
+	},
+	{
+		"coord": "2874728722-2879728722",
+		"category": "Noncoding",
+		"value": 620
+	},
+	{
+		"coord": "2874728722-2879728722",
+		"category": "Coding",
+		"value": 230
+	},
+	{
+		"coord": "2879728722-2881033287",
+		"category": "Noncoding",
+		"value": 294
+	},
+	{
+		"coord": "2879728722-2881033287",
+		"category": "Coding",
+		"value": 406
+	},
+	{
+		"coord": "2844728722-2849728722",
+		"category": "Noncoding",
+		"value": 746
+	},
+	{
+		"coord": "2844728722-2849728722",
+		"category": "Coding",
+		"value": 229
+	},
+	{
+		"coord": "2849728722-2854728722",
+		"category": "Noncoding",
+		"value": 761
+	},
+	{
+		"coord": "2849728722-2854728722",
+		"category": "Coding",
+		"value": 331
+	},
+	{
+		"coord": "2854728722-2859728722",
+		"category": "Noncoding",
+		"value": 1062
+	},
+	{
+		"coord": "2854728722-2859728722",
+		"category": "Coding",
+		"value": 237
+	},
+	{
+		"coord": "2859728722-2864728722",
+		"category": "Noncoding",
+		"value": 1164
+	},
+	{
+		"coord": "2859728722-2864728722",
+		"category": "Coding",
+		"value": 368
+	},
+	{
+		"coord": "2864728722-2869728722",
+		"category": "Noncoding",
+		"value": 1004
+	},
+	{
+		"coord": "2864728722-2869728722",
+		"category": "Coding",
+		"value": 424
+	},
+	{
+		"coord": "2869728722-2874728722",
+		"category": "Noncoding",
+		"value": 1684
+	},
+	{
+		"coord": "2869728722-2874728722",
+		"category": "Coding",
+		"value": 397
+	},
+	{
+		"coord": "492449996-497449996",
+		"category": "Noncoding",
+		"value": 1513
+	},
+	{
+		"coord": "492449996-497449996",
+		"category": "Coding",
+		"value": 87
+	},
+	{
+		"coord": "537449996-542449996",
+		"category": "Noncoding",
+		"value": 1428
+	},
+	{
+		"coord": "537449996-542449996",
+		"category": "Coding",
+		"value": 861
+	},
+	{
+		"coord": "542449996-547449996",
+		"category": "Noncoding",
+		"value": 1814
+	},
+	{
+		"coord": "542449996-547449996",
+		"category": "Coding",
+		"value": 837
+	},
+	{
+		"coord": "547449996-552449996",
+		"category": "Noncoding",
+		"value": 1082
+	},
+	{
+		"coord": "547449996-552449996",
+		"category": "Coding",
+		"value": 263
+	},
+	{
+		"coord": "552449996-557449996",
+		"category": "Noncoding",
+		"value": 1272
+	},
+	{
+		"coord": "552449996-557449996",
+		"category": "Coding",
+		"value": 123
+	},
+	{
+		"coord": "557449996-562449996",
+		"category": "Noncoding",
+		"value": 612
+	},
+	{
+		"coord": "557449996-562449996",
+		"category": "Coding",
+		"value": 113
+	},
+	{
+		"coord": "562449996-567449996",
+		"category": "Noncoding",
+		"value": 1154
+	},
+	{
+		"coord": "562449996-567449996",
+		"category": "Coding",
+		"value": 54
+	},
+	{
+		"coord": "577449996-582449996",
+		"category": "Noncoding",
+		"value": 954
+	},
+	{
+		"coord": "577449996-582449996",
+		"category": "Coding",
+		"value": 116
+	},
+	{
+		"coord": "582449996-587449996",
+		"category": "Noncoding",
+		"value": 104
+	},
+	{
+		"coord": "582449996-587449996",
+		"category": "Coding",
+		"value": 8
+	},
+	{
+		"coord": "497449996-502449996",
+		"category": "Noncoding",
+		"value": 412
+	},
+	{
+		"coord": "497449996-502449996",
+		"category": "Coding",
+		"value": 190
+	},
+	{
+		"coord": "587449996-592449996",
+		"category": "Noncoding",
+		"value": 532
+	},
+	{
+		"coord": "587449996-592449996",
+		"category": "Coding",
+		"value": 72
+	},
+	{
+		"coord": "592449996-597449996",
+		"category": "Noncoding",
+		"value": 933
+	},
+	{
+		"coord": "592449996-597449996",
+		"category": "Coding",
+		"value": 221
+	},
+	{
+		"coord": "597449996-602449996",
+		"category": "Noncoding",
+		"value": 996
+	},
+	{
+		"coord": "597449996-602449996",
+		"category": "Coding",
+		"value": 180
+	},
+	{
+		"coord": "602449996-607449996",
+		"category": "Noncoding",
+		"value": 2027
+	},
+	{
+		"coord": "602449996-607449996",
+		"category": "Coding",
+		"value": 269
+	},
+	{
+		"coord": "607449996-612449996",
+		"category": "Noncoding",
+		"value": 2540
+	},
+	{
+		"coord": "607449996-612449996",
+		"category": "Coding",
+		"value": 101
+	},
+	{
+		"coord": "612449996-617449996",
+		"category": "Noncoding",
+		"value": 1524
+	},
+	{
+		"coord": "612449996-617449996",
+		"category": "Coding",
+		"value": 386
+	},
+	{
+		"coord": "617449996-622449996",
+		"category": "Noncoding",
+		"value": 813
+	},
+	{
+		"coord": "617449996-622449996",
+		"category": "Coding",
+		"value": 316
+	},
+	{
+		"coord": "622449996-627449996",
+		"category": "Noncoding",
+		"value": 1512
+	},
+	{
+		"coord": "622449996-627449996",
+		"category": "Coding",
+		"value": 373
+	},
+	{
+		"coord": "627449996-632449996",
+		"category": "Noncoding",
+		"value": 1551
+	},
+	{
+		"coord": "627449996-632449996",
+		"category": "Coding",
+		"value": 281
+	},
+	{
+		"coord": "632449996-637449996",
+		"category": "Noncoding",
+		"value": 1852
+	},
+	{
+		"coord": "632449996-637449996",
+		"category": "Coding",
+		"value": 179
+	},
+	{
+		"coord": "502449996-507449996",
+		"category": "Noncoding",
+		"value": 660
+	},
+	{
+		"coord": "502449996-507449996",
+		"category": "Coding",
+		"value": 297
+	},
+	{
+		"coord": "637449996-642449996",
+		"category": "Noncoding",
+		"value": 893
+	},
+	{
+		"coord": "637449996-642449996",
+		"category": "Coding",
+		"value": 118
+	},
+	{
+		"coord": "642449996-647449996",
+		"category": "Noncoding",
+		"value": 1012
+	},
+	{
+		"coord": "642449996-647449996",
+		"category": "Coding",
+		"value": 163
+	},
+	{
+		"coord": "647449996-652449996",
+		"category": "Noncoding",
+		"value": 982
+	},
+	{
+		"coord": "647449996-652449996",
+		"category": "Coding",
+		"value": 123
+	},
+	{
+		"coord": "652449996-657449996",
+		"category": "Noncoding",
+		"value": 542
+	},
+	{
+		"coord": "652449996-657449996",
+		"category": "Coding",
+		"value": 82
+	},
+	{
+		"coord": "657449996-662449996",
+		"category": "Noncoding",
+		"value": 625
+	},
+	{
+		"coord": "657449996-662449996",
+		"category": "Coding",
+		"value": 109
+	},
+	{
+		"coord": "662449996-667449996",
+		"category": "Noncoding",
+		"value": 1153
+	},
+	{
+		"coord": "662449996-667449996",
+		"category": "Coding",
+		"value": 142
+	},
+	{
+		"coord": "667449996-672449996",
+		"category": "Noncoding",
+		"value": 620
+	},
+	{
+		"coord": "667449996-672449996",
+		"category": "Coding",
+		"value": 53
+	},
+	{
+		"coord": "672449996-677449996",
+		"category": "Noncoding",
+		"value": 1852
+	},
+	{
+		"coord": "672449996-677449996",
+		"category": "Coding",
+		"value": 422
+	},
+	{
+		"coord": "677449996-682449996",
+		"category": "Noncoding",
+		"value": 1970
+	},
+	{
+		"coord": "677449996-682449996",
+		"category": "Coding",
+		"value": 230
+	},
+	{
+		"coord": "682449996-687449996",
+		"category": "Noncoding",
+		"value": 1371
+	},
+	{
+		"coord": "682449996-687449996",
+		"category": "Coding",
+		"value": 194
+	},
+	{
+		"coord": "507449996-512449996",
+		"category": "Noncoding",
+		"value": 1199
+	},
+	{
+		"coord": "507449996-512449996",
+		"category": "Coding",
+		"value": 186
+	},
+	{
+		"coord": "687449996-690472425",
+		"category": "Noncoding",
+		"value": 808
+	},
+	{
+		"coord": "687449996-690472425",
+		"category": "Coding",
+		"value": 255
+	},
+	{
+		"coord": "512449996-517449996",
+		"category": "Noncoding",
+		"value": 1331
+	},
+	{
+		"coord": "512449996-517449996",
+		"category": "Coding",
+		"value": 75
+	},
+	{
+		"coord": "517449996-522449996",
+		"category": "Noncoding",
+		"value": 1838
+	},
+	{
+		"coord": "517449996-522449996",
+		"category": "Coding",
+		"value": 121
+	},
+	{
+		"coord": "522449996-527449996",
+		"category": "Noncoding",
+		"value": 1265
+	},
+	{
+		"coord": "522449996-527449996",
+		"category": "Coding",
+		"value": 140
+	},
+	{
+		"coord": "527449996-532449996",
+		"category": "Noncoding",
+		"value": 1062
+	},
+	{
+		"coord": "527449996-532449996",
+		"category": "Coding",
+		"value": 183
+	},
+	{
+		"coord": "532449996-537449996",
+		"category": "Noncoding",
+		"value": 609
+	},
+	{
+		"coord": "532449996-537449996",
+		"category": "Coding",
+		"value": 158
+	},
+	{
+		"coord": "690472426-695472426",
+		"category": "Noncoding",
+		"value": 1089
+	},
+	{
+		"coord": "690472426-695472426",
+		"category": "Coding",
+		"value": 462
+	},
+	{
+		"coord": "735472426-740472426",
+		"category": "Noncoding",
+		"value": 430
+	},
+	{
+		"coord": "735472426-740472426",
+		"category": "Coding",
+		"value": 139
+	},
+	{
+		"coord": "740472426-745472426",
+		"category": "Noncoding",
+		"value": 258
+	},
+	{
+		"coord": "740472426-745472426",
+		"category": "Coding",
+		"value": 49
+	},
+	{
+		"coord": "745472426-750472426",
+		"category": "Noncoding",
+		"value": 1099
+	},
+	{
+		"coord": "745472426-750472426",
+		"category": "Coding",
+		"value": 192
+	},
+	{
+		"coord": "755472426-760472426",
+		"category": "Noncoding",
+		"value": 28
+	},
+	{
+		"coord": "755472426-760472426",
+		"category": "Coding",
+		"value": 7
+	},
+	{
+		"coord": "760472426-765472426",
+		"category": "Noncoding",
+		"value": 655
+	},
+	{
+		"coord": "760472426-765472426",
+		"category": "Coding",
+		"value": 123
+	},
+	{
+		"coord": "765472426-770472426",
+		"category": "Noncoding",
+		"value": 1108
+	},
+	{
+		"coord": "765472426-770472426",
+		"category": "Coding",
+		"value": 254
+	},
+	{
+		"coord": "770472426-775472426",
+		"category": "Noncoding",
+		"value": 1077
+	},
+	{
+		"coord": "770472426-775472426",
+		"category": "Coding",
+		"value": 163
+	},
+	{
+		"coord": "775472426-780472426",
+		"category": "Noncoding",
+		"value": 903
+	},
+	{
+		"coord": "775472426-780472426",
+		"category": "Coding",
+		"value": 117
+	},
+	{
+		"coord": "780472426-785472426",
+		"category": "Noncoding",
+		"value": 886
+	},
+	{
+		"coord": "780472426-785472426",
+		"category": "Coding",
+		"value": 26
+	},
+	{
+		"coord": "695472426-700472426",
+		"category": "Noncoding",
+		"value": 698
+	},
+	{
+		"coord": "695472426-700472426",
+		"category": "Coding",
+		"value": 205
+	},
+	{
+		"coord": "785472426-790472426",
+		"category": "Noncoding",
+		"value": 846
+	},
+	{
+		"coord": "785472426-790472426",
+		"category": "Coding",
+		"value": 70
+	},
+	{
+		"coord": "790472426-795472426",
+		"category": "Noncoding",
+		"value": 446
+	},
+	{
+		"coord": "790472426-795472426",
+		"category": "Coding",
+		"value": 83
+	},
+	{
+		"coord": "795472426-800472426",
+		"category": "Noncoding",
+		"value": 1653
+	},
+	{
+		"coord": "795472426-800472426",
+		"category": "Coding",
+		"value": 145
+	},
+	{
+		"coord": "800472426-805472426",
+		"category": "Noncoding",
+		"value": 1734
+	},
+	{
+		"coord": "800472426-805472426",
+		"category": "Coding",
+		"value": 177
+	},
+	{
+		"coord": "805472426-810472426",
+		"category": "Noncoding",
+		"value": 147
+	},
+	{
+		"coord": "805472426-810472426",
+		"category": "Coding",
+		"value": 25
+	},
+	{
+		"coord": "810472426-815472426",
+		"category": "Noncoding",
+		"value": 1157
+	},
+	{
+		"coord": "810472426-815472426",
+		"category": "Coding",
+		"value": 232
+	},
+	{
+		"coord": "815472426-820472426",
+		"category": "Noncoding",
+		"value": 976
+	},
+	{
+		"coord": "815472426-820472426",
+		"category": "Coding",
+		"value": 88
+	},
+	{
+		"coord": "820472426-825472426",
+		"category": "Noncoding",
+		"value": 858
+	},
+	{
+		"coord": "820472426-825472426",
+		"category": "Coding",
+		"value": 14
+	},
+	{
+		"coord": "825472426-830472426",
+		"category": "Noncoding",
+		"value": 1074
+	},
+	{
+		"coord": "825472426-830472426",
+		"category": "Coding",
+		"value": 98
+	},
+	{
+		"coord": "830472426-835472426",
+		"category": "Noncoding",
+		"value": 1114
+	},
+	{
+		"coord": "830472426-835472426",
+		"category": "Coding",
+		"value": 142
+	},
+	{
+		"coord": "835472426-840472426",
+		"category": "Noncoding",
+		"value": 1266
+	},
+	{
+		"coord": "835472426-840472426",
+		"category": "Coding",
+		"value": 170
+	},
+	{
+		"coord": "840472426-845472426",
+		"category": "Noncoding",
+		"value": 1570
+	},
+	{
+		"coord": "840472426-845472426",
+		"category": "Coding",
+		"value": 202
+	},
+	{
+		"coord": "845472426-850472426",
+		"category": "Noncoding",
+		"value": 921
+	},
+	{
+		"coord": "845472426-850472426",
+		"category": "Coding",
+		"value": 227
+	},
+	{
+		"coord": "850472426-855472426",
+		"category": "Noncoding",
+		"value": 1272
+	},
+	{
+		"coord": "850472426-855472426",
+		"category": "Coding",
+		"value": 104
+	},
+	{
+		"coord": "855472426-860472426",
+		"category": "Noncoding",
+		"value": 485
+	},
+	{
+		"coord": "855472426-860472426",
+		"category": "Coding",
+		"value": 29
+	},
+	{
+		"coord": "860472426-865472426",
+		"category": "Noncoding",
+		"value": 488
+	},
+	{
+		"coord": "860472426-865472426",
+		"category": "Coding",
+		"value": 139
+	},
+	{
+		"coord": "865472426-870472426",
+		"category": "Noncoding",
+		"value": 749
+	},
+	{
+		"coord": "865472426-870472426",
+		"category": "Coding",
+		"value": 147
+	},
+	{
+		"coord": "870472426-875472426",
+		"category": "Noncoding",
+		"value": 622
+	},
+	{
+		"coord": "870472426-875472426",
+		"category": "Coding",
+		"value": 106
+	},
+	{
+		"coord": "875472426-880472426",
+		"category": "Noncoding",
+		"value": 1231
+	},
+	{
+		"coord": "875472426-880472426",
+		"category": "Coding",
+		"value": 285
+	},
+	{
+		"coord": "705472426-710472426",
+		"category": "Noncoding",
+		"value": 603
+	},
+	{
+		"coord": "705472426-710472426",
+		"category": "Coding",
+		"value": 145
+	},
+	{
+		"coord": "710472426-715472426",
+		"category": "Noncoding",
+		"value": 177
+	},
+	{
+		"coord": "710472426-715472426",
+		"category": "Coding",
+		"value": 25
+	},
+	{
+		"coord": "715472426-720472426",
+		"category": "Noncoding",
+		"value": 749
+	},
+	{
+		"coord": "715472426-720472426",
+		"category": "Coding",
+		"value": 148
+	},
+	{
+		"coord": "720472426-725472426",
+		"category": "Noncoding",
+		"value": 1166
+	},
+	{
+		"coord": "720472426-725472426",
+		"category": "Coding",
+		"value": 32
+	},
+	{
+		"coord": "725472426-730472426",
+		"category": "Noncoding",
+		"value": 1547
+	},
+	{
+		"coord": "725472426-730472426",
+		"category": "Coding",
+		"value": 227
+	},
+	{
+		"coord": "730472426-735472426",
+		"category": "Noncoding",
+		"value": 884
+	},
+	{
+		"coord": "730472426-735472426",
+		"category": "Coding",
+		"value": 60
+	},
+	{
+		"coord": "881626702-886626702",
+		"category": "Noncoding",
+		"value": 670
+	},
+	{
+		"coord": "881626702-886626702",
+		"category": "Coding",
+		"value": 216
+	},
+	{
+		"coord": "931626702-936626702",
+		"category": "Noncoding",
+		"value": 646
+	},
+	{
+		"coord": "931626702-936626702",
+		"category": "Coding",
+		"value": 157
+	},
+	{
+		"coord": "936626702-941626702",
+		"category": "Noncoding",
+		"value": 1255
+	},
+	{
+		"coord": "936626702-941626702",
+		"category": "Coding",
+		"value": 145
+	},
+	{
+		"coord": "941626702-946626702",
+		"category": "Noncoding",
+		"value": 834
+	},
+	{
+		"coord": "941626702-946626702",
+		"category": "Coding",
+		"value": 162
+	},
+	{
+		"coord": "946626702-951626702",
+		"category": "Noncoding",
+		"value": 870
+	},
+	{
+		"coord": "946626702-951626702",
+		"category": "Coding",
+		"value": 138
+	},
+	{
+		"coord": "951626702-956626702",
+		"category": "Noncoding",
+		"value": 806
+	},
+	{
+		"coord": "951626702-956626702",
+		"category": "Coding",
+		"value": 222
+	},
+	{
+		"coord": "956626702-961626702",
+		"category": "Noncoding",
+		"value": 1612
+	},
+	{
+		"coord": "956626702-961626702",
+		"category": "Coding",
+		"value": 282
+	},
+	{
+		"coord": "961626702-966626702",
+		"category": "Noncoding",
+		"value": 1279
+	},
+	{
+		"coord": "961626702-966626702",
+		"category": "Coding",
+		"value": 102
+	},
+	{
+		"coord": "966626702-971626702",
+		"category": "Noncoding",
+		"value": 1510
+	},
+	{
+		"coord": "966626702-971626702",
+		"category": "Coding",
+		"value": 96
+	},
+	{
+		"coord": "971626702-976626702",
+		"category": "Noncoding",
+		"value": 932
+	},
+	{
+		"coord": "971626702-976626702",
+		"category": "Coding",
+		"value": 169
+	},
+	{
+		"coord": "886626702-891626702",
+		"category": "Noncoding",
+		"value": 505
+	},
+	{
+		"coord": "886626702-891626702",
+		"category": "Coding",
+		"value": 106
+	},
+	{
+		"coord": "976626702-981626702",
+		"category": "Noncoding",
+		"value": 540
+	},
+	{
+		"coord": "976626702-981626702",
+		"category": "Coding",
+		"value": 76
+	},
+	{
+		"coord": "981626702-986626702",
+		"category": "Noncoding",
+		"value": 789
+	},
+	{
+		"coord": "981626702-986626702",
+		"category": "Coding",
+		"value": 88
+	},
+	{
+		"coord": "986626702-991626702",
+		"category": "Noncoding",
+		"value": 406
+	},
+	{
+		"coord": "986626702-991626702",
+		"category": "Coding",
+		"value": 37
+	},
+	{
+		"coord": "991626702-996626702",
+		"category": "Noncoding",
+		"value": 1286
+	},
+	{
+		"coord": "991626702-996626702",
+		"category": "Coding",
+		"value": 160
+	},
+	{
+		"coord": "996626702-1001626702",
+		"category": "Noncoding",
+		"value": 1377
+	},
+	{
+		"coord": "996626702-1001626702",
+		"category": "Coding",
+		"value": 124
+	},
+	{
+		"coord": "1001626702-1006626702",
+		"category": "Noncoding",
+		"value": 1494
+	},
+	{
+		"coord": "1001626702-1006626702",
+		"category": "Coding",
+		"value": 134
+	},
+	{
+		"coord": "1006626702-1011626702",
+		"category": "Noncoding",
+		"value": 1171
+	},
+	{
+		"coord": "1006626702-1011626702",
+		"category": "Coding",
+		"value": 212
+	},
+	{
+		"coord": "1011626702-1016626702",
+		"category": "Noncoding",
+		"value": 1030
+	},
+	{
+		"coord": "1011626702-1016626702",
+		"category": "Coding",
+		"value": 208
+	},
+	{
+		"coord": "1016626702-1021626702",
+		"category": "Noncoding",
+		"value": 1751
+	},
+	{
+		"coord": "1016626702-1021626702",
+		"category": "Coding",
+		"value": 319
+	},
+	{
+		"coord": "1021626702-1026626702",
+		"category": "Noncoding",
+		"value": 1862
+	},
+	{
+		"coord": "1021626702-1026626702",
+		"category": "Coding",
+		"value": 259
+	},
+	{
+		"coord": "891626702-896626702",
+		"category": "Noncoding",
+		"value": 1203
+	},
+	{
+		"coord": "891626702-896626702",
+		"category": "Coding",
+		"value": 206
+	},
+	{
+		"coord": "1026626702-1031626702",
+		"category": "Noncoding",
+		"value": 2169
+	},
+	{
+		"coord": "1026626702-1031626702",
+		"category": "Coding",
+		"value": 439
+	},
+	{
+		"coord": "1031626702-1036626702",
+		"category": "Noncoding",
+		"value": 766
+	},
+	{
+		"coord": "1031626702-1036626702",
+		"category": "Coding",
+		"value": 196
+	},
+	{
+		"coord": "1036626702-1041626702",
+		"category": "Noncoding",
+		"value": 963
+	},
+	{
+		"coord": "1036626702-1041626702",
+		"category": "Coding",
+		"value": 95
+	},
+	{
+		"coord": "1041626702-1046626702",
+		"category": "Noncoding",
+		"value": 859
+	},
+	{
+		"coord": "1041626702-1046626702",
+		"category": "Coding",
+		"value": 63
+	},
+	{
+		"coord": "1046626702-1051626702",
+		"category": "Noncoding",
+		"value": 1813
+	},
+	{
+		"coord": "1046626702-1051626702",
+		"category": "Coding",
+		"value": 119
+	},
+	{
+		"coord": "1051626702-1056626702",
+		"category": "Noncoding",
+		"value": 1279
+	},
+	{
+		"coord": "1051626702-1056626702",
+		"category": "Coding",
+		"value": 188
+	},
+	{
+		"coord": "1056626702-1061626702",
+		"category": "Noncoding",
+		"value": 1009
+	},
+	{
+		"coord": "1056626702-1061626702",
+		"category": "Coding",
+		"value": 485
+	},
+	{
+		"coord": "1061626702-1062541961",
+		"category": "Noncoding",
+		"value": 62
+	},
+	{
+		"coord": "1061626702-1062541961",
+		"category": "Coding",
+		"value": 66
+	},
+	{
+		"coord": "896626702-901626702",
+		"category": "Noncoding",
+		"value": 640
+	},
+	{
+		"coord": "896626702-901626702",
+		"category": "Coding",
+		"value": 60
+	},
+	{
+		"coord": "901626702-906626702",
+		"category": "Noncoding",
+		"value": 288
+	},
+	{
+		"coord": "901626702-906626702",
+		"category": "Coding",
+		"value": 19
+	},
+	{
+		"coord": "911626702-916626702",
+		"category": "Noncoding",
+		"value": 1182
+	},
+	{
+		"coord": "911626702-916626702",
+		"category": "Coding",
+		"value": 189
+	},
+	{
+		"coord": "916626702-921626702",
+		"category": "Noncoding",
+		"value": 1601
+	},
+	{
+		"coord": "916626702-921626702",
+		"category": "Coding",
+		"value": 370
+	},
+	{
+		"coord": "921626702-926626702",
+		"category": "Noncoding",
+		"value": 1071
+	},
+	{
+		"coord": "921626702-926626702",
+		"category": "Coding",
+		"value": 147
+	},
+	{
+		"coord": "1062541962-1067541962",
+		"category": "Noncoding",
+		"value": 1056
+	},
+	{
+		"coord": "1062541962-1067541962",
+		"category": "Coding",
+		"value": 162
+	},
+	{
+		"coord": "1107541962-1112541962",
+		"category": "Noncoding",
+		"value": 391
+	},
+	{
+		"coord": "1107541962-1112541962",
+		"category": "Coding",
+		"value": 13
+	},
+	{
+		"coord": "1112541962-1117541962",
+		"category": "Noncoding",
+		"value": 1099
+	},
+	{
+		"coord": "1112541962-1117541962",
+		"category": "Coding",
+		"value": 148
+	},
+	{
+		"coord": "1117541962-1122541962",
+		"category": "Noncoding",
+		"value": 695
+	},
+	{
+		"coord": "1117541962-1122541962",
+		"category": "Coding",
+		"value": 128
+	},
+	{
+		"coord": "1122541962-1127541962",
+		"category": "Noncoding",
+		"value": 737
+	},
+	{
+		"coord": "1122541962-1127541962",
+		"category": "Coding",
+		"value": 23
+	},
+	{
+		"coord": "1127541962-1132541962",
+		"category": "Noncoding",
+		"value": 279
+	},
+	{
+		"coord": "1127541962-1132541962",
+		"category": "Coding",
+		"value": 15
+	},
+	{
+		"coord": "1132541962-1137541962",
+		"category": "Noncoding",
+		"value": 2054
+	},
+	{
+		"coord": "1132541962-1137541962",
+		"category": "Coding",
+		"value": 184
+	},
+	{
+		"coord": "1137541962-1142541962",
+		"category": "Noncoding",
+		"value": 941
+	},
+	{
+		"coord": "1137541962-1142541962",
+		"category": "Coding",
+		"value": 167
+	},
+	{
+		"coord": "1142541962-1147541962",
+		"category": "Noncoding",
+		"value": 1174
+	},
+	{
+		"coord": "1142541962-1147541962",
+		"category": "Coding",
+		"value": 166
+	},
+	{
+		"coord": "1147541962-1152541962",
+		"category": "Noncoding",
+		"value": 997
+	},
+	{
+		"coord": "1147541962-1152541962",
+		"category": "Coding",
+		"value": 121
+	},
+	{
+		"coord": "1152541962-1157541962",
+		"category": "Noncoding",
+		"value": 1412
+	},
+	{
+		"coord": "1152541962-1157541962",
+		"category": "Coding",
+		"value": 169
+	},
+	{
+		"coord": "1067541962-1072541962",
+		"category": "Noncoding",
+		"value": 1561
+	},
+	{
+		"coord": "1067541962-1072541962",
+		"category": "Coding",
+		"value": 227
+	},
+	{
+		"coord": "1157541962-1162541962",
+		"category": "Noncoding",
+		"value": 1226
+	},
+	{
+		"coord": "1157541962-1162541962",
+		"category": "Coding",
+		"value": 101
+	},
+	{
+		"coord": "1162541962-1167541962",
+		"category": "Noncoding",
+		"value": 29
+	},
+	{
+		"coord": "1162541962-1167541962",
+		"category": "Coding",
+		"value": 7
+	},
+	{
+		"coord": "1167541962-1172541962",
+		"category": "Noncoding",
+		"value": 2408
+	},
+	{
+		"coord": "1167541962-1172541962",
+		"category": "Coding",
+		"value": 276
+	},
+	{
+		"coord": "1172541962-1177541962",
+		"category": "Noncoding",
+		"value": 1063
+	},
+	{
+		"coord": "1172541962-1177541962",
+		"category": "Coding",
+		"value": 134
+	},
+	{
+		"coord": "1177541962-1182541962",
+		"category": "Noncoding",
+		"value": 1238
+	},
+	{
+		"coord": "1177541962-1182541962",
+		"category": "Coding",
+		"value": 145
+	},
+	{
+		"coord": "1182541962-1187541962",
+		"category": "Noncoding",
+		"value": 604
+	},
+	{
+		"coord": "1182541962-1187541962",
+		"category": "Coding",
+		"value": 55
+	},
+	{
+		"coord": "1187541962-1192541962",
+		"category": "Noncoding",
+		"value": 1078
+	},
+	{
+		"coord": "1187541962-1192541962",
+		"category": "Coding",
+		"value": 87
+	},
+	{
+		"coord": "1192541962-1197541962",
+		"category": "Noncoding",
+		"value": 1303
+	},
+	{
+		"coord": "1192541962-1197541962",
+		"category": "Coding",
+		"value": 169
+	},
+	{
+		"coord": "1197541962-1202541962",
+		"category": "Noncoding",
+		"value": 1437
+	},
+	{
+		"coord": "1197541962-1202541962",
+		"category": "Coding",
+		"value": 209
+	},
+	{
+		"coord": "1202541962-1207541962",
+		"category": "Noncoding",
+		"value": 1645
+	},
+	{
+		"coord": "1202541962-1207541962",
+		"category": "Coding",
+		"value": 288
+	},
+	{
+		"coord": "1072541962-1077541962",
+		"category": "Noncoding",
+		"value": 1433
+	},
+	{
+		"coord": "1072541962-1077541962",
+		"category": "Coding",
+		"value": 185
+	},
+	{
+		"coord": "1207541962-1212541962",
+		"category": "Noncoding",
+		"value": 2055
+	},
+	{
+		"coord": "1207541962-1212541962",
+		"category": "Coding",
+		"value": 169
+	},
+	{
+		"coord": "1212541962-1217541962",
+		"category": "Noncoding",
+		"value": 1214
+	},
+	{
+		"coord": "1212541962-1217541962",
+		"category": "Coding",
+		"value": 257
+	},
+	{
+		"coord": "1217541962-1222541962",
+		"category": "Noncoding",
+		"value": 1486
+	},
+	{
+		"coord": "1217541962-1222541962",
+		"category": "Coding",
+		"value": 242
+	},
+	{
+		"coord": "1222541962-1227541962",
+		"category": "Noncoding",
+		"value": 292
+	},
+	{
+		"coord": "1222541962-1227541962",
+		"category": "Coding",
+		"value": 142
+	},
+	{
+		"coord": "1227541962-1232541962",
+		"category": "Noncoding",
+		"value": 412
+	},
+	{
+		"coord": "1227541962-1232541962",
+		"category": "Coding",
+		"value": 73
+	},
+	{
+		"coord": "1232541962-1233657028",
+		"category": "Noncoding",
+		"value": 324
+	},
+	{
+		"coord": "1232541962-1233657028",
+		"category": "Coding",
+		"value": 93
+	},
+	{
+		"coord": "1077541962-1082541962",
+		"category": "Noncoding",
+		"value": 794
+	},
+	{
+		"coord": "1077541962-1082541962",
+		"category": "Coding",
+		"value": 164
+	},
+	{
+		"coord": "1082541962-1087541962",
+		"category": "Noncoding",
+		"value": 2053
+	},
+	{
+		"coord": "1082541962-1087541962",
+		"category": "Coding",
+		"value": 295
+	},
+	{
+		"coord": "1087541962-1092541962",
+		"category": "Noncoding",
+		"value": 388
+	},
+	{
+		"coord": "1087541962-1092541962",
+		"category": "Coding",
+		"value": 135
+	},
+	{
+		"coord": "1092541962-1097541962",
+		"category": "Noncoding",
+		"value": 1269
+	},
+	{
+		"coord": "1092541962-1097541962",
+		"category": "Coding",
+		"value": 1105
+	},
+	{
+		"coord": "1097541962-1102541962",
+		"category": "Noncoding",
+		"value": 2010
+	},
+	{
+		"coord": "1097541962-1102541962",
+		"category": "Coding",
+		"value": 465
+	},
+	{
+		"coord": "1102541962-1107541962",
+		"category": "Noncoding",
+		"value": 1228
+	},
+	{
+		"coord": "1102541962-1107541962",
+		"category": "Coding",
+		"value": 588
+	},
+	{
+		"coord": "1233657029-1238657029",
+		"category": "Noncoding",
+		"value": 1166
+	},
+	{
+		"coord": "1233657029-1238657029",
+		"category": "Coding",
+		"value": 256
+	},
+	{
+		"coord": "1278657029-1283657029",
+		"category": "Noncoding",
+		"value": 744
+	},
+	{
+		"coord": "1278657029-1283657029",
+		"category": "Coding",
+		"value": 179
+	},
+	{
+		"coord": "1283657029-1288657029",
+		"category": "Noncoding",
+		"value": 419
+	},
+	{
+		"coord": "1283657029-1288657029",
+		"category": "Coding",
+		"value": 64
+	},
+	{
+		"coord": "1288657029-1293657029",
+		"category": "Noncoding",
+		"value": 317
+	},
+	{
+		"coord": "1288657029-1293657029",
+		"category": "Coding",
+		"value": 82
+	},
+	{
+		"coord": "1298657029-1303657029",
+		"category": "Noncoding",
+		"value": 170
+	},
+	{
+		"coord": "1298657029-1303657029",
+		"category": "Coding",
+		"value": 32
+	},
+	{
+		"coord": "1303657029-1308657029",
+		"category": "Noncoding",
+		"value": 828
+	},
+	{
+		"coord": "1303657029-1308657029",
+		"category": "Coding",
+		"value": 285
+	},
+	{
+		"coord": "1308657029-1313657029",
+		"category": "Noncoding",
+		"value": 893
+	},
+	{
+		"coord": "1308657029-1313657029",
+		"category": "Coding",
+		"value": 188
+	},
+	{
+		"coord": "1313657029-1318657029",
+		"category": "Noncoding",
+		"value": 1589
+	},
+	{
+		"coord": "1313657029-1318657029",
+		"category": "Coding",
+		"value": 224
+	},
+	{
+		"coord": "1318657029-1323657029",
+		"category": "Noncoding",
+		"value": 1236
+	},
+	{
+		"coord": "1318657029-1323657029",
+		"category": "Coding",
+		"value": 133
+	},
+	{
+		"coord": "1323657029-1328657029",
+		"category": "Noncoding",
+		"value": 1228
+	},
+	{
+		"coord": "1323657029-1328657029",
+		"category": "Coding",
+		"value": 335
+	},
+	{
+		"coord": "1238657029-1243657029",
+		"category": "Noncoding",
+		"value": 986
+	},
+	{
+		"coord": "1238657029-1243657029",
+		"category": "Coding",
+		"value": 207
+	},
+	{
+		"coord": "1328657029-1333657029",
+		"category": "Noncoding",
+		"value": 1416
+	},
+	{
+		"coord": "1328657029-1333657029",
+		"category": "Coding",
+		"value": 367
+	},
+	{
+		"coord": "1333657029-1338657029",
+		"category": "Noncoding",
+		"value": 923
+	},
+	{
+		"coord": "1333657029-1338657029",
+		"category": "Coding",
+		"value": 499
+	},
+	{
+		"coord": "1338657029-1343657029",
+		"category": "Noncoding",
+		"value": 977
+	},
+	{
+		"coord": "1338657029-1343657029",
+		"category": "Coding",
+		"value": 244
+	},
+	{
+		"coord": "1343657029-1348657029",
+		"category": "Noncoding",
+		"value": 1001
+	},
+	{
+		"coord": "1343657029-1348657029",
+		"category": "Coding",
+		"value": 93
+	},
+	{
+		"coord": "1348657029-1353657029",
+		"category": "Noncoding",
+		"value": 1234
+	},
+	{
+		"coord": "1348657029-1353657029",
+		"category": "Coding",
+		"value": 107
+	},
+	{
+		"coord": "1353657029-1358657029",
+		"category": "Noncoding",
+		"value": 1283
+	},
+	{
+		"coord": "1353657029-1358657029",
+		"category": "Coding",
+		"value": 141
+	},
+	{
+		"coord": "1358657029-1363657029",
+		"category": "Noncoding",
+		"value": 1399
+	},
+	{
+		"coord": "1358657029-1363657029",
+		"category": "Coding",
+		"value": 203
+	},
+	{
+		"coord": "1363657029-1368657029",
+		"category": "Noncoding",
+		"value": 2160
+	},
+	{
+		"coord": "1363657029-1368657029",
+		"category": "Coding",
+		"value": 184
+	},
+	{
+		"coord": "1368657029-1373657029",
+		"category": "Noncoding",
+		"value": 1132
+	},
+	{
+		"coord": "1368657029-1373657029",
+		"category": "Coding",
+		"value": 219
+	},
+	{
+		"coord": "1373657029-1378657029",
+		"category": "Noncoding",
+		"value": 403
+	},
+	{
+		"coord": "1373657029-1378657029",
+		"category": "Coding",
+		"value": 82
+	},
+	{
+		"coord": "1243657029-1248657029",
+		"category": "Noncoding",
+		"value": 1311
+	},
+	{
+		"coord": "1243657029-1248657029",
+		"category": "Coding",
+		"value": 160
+	},
+	{
+		"coord": "1378657029-1383657029",
+		"category": "Noncoding",
+		"value": 544
+	},
+	{
+		"coord": "1378657029-1383657029",
+		"category": "Coding",
+		"value": 104
+	},
+	{
+		"coord": "1383657029-1388657029",
+		"category": "Noncoding",
+		"value": 590
+	},
+	{
+		"coord": "1383657029-1388657029",
+		"category": "Coding",
+		"value": 249
+	},
+	{
+		"coord": "1388657029-1392795691",
+		"category": "Noncoding",
+		"value": 792
+	},
+	{
+		"coord": "1388657029-1392795691",
+		"category": "Coding",
+		"value": 185
+	},
+	{
+		"coord": "1248657029-1253657029",
+		"category": "Noncoding",
+		"value": 639
+	},
+	{
+		"coord": "1248657029-1253657029",
+		"category": "Coding",
+		"value": 70
+	},
+	{
+		"coord": "1253657029-1258657029",
+		"category": "Noncoding",
+		"value": 1313
+	},
+	{
+		"coord": "1253657029-1258657029",
+		"category": "Coding",
+		"value": 251
+	},
+	{
+		"coord": "1258657029-1263657029",
+		"category": "Noncoding",
+		"value": 2595
+	},
+	{
+		"coord": "1258657029-1263657029",
+		"category": "Coding",
+		"value": 221
+	},
+	{
+		"coord": "1263657029-1268657029",
+		"category": "Noncoding",
+		"value": 1709
+	},
+	{
+		"coord": "1263657029-1268657029",
+		"category": "Coding",
+		"value": 230
+	},
+	{
+		"coord": "1268657029-1273657029",
+		"category": "Noncoding",
+		"value": 1630
+	},
+	{
+		"coord": "1268657029-1273657029",
+		"category": "Coding",
+		"value": 226
+	},
+	{
+		"coord": "1273657029-1278657029",
+		"category": "Noncoding",
+		"value": 1425
+	},
+	{
+		"coord": "1273657029-1278657029",
+		"category": "Coding",
+		"value": 213
+	},
+	{
+		"coord": "1392795692-1397795692",
+		"category": "Noncoding",
+		"value": 306
+	},
+	{
+		"coord": "1392795692-1397795692",
+		"category": "Coding",
+		"value": 76
+	},
+	{
+		"coord": "1437795692-1442795692",
+		"category": "Noncoding",
+		"value": 586
+	},
+	{
+		"coord": "1437795692-1442795692",
+		"category": "Coding",
+		"value": 117
+	},
+	{
+		"coord": "1442795692-1447795692",
+		"category": "Noncoding",
+		"value": 1100
+	},
+	{
+		"coord": "1442795692-1447795692",
+		"category": "Coding",
+		"value": 63
+	},
+	{
+		"coord": "1447795692-1452795692",
+		"category": "Noncoding",
+		"value": 595
+	},
+	{
+		"coord": "1447795692-1452795692",
+		"category": "Coding",
+		"value": 71
+	},
+	{
+		"coord": "1452795692-1457795692",
+		"category": "Noncoding",
+		"value": 1525
+	},
+	{
+		"coord": "1452795692-1457795692",
+		"category": "Coding",
+		"value": 141
+	},
+	{
+		"coord": "1457795692-1462795692",
+		"category": "Noncoding",
+		"value": 1404
+	},
+	{
+		"coord": "1457795692-1462795692",
+		"category": "Coding",
+		"value": 203
+	},
+	{
+		"coord": "1462795692-1467795692",
+		"category": "Noncoding",
+		"value": 1404
+	},
+	{
+		"coord": "1462795692-1467795692",
+		"category": "Coding",
+		"value": 136
+	},
+	{
+		"coord": "1467795692-1472795692",
+		"category": "Noncoding",
+		"value": 863
+	},
+	{
+		"coord": "1467795692-1472795692",
+		"category": "Coding",
+		"value": 59
+	},
+	{
+		"coord": "1472795692-1477795692",
+		"category": "Noncoding",
+		"value": 814
+	},
+	{
+		"coord": "1472795692-1477795692",
+		"category": "Coding",
+		"value": 98
+	},
+	{
+		"coord": "1477795692-1482795692",
+		"category": "Noncoding",
+		"value": 475
+	},
+	{
+		"coord": "1477795692-1482795692",
+		"category": "Coding",
+		"value": 61
+	},
+	{
+		"coord": "1482795692-1487795692",
+		"category": "Noncoding",
+		"value": 1253
+	},
+	{
+		"coord": "1482795692-1487795692",
+		"category": "Coding",
+		"value": 153
+	},
+	{
+		"coord": "1397795692-1402795692",
+		"category": "Noncoding",
+		"value": 511
+	},
+	{
+		"coord": "1397795692-1402795692",
+		"category": "Coding",
+		"value": 39
+	},
+	{
+		"coord": "1487795692-1492795692",
+		"category": "Noncoding",
+		"value": 1527
+	},
+	{
+		"coord": "1487795692-1492795692",
+		"category": "Coding",
+		"value": 217
+	},
+	{
+		"coord": "1492795692-1497795692",
+		"category": "Noncoding",
+		"value": 498
+	},
+	{
+		"coord": "1492795692-1497795692",
+		"category": "Coding",
+		"value": 117
+	},
+	{
+		"coord": "1497795692-1502795692",
+		"category": "Noncoding",
+		"value": 1860
+	},
+	{
+		"coord": "1497795692-1502795692",
+		"category": "Coding",
+		"value": 114
+	},
+	{
+		"coord": "1507795692-1512795692",
+		"category": "Noncoding",
+		"value": 1997
+	},
+	{
+		"coord": "1507795692-1512795692",
+		"category": "Coding",
+		"value": 178
+	},
+	{
+		"coord": "1512795692-1517795692",
+		"category": "Noncoding",
+		"value": 666
+	},
+	{
+		"coord": "1512795692-1517795692",
+		"category": "Coding",
+		"value": 214
+	},
+	{
+		"coord": "1517795692-1522795692",
+		"category": "Noncoding",
+		"value": 1299
+	},
+	{
+		"coord": "1517795692-1522795692",
+		"category": "Coding",
+		"value": 124
+	},
+	{
+		"coord": "1522795692-1527795692",
+		"category": "Noncoding",
+		"value": 637
+	},
+	{
+		"coord": "1522795692-1527795692",
+		"category": "Coding",
+		"value": 126
+	},
+	{
+		"coord": "1527795692-1532795692",
+		"category": "Noncoding",
+		"value": 1049
+	},
+	{
+		"coord": "1527795692-1532795692",
+		"category": "Coding",
+		"value": 97
+	},
+	{
+		"coord": "1532795692-1537795692",
+		"category": "Noncoding",
+		"value": 933
+	},
+	{
+		"coord": "1532795692-1537795692",
+		"category": "Coding",
+		"value": 337
+	},
+	{
+		"coord": "1402795692-1407795692",
+		"category": "Noncoding",
+		"value": 1018
+	},
+	{
+		"coord": "1402795692-1407795692",
+		"category": "Coding",
+		"value": 97
+	},
+	{
+		"coord": "1537795692-1539159713",
+		"category": "Noncoding",
+		"value": 296
+	},
+	{
+		"coord": "1537795692-1539159713",
+		"category": "Coding",
+		"value": 362
+	},
+	{
+		"coord": "1407795692-1412795692",
+		"category": "Noncoding",
+		"value": 1290
+	},
+	{
+		"coord": "1407795692-1412795692",
+		"category": "Coding",
+		"value": 127
+	},
+	{
+		"coord": "1412795692-1417795692",
+		"category": "Noncoding",
+		"value": 1267
+	},
+	{
+		"coord": "1412795692-1417795692",
+		"category": "Coding",
+		"value": 381
+	},
+	{
+		"coord": "1417795692-1422795692",
+		"category": "Noncoding",
+		"value": 1426
+	},
+	{
+		"coord": "1417795692-1422795692",
+		"category": "Coding",
+		"value": 286
+	},
+	{
+		"coord": "1422795692-1427795692",
+		"category": "Noncoding",
+		"value": 1549
+	},
+	{
+		"coord": "1422795692-1427795692",
+		"category": "Coding",
+		"value": 114
+	},
+	{
+		"coord": "1427795692-1432795692",
+		"category": "Noncoding",
+		"value": 984
+	},
+	{
+		"coord": "1427795692-1432795692",
+		"category": "Coding",
+		"value": 200
+	},
+	{
+		"coord": "1432795692-1437795692",
+		"category": "Noncoding",
+		"value": 864
+	},
+	{
+		"coord": "1432795692-1437795692",
+		"category": "Coding",
+		"value": 213
+	},
+	{
+		"coord": "1539159714-1544159714",
+		"category": "Noncoding",
+		"value": 1513
+	},
+	{
+		"coord": "1539159714-1544159714",
+		"category": "Coding",
+		"value": 268
+	},
+	{
+		"coord": "1609159714-1614159714",
+		"category": "Noncoding",
+		"value": 981
+	},
+	{
+		"coord": "1609159714-1614159714",
+		"category": "Coding",
+		"value": 97
+	},
+	{
+		"coord": "1614159714-1619159714",
+		"category": "Noncoding",
+		"value": 1035
+	},
+	{
+		"coord": "1614159714-1619159714",
+		"category": "Coding",
+		"value": 179
+	},
+	{
+		"coord": "1619159714-1624159714",
+		"category": "Noncoding",
+		"value": 1351
+	},
+	{
+		"coord": "1619159714-1624159714",
+		"category": "Coding",
+		"value": 91
+	},
+	{
+		"coord": "1624159714-1629159714",
+		"category": "Noncoding",
+		"value": 1157
+	},
+	{
+		"coord": "1624159714-1629159714",
+		"category": "Coding",
+		"value": 183
+	},
+	{
+		"coord": "1629159714-1634159714",
+		"category": "Noncoding",
+		"value": 1098
+	},
+	{
+		"coord": "1629159714-1634159714",
+		"category": "Coding",
+		"value": 144
+	},
+	{
+		"coord": "1544159714-1549159714",
+		"category": "Noncoding",
+		"value": 343
+	},
+	{
+		"coord": "1544159714-1549159714",
+		"category": "Coding",
+		"value": 94
+	},
+	{
+		"coord": "1634159714-1639159714",
+		"category": "Noncoding",
+		"value": 1346
+	},
+	{
+		"coord": "1634159714-1639159714",
+		"category": "Coding",
+		"value": 276
+	},
+	{
+		"coord": "1639159714-1644159714",
+		"category": "Noncoding",
+		"value": 950
+	},
+	{
+		"coord": "1639159714-1644159714",
+		"category": "Coding",
+		"value": 279
+	},
+	{
+		"coord": "1644159714-1649159714",
+		"category": "Noncoding",
+		"value": 912
+	},
+	{
+		"coord": "1644159714-1649159714",
+		"category": "Coding",
+		"value": 138
+	},
+	{
+		"coord": "1649159714-1654159714",
+		"category": "Noncoding",
+		"value": 1148
+	},
+	{
+		"coord": "1649159714-1654159714",
+		"category": "Coding",
+		"value": 283
+	},
+	{
+		"coord": "1654159714-1659159714",
+		"category": "Noncoding",
+		"value": 1580
+	},
+	{
+		"coord": "1654159714-1659159714",
+		"category": "Coding",
+		"value": 354
+	},
+	{
+		"coord": "1659159714-1664159714",
+		"category": "Noncoding",
+		"value": 1418
+	},
+	{
+		"coord": "1659159714-1664159714",
+		"category": "Coding",
+		"value": 185
+	},
+	{
+		"coord": "1664159714-1669159714",
+		"category": "Noncoding",
+		"value": 1866
+	},
+	{
+		"coord": "1664159714-1669159714",
+		"category": "Coding",
+		"value": 283
+	},
+	{
+		"coord": "1669159714-1674159714",
+		"category": "Noncoding",
+		"value": 1210
+	},
+	{
+		"coord": "1669159714-1674159714",
+		"category": "Coding",
+		"value": 599
+	},
+	{
+		"coord": "1674159714-1679159714",
+		"category": "Noncoding",
+		"value": 1521
+	},
+	{
+		"coord": "1674159714-1679159714",
+		"category": "Coding",
+		"value": 886
+	},
+	{
+		"coord": "1679159714-1680373144",
+		"category": "Noncoding",
+		"value": 253
+	},
+	{
+		"coord": "1679159714-1680373144",
+		"category": "Coding",
+		"value": 151
+	},
+	{
+		"coord": "1549159714-1554159714",
+		"category": "Noncoding",
+		"value": 816
+	},
+	{
+		"coord": "1549159714-1554159714",
+		"category": "Coding",
+		"value": 102
+	},
+	{
+		"coord": "1554159714-1559159714",
+		"category": "Noncoding",
+		"value": 1580
+	},
+	{
+		"coord": "1554159714-1559159714",
+		"category": "Coding",
+		"value": 209
+	},
+	{
+		"coord": "1559159714-1564159714",
+		"category": "Noncoding",
+		"value": 638
+	},
+	{
+		"coord": "1559159714-1564159714",
+		"category": "Coding",
+		"value": 54
+	},
+	{
+		"coord": "1564159714-1569159714",
+		"category": "Noncoding",
+		"value": 363
+	},
+	{
+		"coord": "1564159714-1569159714",
+		"category": "Coding",
+		"value": 53
+	},
+	{
+		"coord": "1569159714-1574159714",
+		"category": "Noncoding",
+		"value": 849
+	},
+	{
+		"coord": "1569159714-1574159714",
+		"category": "Coding",
+		"value": 267
+	},
+	{
+		"coord": "1574159714-1579159714",
+		"category": "Noncoding",
+		"value": 1093
+	},
+	{
+		"coord": "1574159714-1579159714",
+		"category": "Coding",
+		"value": 389
+	},
+	{
+		"coord": "2881033288-2886033288",
+		"category": "Noncoding",
+		"value": 77
+	},
+	{
+		"coord": "2881033288-2886033288",
+		"category": "Coding",
+		"value": 31
+	},
+	{
+		"coord": "2926033288-2931033288",
+		"category": "Noncoding",
+		"value": 585
+	},
+	{
+		"coord": "2926033288-2931033288",
+		"category": "Coding",
+		"value": 366
+	},
+	{
+		"coord": "2931033288-2936033288",
+		"category": "Noncoding",
+		"value": 297
+	},
+	{
+		"coord": "2931033288-2936033288",
+		"category": "Coding",
+		"value": 106
+	},
+	{
+		"coord": "2936033288-2941033288",
+		"category": "Noncoding",
+		"value": 67
+	},
+	{
+		"coord": "2936033288-2941033288",
+		"category": "Coding",
+		"value": 17
+	},
+	{
+		"coord": "2941033288-2946033288",
+		"category": "Noncoding",
+		"value": 27
+	},
+	{
+		"coord": "2941033288-2946033288",
+		"category": "Coding",
+		"value": 6
+	},
+	{
+		"coord": "2946033288-2951033288",
+		"category": "Noncoding",
+		"value": 679
+	},
+	{
+		"coord": "2946033288-2951033288",
+		"category": "Coding",
+		"value": 113
+	},
+	{
+		"coord": "2951033288-2956033288",
+		"category": "Noncoding",
+		"value": 645
+	},
+	{
+		"coord": "2951033288-2956033288",
+		"category": "Coding",
+		"value": 207
+	},
+	{
+		"coord": "2956033288-2961033288",
+		"category": "Noncoding",
+		"value": 190
+	},
+	{
+		"coord": "2956033288-2961033288",
+		"category": "Coding",
+		"value": 50
+	},
+	{
+		"coord": "2961033288-2966033288",
+		"category": "Noncoding",
+		"value": 242
+	},
+	{
+		"coord": "2961033288-2966033288",
+		"category": "Coding",
+		"value": 29
+	},
+	{
+		"coord": "2966033288-2971033288",
+		"category": "Noncoding",
+		"value": 186
+	},
+	{
+		"coord": "2966033288-2971033288",
+		"category": "Coding",
+		"value": 13
+	},
+	{
+		"coord": "2971033288-2976033288",
+		"category": "Noncoding",
+		"value": 17
+	},
+	{
+		"coord": "2971033288-2976033288",
+		"category": "Coding",
+		"value": 0
+	},
+	{
+		"coord": "2886033288-2891033288",
+		"category": "Noncoding",
+		"value": 86
+	},
+	{
+		"coord": "2886033288-2891033288",
+		"category": "Coding",
+		"value": 15
+	},
+	{
+		"coord": "2976033288-2981033288",
+		"category": "Noncoding",
+		"value": 226
+	},
+	{
+		"coord": "2976033288-2981033288",
+		"category": "Coding",
+		"value": 36
+	},
+	{
+		"coord": "2981033288-2986033288",
+		"category": "Noncoding",
+		"value": 809
+	},
+	{
+		"coord": "2981033288-2986033288",
+		"category": "Coding",
+		"value": 126
+	},
+	{
+		"coord": "2986033288-2991033288",
+		"category": "Noncoding",
+		"value": 1033
+	},
+	{
+		"coord": "2986033288-2991033288",
+		"category": "Coding",
+		"value": 176
+	},
+	{
+		"coord": "2991033288-2996033288",
+		"category": "Noncoding",
+		"value": 875
+	},
+	{
+		"coord": "2991033288-2996033288",
+		"category": "Coding",
+		"value": 82
+	},
+	{
+		"coord": "2996033288-3001033288",
+		"category": "Noncoding",
+		"value": 711
+	},
+	{
+		"coord": "2996033288-3001033288",
+		"category": "Coding",
+		"value": 142
+	},
+	{
+		"coord": "3001033288-3006033288",
+		"category": "Noncoding",
+		"value": 257
+	},
+	{
+		"coord": "3001033288-3006033288",
+		"category": "Coding",
+		"value": 30
+	},
+	{
+		"coord": "3006033288-3011033288",
+		"category": "Noncoding",
+		"value": 564
+	},
+	{
+		"coord": "3006033288-3011033288",
+		"category": "Coding",
+		"value": 110
+	},
+	{
+		"coord": "3011033288-3016033288",
+		"category": "Noncoding",
+		"value": 1410
+	},
+	{
+		"coord": "3011033288-3016033288",
+		"category": "Coding",
+		"value": 66
+	},
+	{
+		"coord": "3016033288-3021033288",
+		"category": "Noncoding",
+		"value": 1006
+	},
+	{
+		"coord": "3016033288-3021033288",
+		"category": "Coding",
+		"value": 125
+	},
+	{
+		"coord": "3021033288-3026033288",
+		"category": "Noncoding",
+		"value": 40
+	},
+	{
+		"coord": "3021033288-3026033288",
+		"category": "Coding",
+		"value": 1
+	},
+	{
+		"coord": "2891033288-2896033288",
+		"category": "Noncoding",
+		"value": 1066
+	},
+	{
+		"coord": "2891033288-2896033288",
+		"category": "Coding",
+		"value": 139
+	},
+	{
+		"coord": "3026033288-3031033288",
+		"category": "Noncoding",
+		"value": 1104
+	},
+	{
+		"coord": "3026033288-3031033288",
+		"category": "Coding",
+		"value": 58
+	},
+	{
+		"coord": "3031033288-3036033288",
+		"category": "Noncoding",
+		"value": 849
+	},
+	{
+		"coord": "3031033288-3036033288",
+		"category": "Coding",
+		"value": 530
+	},
+	{
+		"coord": "3036033288-3036303847",
+		"category": "Noncoding",
+		"value": 15
+	},
+	{
+		"coord": "3036033288-3036303847",
+		"category": "Coding",
+		"value": 2
+	},
+	{
+		"coord": "2896033288-2901033288",
+		"category": "Noncoding",
+		"value": 1080
+	},
+	{
+		"coord": "2896033288-2901033288",
+		"category": "Coding",
+		"value": 222
+	},
+	{
+		"coord": "2901033288-2906033288",
+		"category": "Noncoding",
+		"value": 790
+	},
+	{
+		"coord": "2901033288-2906033288",
+		"category": "Coding",
+		"value": 118
+	},
+	{
+		"coord": "2906033288-2911033288",
+		"category": "Noncoding",
+		"value": 852
+	},
+	{
+		"coord": "2906033288-2911033288",
+		"category": "Coding",
+		"value": 18
+	},
+	{
+		"coord": "2911033288-2916033288",
+		"category": "Noncoding",
+		"value": 417
+	},
+	{
+		"coord": "2911033288-2916033288",
+		"category": "Coding",
+		"value": 28
+	},
+	{
+		"coord": "2916033288-2921033288",
+		"category": "Noncoding",
+		"value": 516
+	},
+	{
+		"coord": "2916033288-2921033288",
+		"category": "Coding",
+		"value": 82
+	},
+	{
+		"coord": "2921033288-2926033288",
+		"category": "Noncoding",
+		"value": 827
+	},
+	{
+		"coord": "2921033288-2926033288",
+		"category": "Coding",
+		"value": 86
+	}
+]
