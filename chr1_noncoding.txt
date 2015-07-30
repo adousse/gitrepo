@@ -1,0 +1,232 @@
+[
+	{
+		"coord": "1-5000001",
+		"category": "Noncoding",
+		"value": 679
+	},
+	{
+		"coord": "45000001-50000001",
+		"category": "Noncoding",
+		"value": 223
+	},
+	{
+		"coord": "50000001-55000001",
+		"category": "Noncoding",
+		"value": 511
+	},
+	{
+		"coord": "55000001-60000001",
+		"category": "Noncoding",
+		"value": 1172
+	},
+	{
+		"coord": "60000001-65000001",
+		"category": "Noncoding",
+		"value": 296
+	},
+	{
+		"coord": "65000001-70000001",
+		"category": "Noncoding",
+		"value": 178
+	},
+	{
+		"coord": "70000001-75000001",
+		"category": "Noncoding",
+		"value": 715
+	},
+	{
+		"coord": "75000001-80000001",
+		"category": "Noncoding",
+		"value": 585
+	},
+	{
+		"coord": "80000001-85000001",
+		"category": "Noncoding",
+		"value": 581
+	},
+	{
+		"coord": "85000001-90000001",
+		"category": "Noncoding",
+		"value": 932
+	},
+	{
+		"coord": "90000001-95000001",
+		"category": "Noncoding",
+		"value": 261
+	},
+	{
+		"coord": "5000001-10000001",
+		"category": "Noncoding",
+		"value": 828
+	},
+	{
+		"coord": "95000001-100000001",
+		"category": "Noncoding",
+		"value": 358
+	},
+	{
+		"coord": "100000001-105000001",
+		"category": "Noncoding",
+		"value": 375
+	},
+	{
+		"coord": "105000001-110000001",
+		"category": "Noncoding",
+		"value": 183
+	},
+	{
+		"coord": "110000001-115000001",
+		"category": "Noncoding",
+		"value": 588
+	},
+	{
+		"coord": "115000001-120000001",
+		"category": "Noncoding",
+		"value": 419
+	},
+	{
+		"coord": "120000001-125000001",
+		"category": "Noncoding",
+		"value": 8
+	},
+	{
+		"coord": "10000001-15000001",
+		"category": "Noncoding",
+		"value": 753
+	},
+	{
+		"coord": "145000001-150000001",
+		"category": "Noncoding",
+		"value": 152
+	},
+	{
+		"coord": "150000001-155000001",
+		"category": "Noncoding",
+		"value": 594
+	},
+	{
+		"coord": "155000001-160000001",
+		"category": "Noncoding",
+		"value": 452
+	},
+	{
+		"coord": "160000001-165000001",
+		"category": "Noncoding",
+		"value": 280
+	},
+	{
+		"coord": "165000001-170000001",
+		"category": "Noncoding",
+		"value": 170
+	},
+	{
+		"coord": "170000001-175000001",
+		"category": "Noncoding",
+		"value": 498
+	},
+	{
+		"coord": "175000001-180000001",
+		"category": "Noncoding",
+		"value": 955
+	},
+	{
+		"coord": "180000001-185000001",
+		"category": "Noncoding",
+		"value": 342
+	},
+	{
+		"coord": "185000001-190000001",
+		"category": "Noncoding",
+		"value": 323
+	},
+	{
+		"coord": "190000001-195000001",
+		"category": "Noncoding",
+		"value": 17
+	},
+	{
+		"coord": "15000001-20000001",
+		"category": "Noncoding",
+		"value": 367
+	},
+	{
+		"coord": "195000001-200000001",
+		"category": "Noncoding",
+		"value": 85
+	},
+	{
+		"coord": "200000001-205000001",
+		"category": "Noncoding",
+		"value": 581
+	},
+	{
+		"coord": "205000001-210000001",
+		"category": "Noncoding",
+		"value": 361
+	},
+	{
+		"coord": "210000001-215000001",
+		"category": "Noncoding",
+		"value": 637
+	},
+	{
+		"coord": "215000001-220000001",
+		"category": "Noncoding",
+		"value": 759
+	},
+	{
+		"coord": "220000001-225000001",
+		"category": "Noncoding",
+		"value": 196
+	},
+	{
+		"coord": "225000001-230000001",
+		"category": "Noncoding",
+		"value": 121
+	},
+	{
+		"coord": "230000001-235000001",
+		"category": "Noncoding",
+		"value": 369
+	},
+	{
+		"coord": "235000001-240000001",
+		"category": "Noncoding",
+		"value": 760
+	},
+	{
+		"coord": "240000001-245000001",
+		"category": "Noncoding",
+		"value": 611
+	},
+	{
+		"coord": "20000001-25000001",
+		"category": "Noncoding",
+		"value": 548
+	},
+	{
+		"coord": "245000001-249250621",
+		"category": "Noncoding",
+		"value": 533
+	},
+	{
+		"coord": "25000001-30000001",
+		"category": "Noncoding",
+		"value": 652
+	},
+	{
+		"coord": "30000001-35000001",
+		"category": "Noncoding",
+		"value": 337
+	},
+	{
+		"coord": "35000001-40000001",
+		"category": "Noncoding",
+		"value": 747
+	},
+	{
+		"coord": "40000001-45000001",
+		"category": "Noncoding",
+		"value": 439
+	}
+]
