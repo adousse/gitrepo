@@ -1,5281 +1,5281 @@
 [
 	{
-		"coord: ""1-5000001",
+		"coord": "1-5000001",
 		"category": "Noncoding",
 		"value": 69
 	},
 	{
-		"coord: ""1-5000001",
+		"coord": "1-5000001",
 		"category": "Coding",
 		"value": 222
 	},
 	{
-		"coord: ""45000001-50000001",
+		"coord": "45000001-50000001",
 		"category": "Noncoding",
 		"value": 58
 	},
 	{
-		"coord: ""45000001-50000001",
+		"coord": "45000001-50000001",
 		"category": "Coding",
 		"value": 71
 	},
 	{
-		"coord: ""50000001-55000001",
+		"coord": "50000001-55000001",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""50000001-55000001",
+		"coord": "50000001-55000001",
 		"category": "Coding",
 		"value": 40
 	},
 	{
-		"coord: ""55000001-60000001",
+		"coord": "55000001-60000001",
 		"category": "Noncoding",
 		"value": 96
 	},
 	{
-		"coord: ""55000001-60000001",
+		"coord": "55000001-60000001",
 		"category": "Coding",
 		"value": 132
 	},
 	{
-		"coord: ""60000001-65000001",
+		"coord": "60000001-65000001",
 		"category": "Noncoding",
 		"value": 180
 	},
 	{
-		"coord: ""60000001-65000001",
+		"coord": "60000001-65000001",
 		"category": "Coding",
 		"value": 123
 	},
 	{
-		"coord: ""65000001-70000001",
+		"coord": "65000001-70000001",
 		"category": "Noncoding",
 		"value": 7
 	},
 	{
-		"coord: ""65000001-70000001",
+		"coord": "65000001-70000001",
 		"category": "Coding",
 		"value": 62
 	},
 	{
-		"coord: ""70000001-75000001",
+		"coord": "70000001-75000001",
 		"category": "Noncoding",
 		"value": 50
 	},
 	{
-		"coord: ""70000001-75000001",
+		"coord": "70000001-75000001",
 		"category": "Coding",
 		"value": 80
 	},
 	{
-		"coord: ""75000001-80000001",
+		"coord": "75000001-80000001",
 		"category": "Noncoding",
 		"value": 45
 	},
 	{
-		"coord: ""75000001-80000001",
+		"coord": "75000001-80000001",
 		"category": "Coding",
 		"value": 58
 	},
 	{
-		"coord: ""80000001-85000001",
+		"coord": "80000001-85000001",
 		"category": "Noncoding",
 		"value": 28
 	},
 	{
-		"coord: ""80000001-85000001",
+		"coord": "80000001-85000001",
 		"category": "Coding",
 		"value": 47
 	},
 	{
-		"coord: ""85000001-90000001",
+		"coord": "85000001-90000001",
 		"category": "Noncoding",
 		"value": 39
 	},
 	{
-		"coord: ""85000001-90000001",
+		"coord": "85000001-90000001",
 		"category": "Coding",
 		"value": 50
 	},
 	{
-		"coord: ""90000001-95000001",
+		"coord": "90000001-95000001",
 		"category": "Noncoding",
 		"value": 37
 	},
 	{
-		"coord: ""90000001-95000001",
+		"coord": "90000001-95000001",
 		"category": "Coding",
 		"value": 76
 	},
 	{
-		"coord: ""5000001-10000001",
+		"coord": "5000001-10000001",
 		"category": "Noncoding",
 		"value": 85
 	},
 	{
-		"coord: ""5000001-10000001",
+		"coord": "5000001-10000001",
 		"category": "Coding",
 		"value": 122
 	},
 	{
-		"coord: ""100000001-105000001",
+		"coord": "100000001-105000001",
 		"category": "Noncoding",
 		"value": 21
 	},
 	{
-		"coord: ""100000001-105000001",
+		"coord": "100000001-105000001",
 		"category": "Coding",
 		"value": 70
 	},
 	{
-		"coord: ""105000001-110000001",
+		"coord": "105000001-110000001",
 		"category": "Noncoding",
 		"value": 108
 	},
 	{
-		"coord: ""105000001-110000001",
+		"coord": "105000001-110000001",
 		"category": "Coding",
 		"value": 48
 	},
 	{
-		"coord: ""110000001-115000001",
+		"coord": "110000001-115000001",
 		"category": "Noncoding",
 		"value": 9
 	},
 	{
-		"coord: ""110000001-115000001",
+		"coord": "110000001-115000001",
 		"category": "Coding",
 		"value": 28
 	},
 	{
-		"coord: ""115000001-120000001",
+		"coord": "115000001-120000001",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""115000001-120000001",
+		"coord": "115000001-120000001",
 		"category": "Coding",
 		"value": 86
 	},
 	{
-		"coord: ""10000001-15000001",
+		"coord": "10000001-15000001",
 		"category": "Noncoding",
 		"value": 301
 	},
 	{
-		"coord: ""10000001-15000001",
+		"coord": "10000001-15000001",
 		"category": "Coding",
 		"value": 154
 	},
 	{
-		"coord: ""145000001-150000001",
+		"coord": "145000001-150000001",
 		"category": "Noncoding",
 		"value": 35
 	},
 	{
-		"coord: ""145000001-150000001",
+		"coord": "145000001-150000001",
 		"category": "Coding",
 		"value": 49
 	},
 	{
-		"coord: ""150000001-155000001",
+		"coord": "150000001-155000001",
 		"category": "Noncoding",
 		"value": 87
 	},
 	{
-		"coord: ""150000001-155000001",
+		"coord": "150000001-155000001",
 		"category": "Coding",
 		"value": 218
 	},
 	{
-		"coord: ""155000001-160000001",
+		"coord": "155000001-160000001",
 		"category": "Noncoding",
 		"value": 50
 	},
 	{
-		"coord: ""155000001-160000001",
+		"coord": "155000001-160000001",
 		"category": "Coding",
 		"value": 124
 	},
 	{
-		"coord: ""160000001-165000001",
+		"coord": "160000001-165000001",
 		"category": "Noncoding",
 		"value": 61
 	},
 	{
-		"coord: ""160000001-165000001",
+		"coord": "160000001-165000001",
 		"category": "Coding",
 		"value": 71
 	},
 	{
-		"coord: ""165000001-170000001",
+		"coord": "165000001-170000001",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""165000001-170000001",
+		"coord": "165000001-170000001",
 		"category": "Coding",
 		"value": 68
 	},
 	{
-		"coord: ""170000001-175000001",
+		"coord": "170000001-175000001",
 		"category": "Noncoding",
 		"value": 11
 	},
 	{
-		"coord: ""170000001-175000001",
+		"coord": "170000001-175000001",
 		"category": "Coding",
 		"value": 82
 	},
 	{
-		"coord: ""175000001-180000001",
+		"coord": "175000001-180000001",
 		"category": "Noncoding",
 		"value": 23
 	},
 	{
-		"coord: ""175000001-180000001",
+		"coord": "175000001-180000001",
 		"category": "Coding",
 		"value": 103
 	},
 	{
-		"coord: ""180000001-185000001",
+		"coord": "180000001-185000001",
 		"category": "Noncoding",
 		"value": 22
 	},
 	{
-		"coord: ""180000001-185000001",
+		"coord": "180000001-185000001",
 		"category": "Coding",
 		"value": 108
 	},
 	{
-		"coord: ""185000001-190000001",
+		"coord": "185000001-190000001",
 		"category": "Noncoding",
 		"value": 59
 	},
 	{
-		"coord: ""185000001-190000001",
+		"coord": "185000001-190000001",
 		"category": "Coding",
 		"value": 155
 	},
 	{
-		"coord: ""190000001-195000001",
+		"coord": "190000001-195000001",
 		"category": "Noncoding",
 		"value": 7
 	},
 	{
-		"coord: ""190000001-195000001",
+		"coord": "190000001-195000001",
 		"category": "Coding",
 		"value": 21
 	},
 	{
-		"coord: ""15000001-20000001",
+		"coord": "15000001-20000001",
 		"category": "Noncoding",
 		"value": 27
 	},
 	{
-		"coord: ""15000001-20000001",
+		"coord": "15000001-20000001",
 		"category": "Coding",
 		"value": 242
 	},
 	{
-		"coord: ""195000001-200000001",
+		"coord": "195000001-200000001",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""195000001-200000001",
+		"coord": "195000001-200000001",
 		"category": "Coding",
 		"value": 42
 	},
 	{
-		"coord: ""200000001-205000001",
+		"coord": "200000001-205000001",
 		"category": "Noncoding",
 		"value": 34
 	},
 	{
-		"coord: ""200000001-205000001",
+		"coord": "200000001-205000001",
 		"category": "Coding",
 		"value": 147
 	},
 	{
-		"coord: ""205000001-210000001",
+		"coord": "205000001-210000001",
 		"category": "Noncoding",
 		"value": 22
 	},
 	{
-		"coord: ""205000001-210000001",
+		"coord": "205000001-210000001",
 		"category": "Coding",
 		"value": 52
 	},
 	{
-		"coord: ""210000001-215000001",
+		"coord": "210000001-215000001",
 		"category": "Noncoding",
 		"value": 120
 	},
 	{
-		"coord: ""210000001-215000001",
+		"coord": "210000001-215000001",
 		"category": "Coding",
 		"value": 99
 	},
 	{
-		"coord: ""220000001-225000001",
+		"coord": "220000001-225000001",
 		"category": "Noncoding",
 		"value": 67
 	},
 	{
-		"coord: ""220000001-225000001",
+		"coord": "220000001-225000001",
 		"category": "Coding",
 		"value": 148
 	},
 	{
-		"coord: ""225000001-230000001",
+		"coord": "225000001-230000001",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""225000001-230000001",
+		"coord": "225000001-230000001",
 		"category": "Coding",
 		"value": 94
 	},
 	{
-		"coord: ""230000001-235000001",
+		"coord": "230000001-235000001",
 		"category": "Noncoding",
 		"value": 127
 	},
 	{
-		"coord: ""230000001-235000001",
+		"coord": "230000001-235000001",
 		"category": "Coding",
 		"value": 163
 	},
 	{
-		"coord: ""235000001-240000001",
+		"coord": "235000001-240000001",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""235000001-240000001",
+		"coord": "235000001-240000001",
 		"category": "Coding",
 		"value": 115
 	},
 	{
-		"coord: ""240000001-245000001",
+		"coord": "240000001-245000001",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""240000001-245000001",
+		"coord": "240000001-245000001",
 		"category": "Coding",
 		"value": 11
 	},
 	{
-		"coord: ""20000001-25000001",
+		"coord": "20000001-25000001",
 		"category": "Noncoding",
 		"value": 44
 	},
 	{
-		"coord: ""20000001-25000001",
+		"coord": "20000001-25000001",
 		"category": "Coding",
 		"value": 167
 	},
 	{
-		"coord: ""245000001-249250621",
+		"coord": "245000001-249250621",
 		"category": "Noncoding",
 		"value": 111
 	},
 	{
-		"coord: ""245000001-249250621",
+		"coord": "245000001-249250621",
 		"category": "Coding",
 		"value": 31
 	},
 	{
-		"coord: ""25000001-30000001",
+		"coord": "25000001-30000001",
 		"category": "Noncoding",
 		"value": 47
 	},
 	{
-		"coord: ""25000001-30000001",
+		"coord": "25000001-30000001",
 		"category": "Coding",
 		"value": 144
 	},
 	{
-		"coord: ""30000001-35000001",
+		"coord": "30000001-35000001",
 		"category": "Noncoding",
 		"value": 41
 	},
 	{
-		"coord: ""30000001-35000001",
+		"coord": "30000001-35000001",
 		"category": "Coding",
 		"value": 200
 	},
 	{
-		"coord: ""35000001-40000001",
+		"coord": "35000001-40000001",
 		"category": "Noncoding",
 		"value": 83
 	},
 	{
-		"coord: ""35000001-40000001",
+		"coord": "35000001-40000001",
 		"category": "Coding",
 		"value": 104
 	},
 	{
-		"coord: ""40000001-45000001",
+		"coord": "40000001-45000001",
 		"category": "Noncoding",
 		"value": 48
 	},
 	{
-		"coord: ""40000001-45000001",
+		"coord": "40000001-45000001",
 		"category": "Coding",
 		"value": 147
 	},
 	{
-		"coord: ""141213432-146213432",
+		"coord": "141213432-146213432",
 		"category": "Noncoding",
 		"value": 26
 	},
 	{
-		"coord: ""141213432-146213432",
+		"coord": "141213432-146213432",
 		"category": "Coding",
 		"value": 55
 	},
 	{
-		"coord: ""186213432-191213432",
+		"coord": "186213432-191213432",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""186213432-191213432",
+		"coord": "186213432-191213432",
 		"category": "Coding",
 		"value": 23
 	},
 	{
-		"coord: ""191213432-196213432",
+		"coord": "191213432-196213432",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""191213432-196213432",
+		"coord": "191213432-196213432",
 		"category": "Coding",
 		"value": 42
 	},
 	{
-		"coord: ""201213432-206213432",
+		"coord": "201213432-206213432",
 		"category": "Noncoding",
 		"value": 120
 	},
 	{
-		"coord: ""201213432-206213432",
+		"coord": "201213432-206213432",
 		"category": "Coding",
 		"value": 100
 	},
 	{
-		"coord: ""206213432-211213432",
+		"coord": "206213432-211213432",
 		"category": "Noncoding",
 		"value": 12
 	},
 	{
-		"coord: ""206213432-211213432",
+		"coord": "206213432-211213432",
 		"category": "Coding",
 		"value": 53
 	},
 	{
-		"coord: ""211213432-216213432",
+		"coord": "211213432-216213432",
 		"category": "Noncoding",
 		"value": 36
 	},
 	{
-		"coord: ""211213432-216213432",
+		"coord": "211213432-216213432",
 		"category": "Coding",
 		"value": 139
 	},
 	{
-		"coord: ""216213432-221213432",
+		"coord": "216213432-221213432",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""216213432-221213432",
+		"coord": "216213432-221213432",
 		"category": "Coding",
 		"value": 7
 	},
 	{
-		"coord: ""231213432-236213432",
+		"coord": "231213432-236213432",
 		"category": "Noncoding",
 		"value": 56
 	},
 	{
-		"coord: ""231213432-236213432",
+		"coord": "231213432-236213432",
 		"category": "Coding",
 		"value": 87
 	},
 	{
-		"coord: ""146213432-151213432",
+		"coord": "146213432-151213432",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""146213432-151213432",
+		"coord": "146213432-151213432",
 		"category": "Coding",
 		"value": 59
 	},
 	{
-		"coord: ""236213432-241213432",
+		"coord": "236213432-241213432",
 		"category": "Noncoding",
 		"value": 20
 	},
 	{
-		"coord: ""236213432-241213432",
+		"coord": "236213432-241213432",
 		"category": "Coding",
 		"value": 111
 	},
 	{
-		"coord: ""241213432-246213432",
+		"coord": "241213432-246213432",
 		"category": "Noncoding",
 		"value": 60
 	},
 	{
-		"coord: ""241213432-246213432",
+		"coord": "241213432-246213432",
 		"category": "Coding",
 		"value": 162
 	},
 	{
-		"coord: ""246213432-251213432",
+		"coord": "246213432-251213432",
 		"category": "Noncoding",
 		"value": 19
 	},
 	{
-		"coord: ""246213432-251213432",
+		"coord": "246213432-251213432",
 		"category": "Coding",
 		"value": 134
 	},
 	{
-		"coord: ""251213432-256213432",
+		"coord": "251213432-256213432",
 		"category": "Noncoding",
 		"value": 100
 	},
 	{
-		"coord: ""251213432-256213432",
+		"coord": "251213432-256213432",
 		"category": "Coding",
 		"value": 123
 	},
 	{
-		"coord: ""256213432-261213432",
+		"coord": "256213432-261213432",
 		"category": "Noncoding",
 		"value": 82
 	},
 	{
-		"coord: ""256213432-261213432",
+		"coord": "256213432-261213432",
 		"category": "Coding",
 		"value": 122
 	},
 	{
-		"coord: ""261213432-266213432",
+		"coord": "261213432-266213432",
 		"category": "Noncoding",
 		"value": 64
 	},
 	{
-		"coord: ""261213432-266213432",
+		"coord": "261213432-266213432",
 		"category": "Coding",
 		"value": 160
 	},
 	{
-		"coord: ""266213432-271213432",
+		"coord": "266213432-271213432",
 		"category": "Noncoding",
 		"value": 35
 	},
 	{
-		"coord: ""266213432-271213432",
+		"coord": "266213432-271213432",
 		"category": "Coding",
 		"value": 39
 	},
 	{
-		"coord: ""271213432-276213432",
+		"coord": "271213432-276213432",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""271213432-276213432",
+		"coord": "271213432-276213432",
 		"category": "Coding",
 		"value": 7
 	},
 	{
-		"coord: ""276213432-276748178",
+		"coord": "276213432-276748178",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""276213432-276748178",
+		"coord": "276213432-276748178",
 		"category": "Coding",
 		"value": 24
 	},
 	{
-		"coord: ""151213432-156213432",
+		"coord": "151213432-156213432",
 		"category": "Noncoding",
 		"value": 64
 	},
 	{
-		"coord: ""151213432-156213432",
+		"coord": "151213432-156213432",
 		"category": "Coding",
 		"value": 121
 	},
 	{
-		"coord: ""156213432-161213432",
+		"coord": "156213432-161213432",
 		"category": "Noncoding",
 		"value": 54
 	},
 	{
-		"coord: ""156213432-161213432",
+		"coord": "156213432-161213432",
 		"category": "Coding",
 		"value": 88
 	},
 	{
-		"coord: ""161213432-166213432",
+		"coord": "161213432-166213432",
 		"category": "Noncoding",
 		"value": 60
 	},
 	{
-		"coord: ""161213432-166213432",
+		"coord": "161213432-166213432",
 		"category": "Coding",
 		"value": 51
 	},
 	{
-		"coord: ""166213432-171213432",
+		"coord": "166213432-171213432",
 		"category": "Noncoding",
 		"value": 53
 	},
 	{
-		"coord: ""166213432-171213432",
+		"coord": "166213432-171213432",
 		"category": "Coding",
 		"value": 80
 	},
 	{
-		"coord: ""171213432-176213432",
+		"coord": "171213432-176213432",
 		"category": "Noncoding",
 		"value": 80
 	},
 	{
-		"coord: ""171213432-176213432",
+		"coord": "171213432-176213432",
 		"category": "Coding",
 		"value": 38
 	},
 	{
-		"coord: ""176213432-181213432",
+		"coord": "176213432-181213432",
 		"category": "Noncoding",
 		"value": 0
 	},
 	{
-		"coord: ""176213432-181213432",
+		"coord": "176213432-181213432",
 		"category": "Coding",
 		"value": 18
 	},
 	{
-		"coord: ""135534748-140534748",
+		"coord": "135534748-140534748",
 		"category": "Noncoding",
 		"value": 37
 	},
 	{
-		"coord: ""135534748-140534748",
+		"coord": "135534748-140534748",
 		"category": "Coding",
 		"value": 67
 	},
 	{
-		"coord: ""180534748-185534748",
+		"coord": "180534748-185534748",
 		"category": "Noncoding",
 		"value": 26
 	},
 	{
-		"coord: ""180534748-185534748",
+		"coord": "180534748-185534748",
 		"category": "Coding",
 		"value": 193
 	},
 	{
-		"coord: ""190534748-195534748",
+		"coord": "190534748-195534748",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""190534748-195534748",
+		"coord": "190534748-195534748",
 		"category": "Coding",
 		"value": 32
 	},
 	{
-		"coord: ""195534748-200534748",
+		"coord": "195534748-200534748",
 		"category": "Noncoding",
 		"value": 55
 	},
 	{
-		"coord: ""195534748-200534748",
+		"coord": "195534748-200534748",
 		"category": "Coding",
 		"value": 231
 	},
 	{
-		"coord: ""200534748-205534748",
+		"coord": "200534748-205534748",
 		"category": "Noncoding",
 		"value": 20
 	},
 	{
-		"coord: ""200534748-205534748",
+		"coord": "200534748-205534748",
 		"category": "Coding",
 		"value": 48
 	},
 	{
-		"coord: ""205534748-210534748",
+		"coord": "205534748-210534748",
 		"category": "Noncoding",
 		"value": 70
 	},
 	{
-		"coord: ""205534748-210534748",
+		"coord": "205534748-210534748",
 		"category": "Coding",
 		"value": 187
 	},
 	{
-		"coord: ""210534748-215534748",
+		"coord": "210534748-215534748",
 		"category": "Noncoding",
 		"value": 112
 	},
 	{
-		"coord: ""210534748-215534748",
+		"coord": "210534748-215534748",
 		"category": "Coding",
 		"value": 105
 	},
 	{
-		"coord: ""215534748-220534748",
+		"coord": "215534748-220534748",
 		"category": "Noncoding",
 		"value": 55
 	},
 	{
-		"coord: ""215534748-220534748",
+		"coord": "215534748-220534748",
 		"category": "Coding",
 		"value": 52
 	},
 	{
-		"coord: ""220534748-225534748",
+		"coord": "220534748-225534748",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""220534748-225534748",
+		"coord": "220534748-225534748",
 		"category": "Coding",
 		"value": 41
 	},
 	{
-		"coord: ""225534748-230534748",
+		"coord": "225534748-230534748",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""225534748-230534748",
+		"coord": "225534748-230534748",
 		"category": "Coding",
 		"value": 19
 	},
 	{
-		"coord: ""140534748-145534748",
+		"coord": "140534748-145534748",
 		"category": "Noncoding",
 		"value": 27
 	},
 	{
-		"coord: ""140534748-145534748",
+		"coord": "140534748-145534748",
 		"category": "Coding",
 		"value": 52
 	},
 	{
-		"coord: ""235534748-240534748",
+		"coord": "235534748-240534748",
 		"category": "Noncoding",
 		"value": 20
 	},
 	{
-		"coord: ""235534748-240534748",
+		"coord": "235534748-240534748",
 		"category": "Coding",
 		"value": 119
 	},
 	{
-		"coord: ""240534748-245534748",
+		"coord": "240534748-245534748",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""240534748-245534748",
+		"coord": "240534748-245534748",
 		"category": "Coding",
 		"value": 69
 	},
 	{
-		"coord: ""245534748-250534748",
+		"coord": "245534748-250534748",
 		"category": "Noncoding",
 		"value": 38
 	},
 	{
-		"coord: ""245534748-250534748",
+		"coord": "245534748-250534748",
 		"category": "Coding",
 		"value": 102
 	},
 	{
-		"coord: ""250534748-255534748",
+		"coord": "250534748-255534748",
 		"category": "Noncoding",
 		"value": 11
 	},
 	{
-		"coord: ""250534748-255534748",
+		"coord": "250534748-255534748",
 		"category": "Coding",
 		"value": 57
 	},
 	{
-		"coord: ""255534748-260534748",
+		"coord": "255534748-260534748",
 		"category": "Noncoding",
 		"value": 53
 	},
 	{
-		"coord: ""255534748-260534748",
+		"coord": "255534748-260534748",
 		"category": "Coding",
 		"value": 74
 	},
 	{
-		"coord: ""260534748-265534748",
+		"coord": "260534748-265534748",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""260534748-265534748",
+		"coord": "260534748-265534748",
 		"category": "Coding",
 		"value": 47
 	},
 	{
-		"coord: ""265534748-270534748",
+		"coord": "265534748-270534748",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""265534748-270534748",
+		"coord": "265534748-270534748",
 		"category": "Coding",
 		"value": 34
 	},
 	{
-		"coord: ""145534748-150534748",
+		"coord": "145534748-150534748",
 		"category": "Noncoding",
 		"value": 32
 	},
 	{
-		"coord: ""145534748-150534748",
+		"coord": "145534748-150534748",
 		"category": "Coding",
 		"value": 140
 	},
 	{
-		"coord: ""150534748-155534748",
+		"coord": "150534748-155534748",
 		"category": "Noncoding",
 		"value": 54
 	},
 	{
-		"coord: ""150534748-155534748",
+		"coord": "150534748-155534748",
 		"category": "Coding",
 		"value": 150
 	},
 	{
-		"coord: ""155534748-160534748",
+		"coord": "155534748-160534748",
 		"category": "Noncoding",
 		"value": 83
 	},
 	{
-		"coord: ""155534748-160534748",
+		"coord": "155534748-160534748",
 		"category": "Coding",
 		"value": 72
 	},
 	{
-		"coord: ""160534748-165534748",
+		"coord": "160534748-165534748",
 		"category": "Noncoding",
 		"value": 6
 	},
 	{
-		"coord: ""160534748-165534748",
+		"coord": "160534748-165534748",
 		"category": "Coding",
 		"value": 5
 	},
 	{
-		"coord: ""165534748-170534748",
+		"coord": "165534748-170534748",
 		"category": "Noncoding",
 		"value": 23
 	},
 	{
-		"coord: ""165534748-170534748",
+		"coord": "165534748-170534748",
 		"category": "Coding",
 		"value": 90
 	},
 	{
-		"coord: ""170534748-175534748",
+		"coord": "170534748-175534748",
 		"category": "Noncoding",
 		"value": 50
 	},
 	{
-		"coord: ""170534748-175534748",
+		"coord": "170534748-175534748",
 		"category": "Coding",
 		"value": 21
 	},
 	{
-		"coord: ""175534748-180534748",
+		"coord": "175534748-180534748",
 		"category": "Noncoding",
 		"value": 7
 	},
 	{
-		"coord: ""175534748-180534748",
+		"coord": "175534748-180534748",
 		"category": "Coding",
 		"value": 3
 	},
 	{
-		"coord: ""135006517-140006517",
+		"coord": "135006517-140006517",
 		"category": "Noncoding",
 		"value": 31
 	},
 	{
-		"coord: ""135006517-140006517",
+		"coord": "135006517-140006517",
 		"category": "Coding",
 		"value": 102
 	},
 	{
-		"coord: ""180006517-185006517",
+		"coord": "180006517-185006517",
 		"category": "Noncoding",
 		"value": 21
 	},
 	{
-		"coord: ""180006517-185006517",
+		"coord": "180006517-185006517",
 		"category": "Coding",
 		"value": 66
 	},
 	{
-		"coord: ""185006517-190006517",
+		"coord": "185006517-190006517",
 		"category": "Noncoding",
 		"value": 57
 	},
 	{
-		"coord: ""185006517-190006517",
+		"coord": "185006517-190006517",
 		"category": "Coding",
 		"value": 92
 	},
 	{
-		"coord: ""190006517-195006517",
+		"coord": "190006517-195006517",
 		"category": "Noncoding",
 		"value": 51
 	},
 	{
-		"coord: ""190006517-195006517",
+		"coord": "190006517-195006517",
 		"category": "Coding",
 		"value": 153
 	},
 	{
-		"coord: ""200006517-205006517",
+		"coord": "200006517-205006517",
 		"category": "Noncoding",
 		"value": 67
 	},
 	{
-		"coord: ""200006517-205006517",
+		"coord": "200006517-205006517",
 		"category": "Coding",
 		"value": 57
 	},
 	{
-		"coord: ""205006517-210006517",
+		"coord": "205006517-210006517",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""205006517-210006517",
+		"coord": "205006517-210006517",
 		"category": "Coding",
 		"value": 37
 	},
 	{
-		"coord: ""210006517-215006517",
+		"coord": "210006517-215006517",
 		"category": "Noncoding",
 		"value": 24
 	},
 	{
-		"coord: ""210006517-215006517",
+		"coord": "210006517-215006517",
 		"category": "Coding",
 		"value": 62
 	},
 	{
-		"coord: ""215006517-220006517",
+		"coord": "215006517-220006517",
 		"category": "Noncoding",
 		"value": 40
 	},
 	{
-		"coord: ""215006517-220006517",
+		"coord": "215006517-220006517",
 		"category": "Coding",
 		"value": 125
 	},
 	{
-		"coord: ""220006517-225006517",
+		"coord": "220006517-225006517",
 		"category": "Noncoding",
 		"value": 21
 	},
 	{
-		"coord: ""220006517-225006517",
+		"coord": "220006517-225006517",
 		"category": "Coding",
 		"value": 82
 	},
 	{
-		"coord: ""225006517-230006517",
+		"coord": "225006517-230006517",
 		"category": "Noncoding",
 		"value": 32
 	},
 	{
-		"coord: ""225006517-230006517",
+		"coord": "225006517-230006517",
 		"category": "Coding",
 		"value": 39
 	},
 	{
-		"coord: ""140006517-145006517",
+		"coord": "140006517-145006517",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""140006517-145006517",
+		"coord": "140006517-145006517",
 		"category": "Coding",
 		"value": 14
 	},
 	{
-		"coord: ""230006517-235006517",
+		"coord": "230006517-235006517",
 		"category": "Noncoding",
 		"value": 17
 	},
 	{
-		"coord: ""230006517-235006517",
+		"coord": "230006517-235006517",
 		"category": "Coding",
 		"value": 86
 	},
 	{
-		"coord: ""235006517-240006517",
+		"coord": "235006517-240006517",
 		"category": "Noncoding",
 		"value": 30
 	},
 	{
-		"coord: ""235006517-240006517",
+		"coord": "235006517-240006517",
 		"category": "Coding",
 		"value": 156
 	},
 	{
-		"coord: ""240006517-245006517",
+		"coord": "240006517-245006517",
 		"category": "Noncoding",
 		"value": 28
 	},
 	{
-		"coord: ""240006517-245006517",
+		"coord": "240006517-245006517",
 		"category": "Coding",
 		"value": 146
 	},
 	{
-		"coord: ""245006517-250006517",
+		"coord": "245006517-250006517",
 		"category": "Noncoding",
 		"value": 27
 	},
 	{
-		"coord: ""245006517-250006517",
+		"coord": "245006517-250006517",
 		"category": "Coding",
 		"value": 152
 	},
 	{
-		"coord: ""250006517-255006517",
+		"coord": "250006517-255006517",
 		"category": "Noncoding",
 		"value": 48
 	},
 	{
-		"coord: ""250006517-255006517",
+		"coord": "250006517-255006517",
 		"category": "Coding",
 		"value": 83
 	},
 	{
-		"coord: ""255006517-260006517",
+		"coord": "255006517-260006517",
 		"category": "Noncoding",
 		"value": 61
 	},
 	{
-		"coord: ""255006517-260006517",
+		"coord": "255006517-260006517",
 		"category": "Coding",
 		"value": 467
 	},
 	{
-		"coord: ""260006517-265006517",
+		"coord": "260006517-265006517",
 		"category": "Noncoding",
 		"value": 0
 	},
 	{
-		"coord: ""260006517-265006517",
+		"coord": "260006517-265006517",
 		"category": "Coding",
 		"value": 17
 	},
 	{
-		"coord: ""265006517-268858411",
+		"coord": "265006517-268858411",
 		"category": "Noncoding",
 		"value": 35
 	},
 	{
-		"coord: ""265006517-268858411",
+		"coord": "265006517-268858411",
 		"category": "Coding",
 		"value": 153
 	},
 	{
-		"coord: ""145006517-150006517",
+		"coord": "145006517-150006517",
 		"category": "Noncoding",
 		"value": 19
 	},
 	{
-		"coord: ""145006517-150006517",
+		"coord": "145006517-150006517",
 		"category": "Coding",
 		"value": 11
 	},
 	{
-		"coord: ""150006517-155006517",
+		"coord": "150006517-155006517",
 		"category": "Noncoding",
 		"value": 51
 	},
 	{
-		"coord: ""150006517-155006517",
+		"coord": "150006517-155006517",
 		"category": "Coding",
 		"value": 93
 	},
 	{
-		"coord: ""155006517-160006517",
+		"coord": "155006517-160006517",
 		"category": "Noncoding",
 		"value": 24
 	},
 	{
-		"coord: ""155006517-160006517",
+		"coord": "155006517-160006517",
 		"category": "Coding",
 		"value": 20
 	},
 	{
-		"coord: ""160006517-165006517",
+		"coord": "160006517-165006517",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""160006517-165006517",
+		"coord": "160006517-165006517",
 		"category": "Coding",
 		"value": 48
 	},
 	{
-		"coord: ""165006517-170006517",
+		"coord": "165006517-170006517",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""165006517-170006517",
+		"coord": "165006517-170006517",
 		"category": "Coding",
 		"value": 6
 	},
 	{
-		"coord: ""175006517-180006517",
+		"coord": "175006517-180006517",
 		"category": "Noncoding",
 		"value": 40
 	},
 	{
-		"coord: ""175006517-180006517",
+		"coord": "175006517-180006517",
 		"category": "Coding",
 		"value": 20
 	},
 	{
-		"coord: ""178851896-183851896",
+		"coord": "178851896-183851896",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""178851896-183851896",
+		"coord": "178851896-183851896",
 		"category": "Coding",
 		"value": 86
 	},
 	{
-		"coord: ""183851896-188851896",
+		"coord": "183851896-188851896",
 		"category": "Noncoding",
 		"value": 13
 	},
 	{
-		"coord: ""183851896-188851896",
+		"coord": "183851896-188851896",
 		"category": "Coding",
 		"value": 59
 	},
 	{
-		"coord: ""193851896-198851896",
+		"coord": "193851896-198851896",
 		"category": "Noncoding",
 		"value": 13
 	},
 	{
-		"coord: ""193851896-198851896",
+		"coord": "193851896-198851896",
 		"category": "Coding",
 		"value": 17
 	},
 	{
-		"coord: ""198851896-203851896",
+		"coord": "198851896-203851896",
 		"category": "Noncoding",
 		"value": 63
 	},
 	{
-		"coord: ""198851896-203851896",
+		"coord": "198851896-203851896",
 		"category": "Coding",
 		"value": 3
 	},
 	{
-		"coord: ""203851896-208851896",
+		"coord": "203851896-208851896",
 		"category": "Noncoding",
 		"value": 42
 	},
 	{
-		"coord: ""203851896-208851896",
+		"coord": "203851896-208851896",
 		"category": "Coding",
 		"value": 50
 	},
 	{
-		"coord: ""208851896-213851896",
+		"coord": "208851896-213851896",
 		"category": "Noncoding",
 		"value": 65
 	},
 	{
-		"coord: ""208851896-213851896",
+		"coord": "208851896-213851896",
 		"category": "Coding",
 		"value": 120
 	},
 	{
-		"coord: ""213851896-218851896",
+		"coord": "213851896-218851896",
 		"category": "Noncoding",
 		"value": 25
 	},
 	{
-		"coord: ""213851896-218851896",
+		"coord": "213851896-218851896",
 		"category": "Coding",
 		"value": 4
 	},
 	{
-		"coord: ""218851896-223851896",
+		"coord": "218851896-223851896",
 		"category": "Noncoding",
 		"value": 62
 	},
 	{
-		"coord: ""218851896-223851896",
+		"coord": "218851896-223851896",
 		"category": "Coding",
 		"value": 32
 	},
 	{
-		"coord: ""228851896-233851896",
+		"coord": "228851896-233851896",
 		"category": "Noncoding",
 		"value": 49
 	},
 	{
-		"coord: ""228851896-233851896",
+		"coord": "228851896-233851896",
 		"category": "Coding",
 		"value": 62
 	},
 	{
-		"coord: ""233851896-238851896",
+		"coord": "233851896-238851896",
 		"category": "Noncoding",
 		"value": 94
 	},
 	{
-		"coord: ""233851896-238851896",
+		"coord": "233851896-238851896",
 		"category": "Coding",
 		"value": 107
 	},
 	{
-		"coord: ""238851896-243851896",
+		"coord": "238851896-243851896",
 		"category": "Noncoding",
 		"value": 55
 	},
 	{
-		"coord: ""238851896-243851896",
+		"coord": "238851896-243851896",
 		"category": "Coding",
 		"value": 21
 	},
 	{
-		"coord: ""243851896-248851896",
+		"coord": "243851896-248851896",
 		"category": "Noncoding",
 		"value": 26
 	},
 	{
-		"coord: ""243851896-248851896",
+		"coord": "243851896-248851896",
 		"category": "Coding",
 		"value": 136
 	},
 	{
-		"coord: ""153851896-158851896",
+		"coord": "153851896-158851896",
 		"category": "Noncoding",
 		"value": 20
 	},
 	{
-		"coord: ""153851896-158851896",
+		"coord": "153851896-158851896",
 		"category": "Coding",
 		"value": 97
 	},
 	{
-		"coord: ""158851896-163851896",
+		"coord": "158851896-163851896",
 		"category": "Noncoding",
 		"value": 31
 	},
 	{
-		"coord: ""158851896-163851896",
+		"coord": "158851896-163851896",
 		"category": "Coding",
 		"value": 113
 	},
 	{
-		"coord: ""163851896-168851896",
+		"coord": "163851896-168851896",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""163851896-168851896",
+		"coord": "163851896-168851896",
 		"category": "Coding",
 		"value": 23
 	},
 	{
-		"coord: ""168851896-173851896",
+		"coord": "168851896-173851896",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""168851896-173851896",
+		"coord": "168851896-173851896",
 		"category": "Coding",
 		"value": 45
 	},
 	{
-		"coord: ""173851896-178851896",
+		"coord": "173851896-178851896",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""173851896-178851896",
+		"coord": "173851896-178851896",
 		"category": "Coding",
 		"value": 49
 	},
 	{
-		"coord: ""160169879-165169879",
+		"coord": "160169879-165169879",
 		"category": "Noncoding",
 		"value": 124
 	},
 	{
-		"coord: ""160169879-165169879",
+		"coord": "160169879-165169879",
 		"category": "Coding",
 		"value": 40
 	},
 	{
-		"coord: ""165169879-170169879",
+		"coord": "165169879-170169879",
 		"category": "Noncoding",
 		"value": 12
 	},
 	{
-		"coord: ""165169879-170169879",
+		"coord": "165169879-170169879",
 		"category": "Coding",
 		"value": 135
 	},
 	{
-		"coord: ""170169879-175169879",
+		"coord": "170169879-175169879",
 		"category": "Noncoding",
 		"value": 134
 	},
 	{
-		"coord: ""170169879-175169879",
+		"coord": "170169879-175169879",
 		"category": "Coding",
 		"value": 179
 	},
 	{
-		"coord: ""175169879-180169879",
+		"coord": "175169879-180169879",
 		"category": "Noncoding",
 		"value": 9
 	},
 	{
-		"coord: ""175169879-180169879",
+		"coord": "175169879-180169879",
 		"category": "Coding",
 		"value": 26
 	},
 	{
-		"coord: ""180169879-185169879",
+		"coord": "180169879-185169879",
 		"category": "Noncoding",
 		"value": 103
 	},
 	{
-		"coord: ""180169879-185169879",
+		"coord": "180169879-185169879",
 		"category": "Coding",
 		"value": 124
 	},
 	{
-		"coord: ""185169879-190169879",
+		"coord": "185169879-190169879",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""185169879-190169879",
+		"coord": "185169879-190169879",
 		"category": "Coding",
 		"value": 68
 	},
 	{
-		"coord: ""190169879-195169879",
+		"coord": "190169879-195169879",
 		"category": "Noncoding",
 		"value": 110
 	},
 	{
-		"coord: ""190169879-195169879",
+		"coord": "190169879-195169879",
 		"category": "Coding",
 		"value": 205
 	},
 	{
-		"coord: ""195169879-200169879",
+		"coord": "195169879-200169879",
 		"category": "Noncoding",
 		"value": 33
 	},
 	{
-		"coord: ""195169879-200169879",
+		"coord": "195169879-200169879",
 		"category": "Coding",
 		"value": 18
 	},
 	{
-		"coord: ""200169879-205169879",
+		"coord": "200169879-205169879",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""200169879-205169879",
+		"coord": "200169879-205169879",
 		"category": "Coding",
 		"value": 10
 	},
 	{
-		"coord: ""205169879-210169879",
+		"coord": "205169879-210169879",
 		"category": "Noncoding",
 		"value": 52
 	},
 	{
-		"coord: ""205169879-210169879",
+		"coord": "205169879-210169879",
 		"category": "Coding",
 		"value": 209
 	},
 	{
-		"coord: ""210169879-215169879",
+		"coord": "210169879-215169879",
 		"category": "Noncoding",
 		"value": 50
 	},
 	{
-		"coord: ""210169879-215169879",
+		"coord": "210169879-215169879",
 		"category": "Coding",
 		"value": 110
 	},
 	{
-		"coord: ""215169879-220169879",
+		"coord": "215169879-220169879",
 		"category": "Noncoding",
 		"value": 30
 	},
 	{
-		"coord: ""215169879-220169879",
+		"coord": "215169879-220169879",
 		"category": "Coding",
 		"value": 103
 	},
 	{
-		"coord: ""220169879-222519418",
+		"coord": "220169879-222519418",
 		"category": "Noncoding",
 		"value": 7
 	},
 	{
-		"coord: ""220169879-222519418",
+		"coord": "220169879-222519418",
 		"category": "Coding",
 		"value": 64
 	},
 	{
-		"coord: ""135169879-140169879",
+		"coord": "135169879-140169879",
 		"category": "Noncoding",
 		"value": 41
 	},
 	{
-		"coord: ""135169879-140169879",
+		"coord": "135169879-140169879",
 		"category": "Coding",
 		"value": 153
 	},
 	{
-		"coord: ""145169879-150169879",
+		"coord": "145169879-150169879",
 		"category": "Noncoding",
 		"value": 215
 	},
 	{
-		"coord: ""145169879-150169879",
+		"coord": "145169879-150169879",
 		"category": "Coding",
 		"value": 80
 	},
 	{
-		"coord: ""150169879-155169879",
+		"coord": "150169879-155169879",
 		"category": "Noncoding",
 		"value": 69
 	},
 	{
-		"coord: ""150169879-155169879",
+		"coord": "150169879-155169879",
 		"category": "Coding",
 		"value": 112
 	},
 	{
-		"coord: ""152349541-157349541",
+		"coord": "152349541-157349541",
 		"category": "Noncoding",
 		"value": 21
 	},
 	{
-		"coord: ""152349541-157349541",
+		"coord": "152349541-157349541",
 		"category": "Coding",
 		"value": 76
 	},
 	{
-		"coord: ""157349541-162349541",
+		"coord": "157349541-162349541",
 		"category": "Noncoding",
 		"value": 15
 	},
 	{
-		"coord: ""157349541-162349541",
+		"coord": "157349541-162349541",
 		"category": "Coding",
 		"value": 39
 	},
 	{
-		"coord: ""162349541-167349541",
+		"coord": "162349541-167349541",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""162349541-167349541",
+		"coord": "162349541-167349541",
 		"category": "Coding",
 		"value": 78
 	},
 	{
-		"coord: ""167349541-172349541",
+		"coord": "167349541-172349541",
 		"category": "Noncoding",
 		"value": 106
 	},
 	{
-		"coord: ""167349541-172349541",
+		"coord": "167349541-172349541",
 		"category": "Coding",
 		"value": 62
 	},
 	{
-		"coord: ""172349541-177349541",
+		"coord": "172349541-177349541",
 		"category": "Noncoding",
 		"value": 23
 	},
 	{
-		"coord: ""172349541-177349541",
+		"coord": "172349541-177349541",
 		"category": "Coding",
 		"value": 149
 	},
 	{
-		"coord: ""177349541-182349541",
+		"coord": "177349541-182349541",
 		"category": "Noncoding",
 		"value": 29
 	},
 	{
-		"coord: ""177349541-182349541",
+		"coord": "177349541-182349541",
 		"category": "Coding",
 		"value": 45
 	},
 	{
-		"coord: ""182349541-187349541",
+		"coord": "182349541-187349541",
 		"category": "Noncoding",
 		"value": 42
 	},
 	{
-		"coord: ""182349541-187349541",
+		"coord": "182349541-187349541",
 		"category": "Coding",
 		"value": 131
 	},
 	{
-		"coord: ""187349541-192349541",
+		"coord": "187349541-192349541",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""187349541-192349541",
+		"coord": "187349541-192349541",
 		"category": "Coding",
 		"value": 49
 	},
 	{
-		"coord: ""192349541-197349541",
+		"coord": "192349541-197349541",
 		"category": "Noncoding",
 		"value": 79
 	},
 	{
-		"coord: ""192349541-197349541",
+		"coord": "192349541-197349541",
 		"category": "Coding",
 		"value": 79
 	},
 	{
-		"coord: ""197349541-202349541",
+		"coord": "197349541-202349541",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""197349541-202349541",
+		"coord": "197349541-202349541",
 		"category": "Coding",
 		"value": 14
 	},
 	{
-		"coord: ""207349541-209880932",
+		"coord": "207349541-209880932",
 		"category": "Noncoding",
 		"value": 34
 	},
 	{
-		"coord: ""207349541-209880932",
+		"coord": "207349541-209880932",
 		"category": "Coding",
 		"value": 61
 	},
 	{
-		"coord: ""132349541-137349541",
+		"coord": "132349541-137349541",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""132349541-137349541",
+		"coord": "132349541-137349541",
 		"category": "Coding",
 		"value": 104
 	},
 	{
-		"coord: ""137349541-142349541",
+		"coord": "137349541-142349541",
 		"category": "Noncoding",
 		"value": 12
 	},
 	{
-		"coord: ""137349541-142349541",
+		"coord": "137349541-142349541",
 		"category": "Coding",
 		"value": 38
 	},
 	{
-		"coord: ""142349541-147349541",
+		"coord": "142349541-147349541",
 		"category": "Noncoding",
 		"value": 146
 	},
 	{
-		"coord: ""142349541-147349541",
+		"coord": "142349541-147349541",
 		"category": "Coding",
 		"value": 73
 	},
 	{
-		"coord: ""147349541-152349541",
+		"coord": "147349541-152349541",
 		"category": "Noncoding",
 		"value": 100
 	},
 	{
-		"coord: ""147349541-152349541",
+		"coord": "147349541-152349541",
 		"category": "Coding",
 		"value": 446
 	},
 	{
-		"coord: ""102531393-107531393",
+		"coord": "102531393-107531393",
 		"category": "Noncoding",
 		"value": 146
 	},
 	{
-		"coord: ""102531393-107531393",
+		"coord": "102531393-107531393",
 		"category": "Coding",
 		"value": 581
 	},
 	{
-		"coord: ""147531393-152531393",
+		"coord": "147531393-152531393",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""147531393-152531393",
+		"coord": "147531393-152531393",
 		"category": "Coding",
 		"value": 21
 	},
 	{
-		"coord: ""152531393-157531393",
+		"coord": "152531393-157531393",
 		"category": "Noncoding",
 		"value": 720
 	},
 	{
-		"coord: ""152531393-157531393",
+		"coord": "152531393-157531393",
 		"category": "Coding",
 		"value": 203
 	},
 	{
-		"coord: ""157531393-162531393",
+		"coord": "157531393-162531393",
 		"category": "Noncoding",
 		"value": 96
 	},
 	{
-		"coord: ""157531393-162531393",
+		"coord": "157531393-162531393",
 		"category": "Coding",
 		"value": 251
 	},
 	{
-		"coord: ""167531393-172531393",
+		"coord": "167531393-172531393",
 		"category": "Noncoding",
 		"value": 102
 	},
 	{
-		"coord: ""167531393-172531393",
+		"coord": "167531393-172531393",
 		"category": "Coding",
 		"value": 172
 	},
 	{
-		"coord: ""172531393-177531393",
+		"coord": "172531393-177531393",
 		"category": "Noncoding",
 		"value": 54
 	},
 	{
-		"coord: ""172531393-177531393",
+		"coord": "172531393-177531393",
 		"category": "Coding",
 		"value": 166
 	},
 	{
-		"coord: ""177531393-182531393",
+		"coord": "177531393-182531393",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""177531393-182531393",
+		"coord": "177531393-182531393",
 		"category": "Coding",
 		"value": 18
 	},
 	{
-		"coord: ""182531393-187531393",
+		"coord": "182531393-187531393",
 		"category": "Noncoding",
 		"value": 87
 	},
 	{
-		"coord: ""182531393-187531393",
+		"coord": "182531393-187531393",
 		"category": "Coding",
 		"value": 66
 	},
 	{
-		"coord: ""187531393-192531393",
+		"coord": "187531393-192531393",
 		"category": "Noncoding",
 		"value": 50
 	},
 	{
-		"coord: ""187531393-192531393",
+		"coord": "187531393-192531393",
 		"category": "Coding",
 		"value": 296
 	},
 	{
-		"coord: ""192531393-192886145",
+		"coord": "192531393-192886145",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""192531393-192886145",
+		"coord": "192531393-192886145",
 		"category": "Coding",
 		"value": 20
 	},
 	{
-		"coord: ""107531393-112531393",
+		"coord": "107531393-112531393",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""107531393-112531393",
+		"coord": "107531393-112531393",
 		"category": "Coding",
 		"value": 19
 	},
 	{
-		"coord: ""112531393-117531393",
+		"coord": "112531393-117531393",
 		"category": "Noncoding",
 		"value": 22
 	},
 	{
-		"coord: ""112531393-117531393",
+		"coord": "112531393-117531393",
 		"category": "Coding",
 		"value": 78
 	},
 	{
-		"coord: ""117531393-122531393",
+		"coord": "117531393-122531393",
 		"category": "Noncoding",
 		"value": 7
 	},
 	{
-		"coord: ""117531393-122531393",
+		"coord": "117531393-122531393",
 		"category": "Coding",
 		"value": 42
 	},
 	{
-		"coord: ""122531393-127531393",
+		"coord": "122531393-127531393",
 		"category": "Noncoding",
 		"value": 27
 	},
 	{
-		"coord: ""122531393-127531393",
+		"coord": "122531393-127531393",
 		"category": "Coding",
 		"value": 196
 	},
 	{
-		"coord: ""127531393-132531393",
+		"coord": "127531393-132531393",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""127531393-132531393",
+		"coord": "127531393-132531393",
 		"category": "Coding",
 		"value": 130
 	},
 	{
-		"coord: ""132531393-137531393",
+		"coord": "132531393-137531393",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""132531393-137531393",
+		"coord": "132531393-137531393",
 		"category": "Coding",
 		"value": 41
 	},
 	{
-		"coord: ""90354754-95354754",
+		"coord": "90354754-95354754",
 		"category": "Noncoding",
 		"value": 73
 	},
 	{
-		"coord: ""90354754-95354754",
+		"coord": "90354754-95354754",
 		"category": "Coding",
 		"value": 209
 	},
 	{
-		"coord: ""135354754-140354754",
+		"coord": "135354754-140354754",
 		"category": "Noncoding",
 		"value": 125
 	},
 	{
-		"coord: ""135354754-140354754",
+		"coord": "135354754-140354754",
 		"category": "Coding",
 		"value": 127
 	},
 	{
-		"coord: ""140354754-145354754",
+		"coord": "140354754-145354754",
 		"category": "Noncoding",
 		"value": 95
 	},
 	{
-		"coord: ""140354754-145354754",
+		"coord": "140354754-145354754",
 		"category": "Coding",
 		"value": 50
 	},
 	{
-		"coord: ""145354754-150354754",
+		"coord": "145354754-150354754",
 		"category": "Noncoding",
 		"value": 94
 	},
 	{
-		"coord: ""145354754-150354754",
+		"coord": "145354754-150354754",
 		"category": "Coding",
 		"value": 148
 	},
 	{
-		"coord: ""150354754-155354754",
+		"coord": "150354754-155354754",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""150354754-155354754",
+		"coord": "150354754-155354754",
 		"category": "Coding",
 		"value": 51
 	},
 	{
-		"coord: ""155354754-160354754",
+		"coord": "155354754-160354754",
 		"category": "Noncoding",
 		"value": 49
 	},
 	{
-		"coord: ""155354754-160354754",
+		"coord": "155354754-160354754",
 		"category": "Coding",
 		"value": 97
 	},
 	{
-		"coord: ""160354754-165354754",
+		"coord": "160354754-165354754",
 		"category": "Noncoding",
 		"value": 116
 	},
 	{
-		"coord: ""160354754-165354754",
+		"coord": "160354754-165354754",
 		"category": "Coding",
 		"value": 248
 	},
 	{
-		"coord: ""165354754-170354754",
+		"coord": "165354754-170354754",
 		"category": "Noncoding",
 		"value": 49
 	},
 	{
-		"coord: ""165354754-170354754",
+		"coord": "165354754-170354754",
 		"category": "Coding",
 		"value": 223
 	},
 	{
-		"coord: ""170354754-171549963",
+		"coord": "170354754-171549963",
 		"category": "Noncoding",
 		"value": 17
 	},
 	{
-		"coord: ""170354754-171549963",
+		"coord": "170354754-171549963",
 		"category": "Coding",
 		"value": 99
 	},
 	{
-		"coord: ""95354754-100354754",
+		"coord": "95354754-100354754",
 		"category": "Noncoding",
 		"value": 127
 	},
 	{
-		"coord: ""95354754-100354754",
+		"coord": "95354754-100354754",
 		"category": "Coding",
 		"value": 257
 	},
 	{
-		"coord: ""100354754-105354754",
+		"coord": "100354754-105354754",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""100354754-105354754",
+		"coord": "100354754-105354754",
 		"category": "Coding",
 		"value": 9
 	},
 	{
-		"coord: ""105354754-110354754",
+		"coord": "105354754-110354754",
 		"category": "Noncoding",
 		"value": 24
 	},
 	{
-		"coord: ""105354754-110354754",
+		"coord": "105354754-110354754",
 		"category": "Coding",
 		"value": 208
 	},
 	{
-		"coord: ""110354754-115354754",
+		"coord": "110354754-115354754",
 		"category": "Noncoding",
 		"value": 0
 	},
 	{
-		"coord: ""110354754-115354754",
+		"coord": "110354754-115354754",
 		"category": "Coding",
 		"value": 4
 	},
 	{
-		"coord: ""115354754-120354754",
+		"coord": "115354754-120354754",
 		"category": "Noncoding",
 		"value": 62
 	},
 	{
-		"coord: ""115354754-120354754",
+		"coord": "115354754-120354754",
 		"category": "Coding",
 		"value": 157
 	},
 	{
-		"coord: ""120354754-125354754",
+		"coord": "120354754-125354754",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""120354754-125354754",
+		"coord": "120354754-125354754",
 		"category": "Coding",
 		"value": 114
 	},
 	{
-		"coord: ""125354754-130354754",
+		"coord": "125354754-130354754",
 		"category": "Noncoding",
 		"value": 73
 	},
 	{
-		"coord: ""125354754-130354754",
+		"coord": "125354754-130354754",
 		"category": "Coding",
 		"value": 127
 	},
 	{
-		"coord: ""130354754-135354754",
+		"coord": "130354754-135354754",
 		"category": "Noncoding",
 		"value": 96
 	},
 	{
-		"coord: ""130354754-135354754",
+		"coord": "130354754-135354754",
 		"category": "Coding",
 		"value": 348
 	},
 	{
-		"coord: ""81195211-86195211",
+		"coord": "81195211-86195211",
 		"category": "Noncoding",
 		"value": 30
 	},
 	{
-		"coord: ""81195211-86195211",
+		"coord": "81195211-86195211",
 		"category": "Coding",
 		"value": 112
 	},
 	{
-		"coord: ""126195211-131195211",
+		"coord": "126195211-131195211",
 		"category": "Noncoding",
 		"value": 76
 	},
 	{
-		"coord: ""126195211-131195211",
+		"coord": "126195211-131195211",
 		"category": "Coding",
 		"value": 22
 	},
 	{
-		"coord: ""136195211-141195211",
+		"coord": "136195211-141195211",
 		"category": "Noncoding",
 		"value": 87
 	},
 	{
-		"coord: ""136195211-141195211",
+		"coord": "136195211-141195211",
 		"category": "Coding",
 		"value": 115
 	},
 	{
-		"coord: ""141195211-146195211",
+		"coord": "141195211-146195211",
 		"category": "Noncoding",
 		"value": 44
 	},
 	{
-		"coord: ""141195211-146195211",
+		"coord": "141195211-146195211",
 		"category": "Coding",
 		"value": 25
 	},
 	{
-		"coord: ""146195211-151195211",
+		"coord": "146195211-151195211",
 		"category": "Noncoding",
 		"value": 15
 	},
 	{
-		"coord: ""146195211-151195211",
+		"coord": "146195211-151195211",
 		"category": "Coding",
 		"value": 26
 	},
 	{
-		"coord: ""151195211-156195211",
+		"coord": "151195211-156195211",
 		"category": "Noncoding",
 		"value": 189
 	},
 	{
-		"coord: ""151195211-156195211",
+		"coord": "151195211-156195211",
 		"category": "Coding",
 		"value": 79
 	},
 	{
-		"coord: ""86195211-91195211",
+		"coord": "86195211-91195211",
 		"category": "Noncoding",
 		"value": 30
 	},
 	{
-		"coord: ""86195211-91195211",
+		"coord": "86195211-91195211",
 		"category": "Coding",
 		"value": 112
 	},
 	{
-		"coord: ""91195211-96195211",
+		"coord": "91195211-96195211",
 		"category": "Noncoding",
 		"value": 27
 	},
 	{
-		"coord: ""91195211-96195211",
+		"coord": "91195211-96195211",
 		"category": "Coding",
 		"value": 41
 	},
 	{
-		"coord: ""96195211-101195211",
+		"coord": "96195211-101195211",
 		"category": "Noncoding",
 		"value": 54
 	},
 	{
-		"coord: ""96195211-101195211",
+		"coord": "96195211-101195211",
 		"category": "Coding",
 		"value": 94
 	},
 	{
-		"coord: ""101195211-106195211",
+		"coord": "101195211-106195211",
 		"category": "Noncoding",
 		"value": 49
 	},
 	{
-		"coord: ""101195211-106195211",
+		"coord": "101195211-106195211",
 		"category": "Coding",
 		"value": 109
 	},
 	{
-		"coord: ""111195211-116195211",
+		"coord": "111195211-116195211",
 		"category": "Noncoding",
 		"value": 43
 	},
 	{
-		"coord: ""111195211-116195211",
+		"coord": "111195211-116195211",
 		"category": "Coding",
 		"value": 19
 	},
 	{
-		"coord: ""121195211-126195211",
+		"coord": "121195211-126195211",
 		"category": "Noncoding",
 		"value": 26
 	},
 	{
-		"coord: ""121195211-126195211",
+		"coord": "121195211-126195211",
 		"category": "Coding",
 		"value": 26
 	},
 	{
-		"coord: ""78077249-83077249",
+		"coord": "78077249-83077249",
 		"category": "Noncoding",
 		"value": 80
 	},
 	{
-		"coord: ""78077249-83077249",
+		"coord": "78077249-83077249",
 		"category": "Coding",
 		"value": 158
 	},
 	{
-		"coord: ""123077249-128077249",
+		"coord": "123077249-128077249",
 		"category": "Noncoding",
 		"value": 36
 	},
 	{
-		"coord: ""123077249-128077249",
+		"coord": "123077249-128077249",
 		"category": "Coding",
 		"value": 127
 	},
 	{
-		"coord: ""128077249-133077249",
+		"coord": "128077249-133077249",
 		"category": "Noncoding",
 		"value": 41
 	},
 	{
-		"coord: ""128077249-133077249",
+		"coord": "128077249-133077249",
 		"category": "Coding",
 		"value": 148
 	},
 	{
-		"coord: ""133077249-137206231",
+		"coord": "133077249-137206231",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""133077249-137206231",
+		"coord": "133077249-137206231",
 		"category": "Coding",
 		"value": 14
 	},
 	{
-		"coord: ""83077249-88077249",
+		"coord": "83077249-88077249",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""83077249-88077249",
+		"coord": "83077249-88077249",
 		"category": "Coding",
 		"value": 110
 	},
 	{
-		"coord: ""88077249-93077249",
+		"coord": "88077249-93077249",
 		"category": "Noncoding",
 		"value": 38
 	},
 	{
-		"coord: ""88077249-93077249",
+		"coord": "88077249-93077249",
 		"category": "Coding",
 		"value": 241
 	},
 	{
-		"coord: ""93077249-98077249",
+		"coord": "93077249-98077249",
 		"category": "Noncoding",
 		"value": 48
 	},
 	{
-		"coord: ""93077249-98077249",
+		"coord": "93077249-98077249",
 		"category": "Coding",
 		"value": 248
 	},
 	{
-		"coord: ""108077249-113077249",
+		"coord": "108077249-113077249",
 		"category": "Noncoding",
 		"value": 460
 	},
 	{
-		"coord: ""108077249-113077249",
+		"coord": "108077249-113077249",
 		"category": "Coding",
 		"value": 173
 	},
 	{
-		"coord: ""113077249-118077249",
+		"coord": "113077249-118077249",
 		"category": "Noncoding",
 		"value": 28
 	},
 	{
-		"coord: ""113077249-118077249",
+		"coord": "113077249-118077249",
 		"category": "Coding",
 		"value": 78
 	},
 	{
-		"coord: ""118077249-123077249",
+		"coord": "118077249-123077249",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""118077249-123077249",
+		"coord": "118077249-123077249",
 		"category": "Coding",
 		"value": 89
 	},
 	{
-		"coord: ""249250622-254250622",
+		"coord": "249250622-254250622",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""249250622-254250622",
+		"coord": "249250622-254250622",
 		"category": "Coding",
 		"value": 50
 	},
 	{
-		"coord: ""294250622-299250622",
+		"coord": "294250622-299250622",
 		"category": "Noncoding",
 		"value": 19
 	},
 	{
-		"coord: ""294250622-299250622",
+		"coord": "294250622-299250622",
 		"category": "Coding",
 		"value": 75
 	},
 	{
-		"coord: ""299250622-304250622",
+		"coord": "299250622-304250622",
 		"category": "Noncoding",
 		"value": 13
 	},
 	{
-		"coord: ""299250622-304250622",
+		"coord": "299250622-304250622",
 		"category": "Coding",
 		"value": 67
 	},
 	{
-		"coord: ""304250622-309250622",
+		"coord": "304250622-309250622",
 		"category": "Noncoding",
 		"value": 368
 	},
 	{
-		"coord: ""304250622-309250622",
+		"coord": "304250622-309250622",
 		"category": "Coding",
 		"value": 88
 	},
 	{
-		"coord: ""309250622-314250622",
+		"coord": "309250622-314250622",
 		"category": "Noncoding",
 		"value": 250
 	},
 	{
-		"coord: ""309250622-314250622",
+		"coord": "309250622-314250622",
 		"category": "Coding",
 		"value": 105
 	},
 	{
-		"coord: ""314250622-319250622",
+		"coord": "314250622-319250622",
 		"category": "Noncoding",
 		"value": 46
 	},
 	{
-		"coord: ""314250622-319250622",
+		"coord": "314250622-319250622",
 		"category": "Coding",
 		"value": 61
 	},
 	{
-		"coord: ""319250622-324250622",
+		"coord": "319250622-324250622",
 		"category": "Noncoding",
 		"value": 65
 	},
 	{
-		"coord: ""319250622-324250622",
+		"coord": "319250622-324250622",
 		"category": "Coding",
 		"value": 51
 	},
 	{
-		"coord: ""329250622-334250622",
+		"coord": "329250622-334250622",
 		"category": "Noncoding",
 		"value": 7
 	},
 	{
-		"coord: ""329250622-334250622",
+		"coord": "329250622-334250622",
 		"category": "Coding",
 		"value": 9
 	},
 	{
-		"coord: ""334250622-339250622",
+		"coord": "334250622-339250622",
 		"category": "Noncoding",
 		"value": 25
 	},
 	{
-		"coord: ""334250622-339250622",
+		"coord": "334250622-339250622",
 		"category": "Coding",
 		"value": 108
 	},
 	{
-		"coord: ""254250622-259250622",
+		"coord": "254250622-259250622",
 		"category": "Noncoding",
 		"value": 163
 	},
 	{
-		"coord: ""254250622-259250622",
+		"coord": "254250622-259250622",
 		"category": "Coding",
 		"value": 172
 	},
 	{
-		"coord: ""344250622-349250622",
+		"coord": "344250622-349250622",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""344250622-349250622",
+		"coord": "344250622-349250622",
 		"category": "Coding",
 		"value": 65
 	},
 	{
-		"coord: ""349250622-354250622",
+		"coord": "349250622-354250622",
 		"category": "Noncoding",
 		"value": 30
 	},
 	{
-		"coord: ""349250622-354250622",
+		"coord": "349250622-354250622",
 		"category": "Coding",
 		"value": 84
 	},
 	{
-		"coord: ""354250622-359250622",
+		"coord": "354250622-359250622",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""354250622-359250622",
+		"coord": "354250622-359250622",
 		"category": "Coding",
 		"value": 23
 	},
 	{
-		"coord: ""359250622-364250622",
+		"coord": "359250622-364250622",
 		"category": "Noncoding",
 		"value": 58
 	},
 	{
-		"coord: ""359250622-364250622",
+		"coord": "359250622-364250622",
 		"category": "Coding",
 		"value": 127
 	},
 	{
-		"coord: ""364250622-369250622",
+		"coord": "364250622-369250622",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""364250622-369250622",
+		"coord": "364250622-369250622",
 		"category": "Coding",
 		"value": 32
 	},
 	{
-		"coord: ""369250622-374250622",
+		"coord": "369250622-374250622",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""369250622-374250622",
+		"coord": "369250622-374250622",
 		"category": "Coding",
 		"value": 9
 	},
 	{
-		"coord: ""374250622-379250622",
+		"coord": "374250622-379250622",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""374250622-379250622",
+		"coord": "374250622-379250622",
 		"category": "Coding",
 		"value": 19
 	},
 	{
-		"coord: ""379250622-384250622",
+		"coord": "379250622-384250622",
 		"category": "Noncoding",
 		"value": 20
 	},
 	{
-		"coord: ""379250622-384250622",
+		"coord": "379250622-384250622",
 		"category": "Coding",
 		"value": 8
 	},
 	{
-		"coord: ""384250622-389250622",
+		"coord": "384250622-389250622",
 		"category": "Noncoding",
 		"value": 19
 	},
 	{
-		"coord: ""384250622-389250622",
+		"coord": "384250622-389250622",
 		"category": "Coding",
 		"value": 46
 	},
 	{
-		"coord: ""259250622-264250622",
+		"coord": "259250622-264250622",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""259250622-264250622",
+		"coord": "259250622-264250622",
 		"category": "Coding",
 		"value": 87
 	},
 	{
-		"coord: ""394250622-399250622",
+		"coord": "394250622-399250622",
 		"category": "Noncoding",
 		"value": 399
 	},
 	{
-		"coord: ""394250622-399250622",
+		"coord": "394250622-399250622",
 		"category": "Coding",
 		"value": 157
 	},
 	{
-		"coord: ""399250622-404250622",
+		"coord": "399250622-404250622",
 		"category": "Noncoding",
 		"value": 24
 	},
 	{
-		"coord: ""399250622-404250622",
+		"coord": "399250622-404250622",
 		"category": "Coding",
 		"value": 45
 	},
 	{
-		"coord: ""404250622-409250622",
+		"coord": "404250622-409250622",
 		"category": "Noncoding",
 		"value": 68
 	},
 	{
-		"coord: ""404250622-409250622",
+		"coord": "404250622-409250622",
 		"category": "Coding",
 		"value": 49
 	},
 	{
-		"coord: ""409250622-414250622",
+		"coord": "409250622-414250622",
 		"category": "Noncoding",
 		"value": 45
 	},
 	{
-		"coord: ""409250622-414250622",
+		"coord": "409250622-414250622",
 		"category": "Coding",
 		"value": 84
 	},
 	{
-		"coord: ""414250622-419250622",
+		"coord": "414250622-419250622",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""414250622-419250622",
+		"coord": "414250622-419250622",
 		"category": "Coding",
 		"value": 22
 	},
 	{
-		"coord: ""419250622-424250622",
+		"coord": "419250622-424250622",
 		"category": "Noncoding",
 		"value": 115
 	},
 	{
-		"coord: ""419250622-424250622",
+		"coord": "419250622-424250622",
 		"category": "Coding",
 		"value": 176
 	},
 	{
-		"coord: ""424250622-429250622",
+		"coord": "424250622-429250622",
 		"category": "Noncoding",
 		"value": 42
 	},
 	{
-		"coord: ""424250622-429250622",
+		"coord": "424250622-429250622",
 		"category": "Coding",
 		"value": 109
 	},
 	{
-		"coord: ""429250622-434250622",
+		"coord": "429250622-434250622",
 		"category": "Noncoding",
 		"value": 88
 	},
 	{
-		"coord: ""429250622-434250622",
+		"coord": "429250622-434250622",
 		"category": "Coding",
 		"value": 25
 	},
 	{
-		"coord: ""434250622-439250622",
+		"coord": "434250622-439250622",
 		"category": "Noncoding",
 		"value": 114
 	},
 	{
-		"coord: ""434250622-439250622",
+		"coord": "434250622-439250622",
 		"category": "Coding",
 		"value": 37
 	},
 	{
-		"coord: ""439250622-444250622",
+		"coord": "439250622-444250622",
 		"category": "Noncoding",
 		"value": 84
 	},
 	{
-		"coord: ""439250622-444250622",
+		"coord": "439250622-444250622",
 		"category": "Coding",
 		"value": 89
 	},
 	{
-		"coord: ""264250622-269250622",
+		"coord": "264250622-269250622",
 		"category": "Noncoding",
 		"value": 15
 	},
 	{
-		"coord: ""264250622-269250622",
+		"coord": "264250622-269250622",
 		"category": "Coding",
 		"value": 42
 	},
 	{
-		"coord: ""444250622-449250622",
+		"coord": "444250622-449250622",
 		"category": "Noncoding",
 		"value": 51
 	},
 	{
-		"coord: ""444250622-449250622",
+		"coord": "444250622-449250622",
 		"category": "Coding",
 		"value": 59
 	},
 	{
-		"coord: ""449250622-454250622",
+		"coord": "449250622-454250622",
 		"category": "Noncoding",
 		"value": 17
 	},
 	{
-		"coord: ""449250622-454250622",
+		"coord": "449250622-454250622",
 		"category": "Coding",
 		"value": 80
 	},
 	{
-		"coord: ""454250622-459250622",
+		"coord": "454250622-459250622",
 		"category": "Noncoding",
 		"value": 41
 	},
 	{
-		"coord: ""454250622-459250622",
+		"coord": "454250622-459250622",
 		"category": "Coding",
 		"value": 26
 	},
 	{
-		"coord: ""464250622-469250622",
+		"coord": "464250622-469250622",
 		"category": "Noncoding",
 		"value": 72
 	},
 	{
-		"coord: ""464250622-469250622",
+		"coord": "464250622-469250622",
 		"category": "Coding",
 		"value": 131
 	},
 	{
-		"coord: ""469250622-474250622",
+		"coord": "469250622-474250622",
 		"category": "Noncoding",
 		"value": 15
 	},
 	{
-		"coord: ""469250622-474250622",
+		"coord": "469250622-474250622",
 		"category": "Coding",
 		"value": 75
 	},
 	{
-		"coord: ""474250622-479250622",
+		"coord": "474250622-479250622",
 		"category": "Noncoding",
 		"value": 21
 	},
 	{
-		"coord: ""474250622-479250622",
+		"coord": "474250622-479250622",
 		"category": "Coding",
 		"value": 53
 	},
 	{
-		"coord: ""479250622-484250622",
+		"coord": "479250622-484250622",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""479250622-484250622",
+		"coord": "479250622-484250622",
 		"category": "Coding",
 		"value": 84
 	},
 	{
-		"coord: ""484250622-489250622",
+		"coord": "484250622-489250622",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""484250622-489250622",
+		"coord": "484250622-489250622",
 		"category": "Coding",
 		"value": 70
 	},
 	{
-		"coord: ""489250622-492449994",
+		"coord": "489250622-492449994",
 		"category": "Noncoding",
 		"value": 6
 	},
 	{
-		"coord: ""489250622-492449994",
+		"coord": "489250622-492449994",
 		"category": "Coding",
 		"value": 35
 	},
 	{
-		"coord: ""269250622-274250622",
+		"coord": "269250622-274250622",
 		"category": "Noncoding",
 		"value": 34
 	},
 	{
-		"coord: ""269250622-274250622",
+		"coord": "269250622-274250622",
 		"category": "Coding",
 		"value": 57
 	},
 	{
-		"coord: ""274250622-279250622",
+		"coord": "274250622-279250622",
 		"category": "Noncoding",
 		"value": 57
 	},
 	{
-		"coord: ""274250622-279250622",
+		"coord": "274250622-279250622",
 		"category": "Coding",
 		"value": 135
 	},
 	{
-		"coord: ""279250622-284250622",
+		"coord": "279250622-284250622",
 		"category": "Noncoding",
 		"value": 37
 	},
 	{
-		"coord: ""279250622-284250622",
+		"coord": "279250622-284250622",
 		"category": "Coding",
 		"value": 146
 	},
 	{
-		"coord: ""284250622-289250622",
+		"coord": "284250622-289250622",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""284250622-289250622",
+		"coord": "284250622-289250622",
 		"category": "Coding",
 		"value": 67
 	},
 	{
-		"coord: ""289250622-294250622",
+		"coord": "289250622-294250622",
 		"category": "Noncoding",
 		"value": 28
 	},
 	{
-		"coord: ""289250622-294250622",
+		"coord": "289250622-294250622",
 		"category": "Coding",
 		"value": 93
 	},
 	{
-		"coord: ""59128984-64128984",
+		"coord": "59128984-64128984",
 		"category": "Noncoding",
 		"value": 42
 	},
 	{
-		"coord: ""59128984-64128984",
+		"coord": "59128984-64128984",
 		"category": "Coding",
 		"value": 99
 	},
 	{
-		"coord: ""104128984-109128984",
+		"coord": "104128984-109128984",
 		"category": "Noncoding",
 		"value": 6
 	},
 	{
-		"coord: ""104128984-109128984",
+		"coord": "104128984-109128984",
 		"category": "Coding",
 		"value": 40
 	},
 	{
-		"coord: ""109128984-114128984",
+		"coord": "109128984-114128984",
 		"category": "Noncoding",
 		"value": 62
 	},
 	{
-		"coord: ""109128984-114128984",
+		"coord": "109128984-114128984",
 		"category": "Coding",
 		"value": 64
 	},
 	{
-		"coord: ""114128984-119128984",
+		"coord": "114128984-119128984",
 		"category": "Noncoding",
 		"value": 42
 	},
 	{
-		"coord: ""114128984-119128984",
+		"coord": "114128984-119128984",
 		"category": "Coding",
 		"value": 42
 	},
 	{
-		"coord: ""119128984-122154503",
+		"coord": "119128984-122154503",
 		"category": "Noncoding",
 		"value": 23
 	},
 	{
-		"coord: ""119128984-122154503",
+		"coord": "119128984-122154503",
 		"category": "Coding",
 		"value": 91
 	},
 	{
-		"coord: ""64128984-69128984",
+		"coord": "64128984-69128984",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""64128984-69128984",
+		"coord": "64128984-69128984",
 		"category": "Coding",
 		"value": 89
 	},
 	{
-		"coord: ""69128984-74128984",
+		"coord": "69128984-74128984",
 		"category": "Noncoding",
 		"value": 144
 	},
 	{
-		"coord: ""69128984-74128984",
+		"coord": "69128984-74128984",
 		"category": "Coding",
 		"value": 55
 	},
 	{
-		"coord: ""74128984-79128984",
+		"coord": "74128984-79128984",
 		"category": "Noncoding",
 		"value": 253
 	},
 	{
-		"coord: ""74128984-79128984",
+		"coord": "74128984-79128984",
 		"category": "Coding",
 		"value": 107
 	},
 	{
-		"coord: ""79128984-84128984",
+		"coord": "79128984-84128984",
 		"category": "Noncoding",
 		"value": 76
 	},
 	{
-		"coord: ""79128984-84128984",
+		"coord": "79128984-84128984",
 		"category": "Coding",
 		"value": 99
 	},
 	{
-		"coord: ""84128984-89128984",
+		"coord": "84128984-89128984",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""84128984-89128984",
+		"coord": "84128984-89128984",
 		"category": "Coding",
 		"value": 21
 	},
 	{
-		"coord: ""89128984-94128984",
+		"coord": "89128984-94128984",
 		"category": "Noncoding",
 		"value": 12
 	},
 	{
-		"coord: ""89128984-94128984",
+		"coord": "89128984-94128984",
 		"category": "Coding",
 		"value": 82
 	},
 	{
-		"coord: ""94128984-99128984",
+		"coord": "94128984-99128984",
 		"category": "Noncoding",
 		"value": 65
 	},
 	{
-		"coord: ""94128984-99128984",
+		"coord": "94128984-99128984",
 		"category": "Coding",
 		"value": 57
 	},
 	{
-		"coord: ""99128984-104128984",
+		"coord": "99128984-104128984",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""99128984-104128984",
+		"coord": "99128984-104128984",
 		"category": "Coding",
 		"value": 141
 	},
 	{
-		"coord: ""108025521-111155415",
+		"coord": "108025521-111155415",
 		"category": "Noncoding",
 		"value": 13
 	},
 	{
-		"coord: ""108025521-111155415",
+		"coord": "108025521-111155415",
 		"category": "Coding",
 		"value": 94
 	},
 	{
-		"coord: ""78025521-83025521",
+		"coord": "78025521-83025521",
 		"category": "Noncoding",
 		"value": 21
 	},
 	{
-		"coord: ""78025521-83025521",
+		"coord": "78025521-83025521",
 		"category": "Coding",
 		"value": 48
 	},
 	{
-		"coord: ""88025521-93025521",
+		"coord": "88025521-93025521",
 		"category": "Noncoding",
 		"value": 19
 	},
 	{
-		"coord: ""88025521-93025521",
+		"coord": "88025521-93025521",
 		"category": "Coding",
 		"value": 46
 	},
 	{
-		"coord: ""93025521-98025521",
+		"coord": "93025521-98025521",
 		"category": "Noncoding",
 		"value": 48
 	},
 	{
-		"coord: ""93025521-98025521",
+		"coord": "93025521-98025521",
 		"category": "Coding",
 		"value": 76
 	},
 	{
-		"coord: ""98025521-103025521",
+		"coord": "98025521-103025521",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""98025521-103025521",
+		"coord": "98025521-103025521",
 		"category": "Coding",
 		"value": 99
 	},
 	{
-		"coord: ""103025521-108025521",
+		"coord": "103025521-108025521",
 		"category": "Noncoding",
 		"value": 26
 	},
 	{
-		"coord: ""103025521-108025521",
+		"coord": "103025521-108025521",
 		"category": "Coding",
 		"value": 75
 	},
 	{
-		"coord: ""93129896-98129896",
+		"coord": "93129896-98129896",
 		"category": "Noncoding",
 		"value": 49
 	},
 	{
-		"coord: ""93129896-98129896",
+		"coord": "93129896-98129896",
 		"category": "Coding",
 		"value": 23
 	},
 	{
-		"coord: ""98129896-99434461",
+		"coord": "98129896-99434461",
 		"category": "Noncoding",
 		"value": 33
 	},
 	{
-		"coord: ""98129896-99434461",
+		"coord": "98129896-99434461",
 		"category": "Coding",
 		"value": 162
 	},
 	{
-		"coord: ""63129896-68129896",
+		"coord": "63129896-68129896",
 		"category": "Noncoding",
 		"value": 98
 	},
 	{
-		"coord: ""63129896-68129896",
+		"coord": "63129896-68129896",
 		"category": "Coding",
 		"value": 124
 	},
 	{
-		"coord: ""68129896-73129896",
+		"coord": "68129896-73129896",
 		"category": "Noncoding",
 		"value": 33
 	},
 	{
-		"coord: ""68129896-73129896",
+		"coord": "68129896-73129896",
 		"category": "Coding",
 		"value": 122
 	},
 	{
-		"coord: ""73129896-78129896",
+		"coord": "73129896-78129896",
 		"category": "Noncoding",
 		"value": 38
 	},
 	{
-		"coord: ""73129896-78129896",
+		"coord": "73129896-78129896",
 		"category": "Coding",
 		"value": 121
 	},
 	{
-		"coord: ""78129896-83129896",
+		"coord": "78129896-83129896",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""78129896-83129896",
+		"coord": "78129896-83129896",
 		"category": "Coding",
 		"value": 101
 	},
 	{
-		"coord: ""83129896-88129896",
+		"coord": "83129896-88129896",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""83129896-88129896",
+		"coord": "83129896-88129896",
 		"category": "Coding",
 		"value": 41
 	},
 	{
-		"coord: ""88129896-93129896",
+		"coord": "88129896-93129896",
 		"category": "Noncoding",
 		"value": 11
 	},
 	{
-		"coord: ""88129896-93129896",
+		"coord": "88129896-93129896",
 		"category": "Coding",
 		"value": 90
 	},
 	{
-		"coord: ""243199374-248199374",
+		"coord": "243199374-248199374",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""243199374-248199374",
+		"coord": "243199374-248199374",
 		"category": "Coding",
 		"value": 26
 	},
 	{
-		"coord: ""288199374-293199374",
+		"coord": "288199374-293199374",
 		"category": "Noncoding",
 		"value": 53
 	},
 	{
-		"coord: ""288199374-293199374",
+		"coord": "288199374-293199374",
 		"category": "Coding",
 		"value": 201
 	},
 	{
-		"coord: ""293199374-298199374",
+		"coord": "293199374-298199374",
 		"category": "Noncoding",
 		"value": 26
 	},
 	{
-		"coord: ""293199374-298199374",
+		"coord": "293199374-298199374",
 		"category": "Coding",
 		"value": 123
 	},
 	{
-		"coord: ""298199374-303199374",
+		"coord": "298199374-303199374",
 		"category": "Noncoding",
 		"value": 50
 	},
 	{
-		"coord: ""298199374-303199374",
+		"coord": "298199374-303199374",
 		"category": "Coding",
 		"value": 56
 	},
 	{
-		"coord: ""303199374-308199374",
+		"coord": "303199374-308199374",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""303199374-308199374",
+		"coord": "303199374-308199374",
 		"category": "Coding",
 		"value": 21
 	},
 	{
-		"coord: ""308199374-313199374",
+		"coord": "308199374-313199374",
 		"category": "Noncoding",
 		"value": 318
 	},
 	{
-		"coord: ""308199374-313199374",
+		"coord": "308199374-313199374",
 		"category": "Coding",
 		"value": 91
 	},
 	{
-		"coord: ""313199374-318199374",
+		"coord": "313199374-318199374",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""313199374-318199374",
+		"coord": "313199374-318199374",
 		"category": "Coding",
 		"value": 14
 	},
 	{
-		"coord: ""318199374-323199374",
+		"coord": "318199374-323199374",
 		"category": "Noncoding",
 		"value": 74
 	},
 	{
-		"coord: ""318199374-323199374",
+		"coord": "318199374-323199374",
 		"category": "Coding",
 		"value": 28
 	},
 	{
-		"coord: ""328199374-333199374",
+		"coord": "328199374-333199374",
 		"category": "Noncoding",
 		"value": 6
 	},
 	{
-		"coord: ""328199374-333199374",
+		"coord": "328199374-333199374",
 		"category": "Coding",
 		"value": 19
 	},
 	{
-		"coord: ""248199374-253199374",
+		"coord": "248199374-253199374",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""248199374-253199374",
+		"coord": "248199374-253199374",
 		"category": "Coding",
 		"value": 66
 	},
 	{
-		"coord: ""338199374-343199374",
+		"coord": "338199374-343199374",
 		"category": "Noncoding",
 		"value": 37
 	},
 	{
-		"coord: ""338199374-343199374",
+		"coord": "338199374-343199374",
 		"category": "Coding",
 		"value": 25
 	},
 	{
-		"coord: ""343199374-348199374",
+		"coord": "343199374-348199374",
 		"category": "Noncoding",
 		"value": 20
 	},
 	{
-		"coord: ""343199374-348199374",
+		"coord": "343199374-348199374",
 		"category": "Coding",
 		"value": 59
 	},
 	{
-		"coord: ""353199374-358199374",
+		"coord": "353199374-358199374",
 		"category": "Noncoding",
 		"value": 51
 	},
 	{
-		"coord: ""353199374-358199374",
+		"coord": "353199374-358199374",
 		"category": "Coding",
 		"value": 66
 	},
 	{
-		"coord: ""358199374-363199374",
+		"coord": "358199374-363199374",
 		"category": "Noncoding",
 		"value": 452
 	},
 	{
-		"coord: ""358199374-363199374",
+		"coord": "358199374-363199374",
 		"category": "Coding",
 		"value": 114
 	},
 	{
-		"coord: ""363199374-368199374",
+		"coord": "363199374-368199374",
 		"category": "Noncoding",
 		"value": 63
 	},
 	{
-		"coord: ""363199374-368199374",
+		"coord": "363199374-368199374",
 		"category": "Coding",
 		"value": 94
 	},
 	{
-		"coord: ""368199374-373199374",
+		"coord": "368199374-373199374",
 		"category": "Noncoding",
 		"value": 84
 	},
 	{
-		"coord: ""368199374-373199374",
+		"coord": "368199374-373199374",
 		"category": "Coding",
 		"value": 143
 	},
 	{
-		"coord: ""373199374-378199374",
+		"coord": "373199374-378199374",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""373199374-378199374",
+		"coord": "373199374-378199374",
 		"category": "Coding",
 		"value": 54
 	},
 	{
-		"coord: ""378199374-383199374",
+		"coord": "378199374-383199374",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""378199374-383199374",
+		"coord": "378199374-383199374",
 		"category": "Coding",
 		"value": 63
 	},
 	{
-		"coord: ""383199374-388199374",
+		"coord": "383199374-388199374",
 		"category": "Noncoding",
 		"value": 19
 	},
 	{
-		"coord: ""383199374-388199374",
+		"coord": "383199374-388199374",
 		"category": "Coding",
 		"value": 101
 	},
 	{
-		"coord: ""253199374-258199374",
+		"coord": "253199374-258199374",
 		"category": "Noncoding",
 		"value": 55
 	},
 	{
-		"coord: ""253199374-258199374",
+		"coord": "253199374-258199374",
 		"category": "Coding",
 		"value": 105
 	},
 	{
-		"coord: ""388199374-393199374",
+		"coord": "388199374-393199374",
 		"category": "Noncoding",
 		"value": 26
 	},
 	{
-		"coord: ""388199374-393199374",
+		"coord": "388199374-393199374",
 		"category": "Coding",
 		"value": 33
 	},
 	{
-		"coord: ""393199374-398199374",
+		"coord": "393199374-398199374",
 		"category": "Noncoding",
 		"value": 9
 	},
 	{
-		"coord: ""393199374-398199374",
+		"coord": "393199374-398199374",
 		"category": "Coding",
 		"value": 74
 	},
 	{
-		"coord: ""398199374-403199374",
+		"coord": "398199374-403199374",
 		"category": "Noncoding",
 		"value": 92
 	},
 	{
-		"coord: ""398199374-403199374",
+		"coord": "398199374-403199374",
 		"category": "Coding",
 		"value": 103
 	},
 	{
-		"coord: ""403199374-408199374",
+		"coord": "403199374-408199374",
 		"category": "Noncoding",
 		"value": 13
 	},
 	{
-		"coord: ""403199374-408199374",
+		"coord": "403199374-408199374",
 		"category": "Coding",
 		"value": 42
 	},
 	{
-		"coord: ""408199374-413199374",
+		"coord": "408199374-413199374",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""408199374-413199374",
+		"coord": "408199374-413199374",
 		"category": "Coding",
 		"value": 68
 	},
 	{
-		"coord: ""418199374-423199374",
+		"coord": "418199374-423199374",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""418199374-423199374",
+		"coord": "418199374-423199374",
 		"category": "Coding",
 		"value": 31
 	},
 	{
-		"coord: ""423199374-428199374",
+		"coord": "423199374-428199374",
 		"category": "Noncoding",
 		"value": 79
 	},
 	{
-		"coord: ""423199374-428199374",
+		"coord": "423199374-428199374",
 		"category": "Coding",
 		"value": 93
 	},
 	{
-		"coord: ""428199374-433199374",
+		"coord": "428199374-433199374",
 		"category": "Noncoding",
 		"value": 135
 	},
 	{
-		"coord: ""428199374-433199374",
+		"coord": "428199374-433199374",
 		"category": "Coding",
 		"value": 54
 	},
 	{
-		"coord: ""433199374-438199374",
+		"coord": "433199374-438199374",
 		"category": "Noncoding",
 		"value": 36
 	},
 	{
-		"coord: ""433199374-438199374",
+		"coord": "433199374-438199374",
 		"category": "Coding",
 		"value": 45
 	},
 	{
-		"coord: ""258199374-263199374",
+		"coord": "258199374-263199374",
 		"category": "Noncoding",
 		"value": 149
 	},
 	{
-		"coord: ""258199374-263199374",
+		"coord": "258199374-263199374",
 		"category": "Coding",
 		"value": 145
 	},
 	{
-		"coord: ""438199374-441221803",
+		"coord": "438199374-441221803",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""438199374-441221803",
+		"coord": "438199374-441221803",
 		"category": "Coding",
 		"value": 56
 	},
 	{
-		"coord: ""268199374-273199374",
+		"coord": "268199374-273199374",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""268199374-273199374",
+		"coord": "268199374-273199374",
 		"category": "Coding",
 		"value": 13
 	},
 	{
-		"coord: ""273199374-278199374",
+		"coord": "273199374-278199374",
 		"category": "Noncoding",
 		"value": 13
 	},
 	{
-		"coord: ""273199374-278199374",
+		"coord": "273199374-278199374",
 		"category": "Coding",
 		"value": 18
 	},
 	{
-		"coord: ""278199374-283199374",
+		"coord": "278199374-283199374",
 		"category": "Noncoding",
 		"value": 12
 	},
 	{
-		"coord: ""278199374-283199374",
+		"coord": "278199374-283199374",
 		"category": "Coding",
 		"value": 104
 	},
 	{
-		"coord: ""283199374-288199374",
+		"coord": "283199374-288199374",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""283199374-288199374",
+		"coord": "283199374-288199374",
 		"category": "Coding",
 		"value": 58
 	},
 	{
-		"coord: ""198022431-203022431",
+		"coord": "198022431-203022431",
 		"category": "Noncoding",
 		"value": 47
 	},
 	{
-		"coord: ""198022431-203022431",
+		"coord": "198022431-203022431",
 		"category": "Coding",
 		"value": 221
 	},
 	{
-		"coord: ""243022431-248022431",
+		"coord": "243022431-248022431",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""243022431-248022431",
+		"coord": "243022431-248022431",
 		"category": "Coding",
 		"value": 107
 	},
 	{
-		"coord: ""248022431-253022431",
+		"coord": "248022431-253022431",
 		"category": "Noncoding",
 		"value": 37
 	},
 	{
-		"coord: ""248022431-253022431",
+		"coord": "248022431-253022431",
 		"category": "Coding",
 		"value": 35
 	},
 	{
-		"coord: ""253022431-258022431",
+		"coord": "253022431-258022431",
 		"category": "Noncoding",
 		"value": 47
 	},
 	{
-		"coord: ""253022431-258022431",
+		"coord": "253022431-258022431",
 		"category": "Coding",
 		"value": 167
 	},
 	{
-		"coord: ""268022431-273022431",
+		"coord": "268022431-273022431",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""268022431-273022431",
+		"coord": "268022431-273022431",
 		"category": "Coding",
 		"value": 19
 	},
 	{
-		"coord: ""273022431-278022431",
+		"coord": "273022431-278022431",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""273022431-278022431",
+		"coord": "273022431-278022431",
 		"category": "Coding",
 		"value": 10
 	},
 	{
-		"coord: ""278022431-283022431",
+		"coord": "278022431-283022431",
 		"category": "Noncoding",
 		"value": 52
 	},
 	{
-		"coord: ""278022431-283022431",
+		"coord": "278022431-283022431",
 		"category": "Coding",
 		"value": 79
 	},
 	{
-		"coord: ""283022431-288022431",
+		"coord": "283022431-288022431",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""283022431-288022431",
+		"coord": "283022431-288022431",
 		"category": "Coding",
 		"value": 64
 	},
 	{
-		"coord: ""288022431-293022431",
+		"coord": "288022431-293022431",
 		"category": "Noncoding",
 		"value": 20
 	},
 	{
-		"coord: ""288022431-293022431",
+		"coord": "288022431-293022431",
 		"category": "Coding",
 		"value": 7
 	},
 	{
-		"coord: ""203022431-208022431",
+		"coord": "203022431-208022431",
 		"category": "Noncoding",
 		"value": 32
 	},
 	{
-		"coord: ""203022431-208022431",
+		"coord": "203022431-208022431",
 		"category": "Coding",
 		"value": 109
 	},
 	{
-		"coord: ""293022431-298022431",
+		"coord": "293022431-298022431",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""293022431-298022431",
+		"coord": "293022431-298022431",
 		"category": "Coding",
 		"value": 14
 	},
 	{
-		"coord: ""298022431-303022431",
+		"coord": "298022431-303022431",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""298022431-303022431",
+		"coord": "298022431-303022431",
 		"category": "Coding",
 		"value": 62
 	},
 	{
-		"coord: ""303022431-308022431",
+		"coord": "303022431-308022431",
 		"category": "Noncoding",
 		"value": 113
 	},
 	{
-		"coord: ""303022431-308022431",
+		"coord": "303022431-308022431",
 		"category": "Coding",
 		"value": 149
 	},
 	{
-		"coord: ""308022431-313022431",
+		"coord": "308022431-313022431",
 		"category": "Noncoding",
 		"value": 44
 	},
 	{
-		"coord: ""308022431-313022431",
+		"coord": "308022431-313022431",
 		"category": "Coding",
 		"value": 47
 	},
 	{
-		"coord: ""318022431-323022431",
+		"coord": "318022431-323022431",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""318022431-323022431",
+		"coord": "318022431-323022431",
 		"category": "Coding",
 		"value": 38
 	},
 	{
-		"coord: ""323022431-328022431",
+		"coord": "323022431-328022431",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""323022431-328022431",
+		"coord": "323022431-328022431",
 		"category": "Coding",
 		"value": 18
 	},
 	{
-		"coord: ""328022431-333022431",
+		"coord": "328022431-333022431",
 		"category": "Noncoding",
 		"value": 0
 	},
 	{
-		"coord: ""328022431-333022431",
+		"coord": "328022431-333022431",
 		"category": "Coding",
 		"value": 4
 	},
 	{
-		"coord: ""338022431-343022431",
+		"coord": "338022431-343022431",
 		"category": "Noncoding",
 		"value": 11
 	},
 	{
-		"coord: ""338022431-343022431",
+		"coord": "338022431-343022431",
 		"category": "Coding",
 		"value": 23
 	},
 	{
-		"coord: ""208022431-213022431",
+		"coord": "208022431-213022431",
 		"category": "Noncoding",
 		"value": 42
 	},
 	{
-		"coord: ""208022431-213022431",
+		"coord": "208022431-213022431",
 		"category": "Coding",
 		"value": 35
 	},
 	{
-		"coord: ""343022431-348022431",
+		"coord": "343022431-348022431",
 		"category": "Noncoding",
 		"value": 66
 	},
 	{
-		"coord: ""343022431-348022431",
+		"coord": "343022431-348022431",
 		"category": "Coding",
 		"value": 99
 	},
 	{
-		"coord: ""348022431-353022431",
+		"coord": "348022431-353022431",
 		"category": "Noncoding",
 		"value": 17
 	},
 	{
-		"coord: ""348022431-353022431",
+		"coord": "348022431-353022431",
 		"category": "Coding",
 		"value": 52
 	},
 	{
-		"coord: ""353022431-358022431",
+		"coord": "353022431-358022431",
 		"category": "Noncoding",
 		"value": 15
 	},
 	{
-		"coord: ""353022431-358022431",
+		"coord": "353022431-358022431",
 		"category": "Coding",
 		"value": 112
 	},
 	{
-		"coord: ""363022431-368022431",
+		"coord": "363022431-368022431",
 		"category": "Noncoding",
 		"value": 23
 	},
 	{
-		"coord: ""363022431-368022431",
+		"coord": "363022431-368022431",
 		"category": "Coding",
 		"value": 35
 	},
 	{
-		"coord: ""368022431-373022431",
+		"coord": "368022431-373022431",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""368022431-373022431",
+		"coord": "368022431-373022431",
 		"category": "Coding",
 		"value": 8
 	},
 	{
-		"coord: ""373022431-378022431",
+		"coord": "373022431-378022431",
 		"category": "Noncoding",
 		"value": 12
 	},
 	{
-		"coord: ""373022431-378022431",
+		"coord": "373022431-378022431",
 		"category": "Coding",
 		"value": 43
 	},
 	{
-		"coord: ""378022431-383022431",
+		"coord": "378022431-383022431",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""378022431-383022431",
+		"coord": "378022431-383022431",
 		"category": "Coding",
 		"value": 12
 	},
 	{
-		"coord: ""383022431-388022431",
+		"coord": "383022431-388022431",
 		"category": "Noncoding",
 		"value": 26
 	},
 	{
-		"coord: ""383022431-388022431",
+		"coord": "383022431-388022431",
 		"category": "Coding",
 		"value": 91
 	},
 	{
-		"coord: ""213022431-218022431",
+		"coord": "213022431-218022431",
 		"category": "Noncoding",
 		"value": 28
 	},
 	{
-		"coord: ""213022431-218022431",
+		"coord": "213022431-218022431",
 		"category": "Coding",
 		"value": 80
 	},
 	{
-		"coord: ""218022431-223022431",
+		"coord": "218022431-223022431",
 		"category": "Noncoding",
 		"value": 315
 	},
 	{
-		"coord: ""218022431-223022431",
+		"coord": "218022431-223022431",
 		"category": "Coding",
 		"value": 108
 	},
 	{
-		"coord: ""223022431-228022431",
+		"coord": "223022431-228022431",
 		"category": "Noncoding",
 		"value": 25
 	},
 	{
-		"coord: ""223022431-228022431",
+		"coord": "223022431-228022431",
 		"category": "Coding",
 		"value": 45
 	},
 	{
-		"coord: ""233022431-238022431",
+		"coord": "233022431-238022431",
 		"category": "Noncoding",
 		"value": 33
 	},
 	{
-		"coord: ""233022431-238022431",
+		"coord": "233022431-238022431",
 		"category": "Coding",
 		"value": 105
 	},
 	{
-		"coord: ""238022431-243022431",
+		"coord": "238022431-243022431",
 		"category": "Noncoding",
 		"value": 41
 	},
 	{
-		"coord: ""238022431-243022431",
+		"coord": "238022431-243022431",
 		"category": "Coding",
 		"value": 101
 	},
 	{
-		"coord: ""191154277-196154277",
+		"coord": "191154277-196154277",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""191154277-196154277",
+		"coord": "191154277-196154277",
 		"category": "Coding",
 		"value": 39
 	},
 	{
-		"coord: ""236154277-241154277",
+		"coord": "236154277-241154277",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""236154277-241154277",
+		"coord": "236154277-241154277",
 		"category": "Coding",
 		"value": 0
 	},
 	{
-		"coord: ""241154277-246154277",
+		"coord": "241154277-246154277",
 		"category": "Noncoding",
 		"value": 14
 	},
 	{
-		"coord: ""241154277-246154277",
+		"coord": "241154277-246154277",
 		"category": "Coding",
 		"value": 105
 	},
 	{
-		"coord: ""246154277-251154277",
+		"coord": "246154277-251154277",
 		"category": "Noncoding",
 		"value": 0
 	},
 	{
-		"coord: ""246154277-251154277",
+		"coord": "246154277-251154277",
 		"category": "Coding",
 		"value": 7
 	},
 	{
-		"coord: ""251154277-256154277",
+		"coord": "251154277-256154277",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""251154277-256154277",
+		"coord": "251154277-256154277",
 		"category": "Coding",
 		"value": 35
 	},
 	{
-		"coord: ""256154277-261154277",
+		"coord": "256154277-261154277",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""256154277-261154277",
+		"coord": "256154277-261154277",
 		"category": "Coding",
 		"value": 40
 	},
 	{
-		"coord: ""261154277-266154277",
+		"coord": "261154277-266154277",
 		"category": "Noncoding",
 		"value": 31
 	},
 	{
-		"coord: ""261154277-266154277",
+		"coord": "261154277-266154277",
 		"category": "Coding",
 		"value": 106
 	},
 	{
-		"coord: ""266154277-271154277",
+		"coord": "266154277-271154277",
 		"category": "Noncoding",
 		"value": 53
 	},
 	{
-		"coord: ""266154277-271154277",
+		"coord": "266154277-271154277",
 		"category": "Coding",
 		"value": 102
 	},
 	{
-		"coord: ""271154277-276154277",
+		"coord": "271154277-276154277",
 		"category": "Noncoding",
 		"value": 36
 	},
 	{
-		"coord: ""271154277-276154277",
+		"coord": "271154277-276154277",
 		"category": "Coding",
 		"value": 45
 	},
 	{
-		"coord: ""276154277-281154277",
+		"coord": "276154277-281154277",
 		"category": "Noncoding",
 		"value": 41
 	},
 	{
-		"coord: ""276154277-281154277",
+		"coord": "276154277-281154277",
 		"category": "Coding",
 		"value": 75
 	},
 	{
-		"coord: ""281154277-286154277",
+		"coord": "281154277-286154277",
 		"category": "Noncoding",
 		"value": 79
 	},
 	{
-		"coord: ""281154277-286154277",
+		"coord": "281154277-286154277",
 		"category": "Coding",
 		"value": 71
 	},
 	{
-		"coord: ""196154277-201154277",
+		"coord": "196154277-201154277",
 		"category": "Noncoding",
 		"value": 6
 	},
 	{
-		"coord: ""196154277-201154277",
+		"coord": "196154277-201154277",
 		"category": "Coding",
 		"value": 20
 	},
 	{
-		"coord: ""286154277-291154277",
+		"coord": "286154277-291154277",
 		"category": "Noncoding",
 		"value": 29
 	},
 	{
-		"coord: ""286154277-291154277",
+		"coord": "286154277-291154277",
 		"category": "Coding",
 		"value": 63
 	},
 	{
-		"coord: ""296154277-301154277",
+		"coord": "296154277-301154277",
 		"category": "Noncoding",
 		"value": 120
 	},
 	{
-		"coord: ""296154277-301154277",
+		"coord": "296154277-301154277",
 		"category": "Coding",
 		"value": 9
 	},
 	{
-		"coord: ""301154277-306154277",
+		"coord": "301154277-306154277",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""301154277-306154277",
+		"coord": "301154277-306154277",
 		"category": "Coding",
 		"value": 43
 	},
 	{
-		"coord: ""306154277-311154277",
+		"coord": "306154277-311154277",
 		"category": "Noncoding",
 		"value": 32
 	},
 	{
-		"coord: ""306154277-311154277",
+		"coord": "306154277-311154277",
 		"category": "Coding",
 		"value": 20
 	},
 	{
-		"coord: ""311154277-316154277",
+		"coord": "311154277-316154277",
 		"category": "Noncoding",
 		"value": 34
 	},
 	{
-		"coord: ""311154277-316154277",
+		"coord": "311154277-316154277",
 		"category": "Coding",
 		"value": 40
 	},
 	{
-		"coord: ""316154277-321154277",
+		"coord": "316154277-321154277",
 		"category": "Noncoding",
 		"value": 36
 	},
 	{
-		"coord: ""316154277-321154277",
+		"coord": "316154277-321154277",
 		"category": "Coding",
 		"value": 76
 	},
 	{
-		"coord: ""321154277-326154277",
+		"coord": "321154277-326154277",
 		"category": "Noncoding",
 		"value": 28
 	},
 	{
-		"coord: ""321154277-326154277",
+		"coord": "321154277-326154277",
 		"category": "Coding",
 		"value": 83
 	},
 	{
-		"coord: ""326154277-331154277",
+		"coord": "326154277-331154277",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""326154277-331154277",
+		"coord": "326154277-331154277",
 		"category": "Coding",
 		"value": 58
 	},
 	{
-		"coord: ""331154277-336154277",
+		"coord": "331154277-336154277",
 		"category": "Noncoding",
 		"value": 61
 	},
 	{
-		"coord: ""331154277-336154277",
+		"coord": "331154277-336154277",
 		"category": "Coding",
 		"value": 28
 	},
 	{
-		"coord: ""201154277-206154277",
+		"coord": "201154277-206154277",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""201154277-206154277",
+		"coord": "201154277-206154277",
 		"category": "Coding",
 		"value": 14
 	},
 	{
-		"coord: ""336154277-341154277",
+		"coord": "336154277-341154277",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""336154277-341154277",
+		"coord": "336154277-341154277",
 		"category": "Coding",
 		"value": 87
 	},
 	{
-		"coord: ""341154277-346154277",
+		"coord": "341154277-346154277",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""341154277-346154277",
+		"coord": "341154277-346154277",
 		"category": "Coding",
 		"value": 18
 	},
 	{
-		"coord: ""346154277-351154277",
+		"coord": "346154277-351154277",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""346154277-351154277",
+		"coord": "346154277-351154277",
 		"category": "Coding",
 		"value": 35
 	},
 	{
-		"coord: ""351154277-356154277",
+		"coord": "351154277-356154277",
 		"category": "Noncoding",
 		"value": 0
 	},
 	{
-		"coord: ""351154277-356154277",
+		"coord": "351154277-356154277",
 		"category": "Coding",
 		"value": 12
 	},
 	{
-		"coord: ""361154277-366154277",
+		"coord": "361154277-366154277",
 		"category": "Noncoding",
 		"value": 60
 	},
 	{
-		"coord: ""361154277-366154277",
+		"coord": "361154277-366154277",
 		"category": "Coding",
 		"value": 26
 	},
 	{
-		"coord: ""366154277-371154277",
+		"coord": "366154277-371154277",
 		"category": "Noncoding",
 		"value": 9
 	},
 	{
-		"coord: ""366154277-371154277",
+		"coord": "366154277-371154277",
 		"category": "Coding",
 		"value": 70
 	},
 	{
-		"coord: ""206154277-211154277",
+		"coord": "206154277-211154277",
 		"category": "Noncoding",
 		"value": 15
 	},
 	{
-		"coord: ""206154277-211154277",
+		"coord": "206154277-211154277",
 		"category": "Coding",
 		"value": 39
 	},
 	{
-		"coord: ""211154277-216154277",
+		"coord": "211154277-216154277",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""211154277-216154277",
+		"coord": "211154277-216154277",
 		"category": "Coding",
 		"value": 8
 	},
 	{
-		"coord: ""221154277-226154277",
+		"coord": "221154277-226154277",
 		"category": "Noncoding",
 		"value": 22
 	},
 	{
-		"coord: ""221154277-226154277",
+		"coord": "221154277-226154277",
 		"category": "Coding",
 		"value": 53
 	},
 	{
-		"coord: ""226154277-231154277",
+		"coord": "226154277-231154277",
 		"category": "Noncoding",
 		"value": 54
 	},
 	{
-		"coord: ""226154277-231154277",
+		"coord": "226154277-231154277",
 		"category": "Coding",
 		"value": 131
 	},
 	{
-		"coord: ""231154277-236154277",
+		"coord": "231154277-236154277",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""231154277-236154277",
+		"coord": "231154277-236154277",
 		"category": "Coding",
 		"value": 45
 	},
 	{
-		"coord: ""180915261-185915261",
+		"coord": "180915261-185915261",
 		"category": "Noncoding",
 		"value": 83
 	},
 	{
-		"coord: ""180915261-185915261",
+		"coord": "180915261-185915261",
 		"category": "Coding",
 		"value": 8
 	},
 	{
-		"coord: ""225915261-230915261",
+		"coord": "225915261-230915261",
 		"category": "Noncoding",
 		"value": 9
 	},
 	{
-		"coord: ""225915261-230915261",
+		"coord": "225915261-230915261",
 		"category": "Coding",
 		"value": 33
 	},
 	{
-		"coord: ""230915261-235915261",
+		"coord": "230915261-235915261",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""230915261-235915261",
+		"coord": "230915261-235915261",
 		"category": "Coding",
 		"value": 4
 	},
 	{
-		"coord: ""235915261-240915261",
+		"coord": "235915261-240915261",
 		"category": "Noncoding",
 		"value": 42
 	},
 	{
-		"coord: ""235915261-240915261",
+		"coord": "235915261-240915261",
 		"category": "Coding",
 		"value": 138
 	},
 	{
-		"coord: ""240915261-245915261",
+		"coord": "240915261-245915261",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""240915261-245915261",
+		"coord": "240915261-245915261",
 		"category": "Coding",
 		"value": 5
 	},
 	{
-		"coord: ""245915261-250915261",
+		"coord": "245915261-250915261",
 		"category": "Noncoding",
 		"value": 47
 	},
 	{
-		"coord: ""245915261-250915261",
+		"coord": "245915261-250915261",
 		"category": "Coding",
 		"value": 19
 	},
 	{
-		"coord: ""250915261-255915261",
+		"coord": "250915261-255915261",
 		"category": "Noncoding",
 		"value": 94
 	},
 	{
-		"coord: ""250915261-255915261",
+		"coord": "250915261-255915261",
 		"category": "Coding",
 		"value": 100
 	},
 	{
-		"coord: ""255915261-260915261",
+		"coord": "255915261-260915261",
 		"category": "Noncoding",
 		"value": 50
 	},
 	{
-		"coord: ""255915261-260915261",
+		"coord": "255915261-260915261",
 		"category": "Coding",
 		"value": 38
 	},
 	{
-		"coord: ""260915261-265915261",
+		"coord": "260915261-265915261",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""260915261-265915261",
+		"coord": "260915261-265915261",
 		"category": "Coding",
 		"value": 92
 	},
 	{
-		"coord: ""265915261-270915261",
+		"coord": "265915261-270915261",
 		"category": "Noncoding",
 		"value": 23
 	},
 	{
-		"coord: ""265915261-270915261",
+		"coord": "265915261-270915261",
 		"category": "Coding",
 		"value": 90
 	},
 	{
-		"coord: ""270915261-275915261",
+		"coord": "270915261-275915261",
 		"category": "Noncoding",
 		"value": 109
 	},
 	{
-		"coord: ""270915261-275915261",
+		"coord": "270915261-275915261",
 		"category": "Coding",
 		"value": 138
 	},
 	{
-		"coord: ""185915261-190915261",
+		"coord": "185915261-190915261",
 		"category": "Noncoding",
 		"value": 109
 	},
 	{
-		"coord: ""185915261-190915261",
+		"coord": "185915261-190915261",
 		"category": "Coding",
 		"value": 23
 	},
 	{
-		"coord: ""275915261-280915261",
+		"coord": "275915261-280915261",
 		"category": "Noncoding",
 		"value": 126
 	},
 	{
-		"coord: ""275915261-280915261",
+		"coord": "275915261-280915261",
 		"category": "Coding",
 		"value": 89
 	},
 	{
-		"coord: ""280915261-285915261",
+		"coord": "280915261-285915261",
 		"category": "Noncoding",
 		"value": 11
 	},
 	{
-		"coord: ""280915261-285915261",
+		"coord": "280915261-285915261",
 		"category": "Coding",
 		"value": 8
 	},
 	{
-		"coord: ""285915261-290915261",
+		"coord": "285915261-290915261",
 		"category": "Noncoding",
 		"value": 267
 	},
 	{
-		"coord: ""285915261-290915261",
+		"coord": "285915261-290915261",
 		"category": "Coding",
 		"value": 137
 	},
 	{
-		"coord: ""290915261-295915261",
+		"coord": "290915261-295915261",
 		"category": "Noncoding",
 		"value": 143
 	},
 	{
-		"coord: ""290915261-295915261",
+		"coord": "290915261-295915261",
 		"category": "Coding",
 		"value": 158
 	},
 	{
-		"coord: ""295915261-300915261",
+		"coord": "295915261-300915261",
 		"category": "Noncoding",
 		"value": 87
 	},
 	{
-		"coord: ""295915261-300915261",
+		"coord": "295915261-300915261",
 		"category": "Coding",
 		"value": 60
 	},
 	{
-		"coord: ""300915261-305915261",
+		"coord": "300915261-305915261",
 		"category": "Noncoding",
 		"value": 298
 	},
 	{
-		"coord: ""300915261-305915261",
+		"coord": "300915261-305915261",
 		"category": "Coding",
 		"value": 41
 	},
 	{
-		"coord: ""305915261-310915261",
+		"coord": "305915261-310915261",
 		"category": "Noncoding",
 		"value": 226
 	},
 	{
-		"coord: ""305915261-310915261",
+		"coord": "305915261-310915261",
 		"category": "Coding",
 		"value": 122
 	},
 	{
-		"coord: ""310915261-315915261",
+		"coord": "310915261-315915261",
 		"category": "Noncoding",
 		"value": 25
 	},
 	{
-		"coord: ""310915261-315915261",
+		"coord": "310915261-315915261",
 		"category": "Coding",
 		"value": 52
 	},
 	{
-		"coord: ""315915261-320915261",
+		"coord": "315915261-320915261",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""315915261-320915261",
+		"coord": "315915261-320915261",
 		"category": "Coding",
 		"value": 59
 	},
 	{
-		"coord: ""320915261-325915261",
+		"coord": "320915261-325915261",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""320915261-325915261",
+		"coord": "320915261-325915261",
 		"category": "Coding",
 		"value": 16
 	},
 	{
-		"coord: ""190915261-195915261",
+		"coord": "190915261-195915261",
 		"category": "Noncoding",
 		"value": 0
 	},
 	{
-		"coord: ""190915261-195915261",
+		"coord": "190915261-195915261",
 		"category": "Coding",
 		"value": 21
 	},
 	{
-		"coord: ""325915261-330915261",
+		"coord": "325915261-330915261",
 		"category": "Noncoding",
 		"value": 186
 	},
 	{
-		"coord: ""325915261-330915261",
+		"coord": "325915261-330915261",
 		"category": "Coding",
 		"value": 159
 	},
 	{
-		"coord: ""330915261-335915261",
+		"coord": "330915261-335915261",
 		"category": "Noncoding",
 		"value": 13
 	},
 	{
-		"coord: ""330915261-335915261",
+		"coord": "330915261-335915261",
 		"category": "Coding",
 		"value": 61
 	},
 	{
-		"coord: ""335915261-340915261",
+		"coord": "335915261-340915261",
 		"category": "Noncoding",
 		"value": 40
 	},
 	{
-		"coord: ""335915261-340915261",
+		"coord": "335915261-340915261",
 		"category": "Coding",
 		"value": 102
 	},
 	{
-		"coord: ""340915261-345915261",
+		"coord": "340915261-345915261",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""340915261-345915261",
+		"coord": "340915261-345915261",
 		"category": "Coding",
 		"value": 25
 	},
 	{
-		"coord: ""345915261-350915261",
+		"coord": "345915261-350915261",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""345915261-350915261",
+		"coord": "345915261-350915261",
 		"category": "Coding",
 		"value": 30
 	},
 	{
-		"coord: ""350915261-352030327",
+		"coord": "350915261-352030327",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""350915261-352030327",
+		"coord": "350915261-352030327",
 		"category": "Coding",
 		"value": 28
 	},
 	{
-		"coord: ""195915261-200915261",
+		"coord": "195915261-200915261",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""195915261-200915261",
+		"coord": "195915261-200915261",
 		"category": "Coding",
 		"value": 27
 	},
 	{
-		"coord: ""200915261-205915261",
+		"coord": "200915261-205915261",
 		"category": "Noncoding",
 		"value": 72
 	},
 	{
-		"coord: ""200915261-205915261",
+		"coord": "200915261-205915261",
 		"category": "Coding",
 		"value": 42
 	},
 	{
-		"coord: ""210915261-215915261",
+		"coord": "210915261-215915261",
 		"category": "Noncoding",
 		"value": 44
 	},
 	{
-		"coord: ""210915261-215915261",
+		"coord": "210915261-215915261",
 		"category": "Coding",
 		"value": 278
 	},
 	{
-		"coord: ""215915261-220915261",
+		"coord": "215915261-220915261",
 		"category": "Noncoding",
 		"value": 64
 	},
 	{
-		"coord: ""215915261-220915261",
+		"coord": "215915261-220915261",
 		"category": "Coding",
 		"value": 70
 	},
 	{
-		"coord: ""220915261-225915261",
+		"coord": "220915261-225915261",
 		"category": "Noncoding",
 		"value": 52
 	},
 	{
-		"coord: ""220915261-225915261",
+		"coord": "220915261-225915261",
 		"category": "Coding",
 		"value": 155
 	},
 	{
-		"coord: ""171115068-176115068",
+		"coord": "171115068-176115068",
 		"category": "Noncoding",
 		"value": 35
 	},
 	{
-		"coord: ""171115068-176115068",
+		"coord": "171115068-176115068",
 		"category": "Coding",
 		"value": 87
 	},
 	{
-		"coord: ""221115068-226115068",
+		"coord": "221115068-226115068",
 		"category": "Noncoding",
 		"value": 29
 	},
 	{
-		"coord: ""221115068-226115068",
+		"coord": "221115068-226115068",
 		"category": "Coding",
 		"value": 43
 	},
 	{
-		"coord: ""236115068-241115068",
+		"coord": "236115068-241115068",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""236115068-241115068",
+		"coord": "236115068-241115068",
 		"category": "Coding",
 		"value": 26
 	},
 	{
-		"coord: ""241115068-246115068",
+		"coord": "241115068-246115068",
 		"category": "Noncoding",
 		"value": 27
 	},
 	{
-		"coord: ""241115068-246115068",
+		"coord": "241115068-246115068",
 		"category": "Coding",
 		"value": 72
 	},
 	{
-		"coord: ""246115068-251115068",
+		"coord": "246115068-251115068",
 		"category": "Noncoding",
 		"value": 13
 	},
 	{
-		"coord: ""246115068-251115068",
+		"coord": "246115068-251115068",
 		"category": "Coding",
 		"value": 64
 	},
 	{
-		"coord: ""251115068-256115068",
+		"coord": "251115068-256115068",
 		"category": "Noncoding",
 		"value": 21
 	},
 	{
-		"coord: ""251115068-256115068",
+		"coord": "251115068-256115068",
 		"category": "Coding",
 		"value": 54
 	},
 	{
-		"coord: ""256115068-261115068",
+		"coord": "256115068-261115068",
 		"category": "Noncoding",
 		"value": 20
 	},
 	{
-		"coord: ""256115068-261115068",
+		"coord": "256115068-261115068",
 		"category": "Coding",
 		"value": 58
 	},
 	{
-		"coord: ""261115068-266115068",
+		"coord": "261115068-266115068",
 		"category": "Noncoding",
 		"value": 12
 	},
 	{
-		"coord: ""261115068-266115068",
+		"coord": "261115068-266115068",
 		"category": "Coding",
 		"value": 199
 	},
 	{
-		"coord: ""176115068-181115068",
+		"coord": "176115068-181115068",
 		"category": "Noncoding",
 		"value": 11
 	},
 	{
-		"coord: ""176115068-181115068",
+		"coord": "176115068-181115068",
 		"category": "Coding",
 		"value": 101
 	},
 	{
-		"coord: ""266115068-271115068",
+		"coord": "266115068-271115068",
 		"category": "Noncoding",
 		"value": 27
 	},
 	{
-		"coord: ""266115068-271115068",
+		"coord": "266115068-271115068",
 		"category": "Coding",
 		"value": 114
 	},
 	{
-		"coord: ""271115068-276115068",
+		"coord": "271115068-276115068",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""271115068-276115068",
+		"coord": "271115068-276115068",
 		"category": "Coding",
 		"value": 129
 	},
 	{
-		"coord: ""276115068-281115068",
+		"coord": "276115068-281115068",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""276115068-281115068",
+		"coord": "276115068-281115068",
 		"category": "Coding",
 		"value": 48
 	},
 	{
-		"coord: ""281115068-286115068",
+		"coord": "281115068-286115068",
 		"category": "Noncoding",
 		"value": 123
 	},
 	{
-		"coord: ""281115068-286115068",
+		"coord": "281115068-286115068",
 		"category": "Coding",
 		"value": 65
 	},
 	{
-		"coord: ""286115068-291115068",
+		"coord": "286115068-291115068",
 		"category": "Noncoding",
 		"value": 93
 	},
 	{
-		"coord: ""286115068-291115068",
+		"coord": "286115068-291115068",
 		"category": "Coding",
 		"value": 54
 	},
 	{
-		"coord: ""291115068-296115068",
+		"coord": "291115068-296115068",
 		"category": "Noncoding",
 		"value": 25
 	},
 	{
-		"coord: ""291115068-296115068",
+		"coord": "291115068-296115068",
 		"category": "Coding",
 		"value": 40
 	},
 	{
-		"coord: ""296115068-301115068",
+		"coord": "296115068-301115068",
 		"category": "Noncoding",
 		"value": 123
 	},
 	{
-		"coord: ""296115068-301115068",
+		"coord": "296115068-301115068",
 		"category": "Coding",
 		"value": 50
 	},
 	{
-		"coord: ""301115068-306115068",
+		"coord": "301115068-306115068",
 		"category": "Noncoding",
 		"value": 32
 	},
 	{
-		"coord: ""301115068-306115068",
+		"coord": "301115068-306115068",
 		"category": "Coding",
 		"value": 35
 	},
 	{
-		"coord: ""306115068-311115068",
+		"coord": "306115068-311115068",
 		"category": "Noncoding",
 		"value": 31
 	},
 	{
-		"coord: ""306115068-311115068",
+		"coord": "306115068-311115068",
 		"category": "Coding",
 		"value": 27
 	},
 	{
-		"coord: ""311115068-316115068",
+		"coord": "311115068-316115068",
 		"category": "Noncoding",
 		"value": 21
 	},
 	{
-		"coord: ""311115068-316115068",
+		"coord": "311115068-316115068",
 		"category": "Coding",
 		"value": 96
 	},
 	{
-		"coord: ""321115068-326115068",
+		"coord": "321115068-326115068",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""321115068-326115068",
+		"coord": "321115068-326115068",
 		"category": "Coding",
 		"value": 17
 	},
 	{
-		"coord: ""326115068-330253730",
+		"coord": "326115068-330253730",
 		"category": "Noncoding",
 		"value": 12
 	},
 	{
-		"coord: ""326115068-330253730",
+		"coord": "326115068-330253730",
 		"category": "Coding",
 		"value": 66
 	},
 	{
-		"coord: ""186115068-191115068",
+		"coord": "186115068-191115068",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""186115068-191115068",
+		"coord": "186115068-191115068",
 		"category": "Coding",
 		"value": 20
 	},
 	{
-		"coord: ""191115068-196115068",
+		"coord": "191115068-196115068",
 		"category": "Noncoding",
 		"value": 24
 	},
 	{
-		"coord: ""191115068-196115068",
+		"coord": "191115068-196115068",
 		"category": "Coding",
 		"value": 37
 	},
 	{
-		"coord: ""196115068-201115068",
+		"coord": "196115068-201115068",
 		"category": "Noncoding",
 		"value": 62
 	},
 	{
-		"coord: ""196115068-201115068",
+		"coord": "196115068-201115068",
 		"category": "Coding",
 		"value": 33
 	},
 	{
-		"coord: ""201115068-206115068",
+		"coord": "201115068-206115068",
 		"category": "Noncoding",
 		"value": 47
 	},
 	{
-		"coord: ""201115068-206115068",
+		"coord": "201115068-206115068",
 		"category": "Coding",
 		"value": 63
 	},
 	{
-		"coord: ""206115068-211115068",
+		"coord": "206115068-211115068",
 		"category": "Noncoding",
 		"value": 114
 	},
 	{
-		"coord: ""206115068-211115068",
+		"coord": "206115068-211115068",
 		"category": "Coding",
 		"value": 84
 	},
 	{
-		"coord: ""211115068-216115068",
+		"coord": "211115068-216115068",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""211115068-216115068",
+		"coord": "211115068-216115068",
 		"category": "Coding",
 		"value": 31
 	},
 	{
-		"coord: ""159138664-164138664",
+		"coord": "159138664-164138664",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""159138664-164138664",
+		"coord": "159138664-164138664",
 		"category": "Coding",
 		"value": 30
 	},
 	{
-		"coord: ""204138664-209138664",
+		"coord": "204138664-209138664",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""204138664-209138664",
+		"coord": "204138664-209138664",
 		"category": "Coding",
 		"value": 19
 	},
 	{
-		"coord: ""209138664-214138664",
+		"coord": "209138664-214138664",
 		"category": "Noncoding",
 		"value": 23
 	},
 	{
-		"coord: ""209138664-214138664",
+		"coord": "209138664-214138664",
 		"category": "Coding",
 		"value": 52
 	},
 	{
-		"coord: ""214138664-219138664",
+		"coord": "214138664-219138664",
 		"category": "Noncoding",
 		"value": 60
 	},
 	{
-		"coord: ""214138664-219138664",
+		"coord": "214138664-219138664",
 		"category": "Coding",
 		"value": 30
 	},
 	{
-		"coord: ""219138664-224138664",
+		"coord": "219138664-224138664",
 		"category": "Noncoding",
 		"value": 82
 	},
 	{
-		"coord: ""219138664-224138664",
+		"coord": "219138664-224138664",
 		"category": "Coding",
 		"value": 60
 	},
 	{
-		"coord: ""224138664-229138664",
+		"coord": "224138664-229138664",
 		"category": "Noncoding",
 		"value": 79
 	},
 	{
-		"coord: ""224138664-229138664",
+		"coord": "224138664-229138664",
 		"category": "Coding",
 		"value": 89
 	},
 	{
-		"coord: ""229138664-234138664",
+		"coord": "229138664-234138664",
 		"category": "Noncoding",
 		"value": 50
 	},
 	{
-		"coord: ""229138664-234138664",
+		"coord": "229138664-234138664",
 		"category": "Coding",
 		"value": 79
 	},
 	{
-		"coord: ""234138664-239138664",
+		"coord": "234138664-239138664",
 		"category": "Noncoding",
 		"value": 164
 	},
 	{
-		"coord: ""234138664-239138664",
+		"coord": "234138664-239138664",
 		"category": "Coding",
 		"value": 52
 	},
 	{
-		"coord: ""239138664-244138664",
+		"coord": "239138664-244138664",
 		"category": "Noncoding",
 		"value": 0
 	},
 	{
-		"coord: ""239138664-244138664",
+		"coord": "239138664-244138664",
 		"category": "Coding",
 		"value": 7
 	},
 	{
-		"coord: ""249138664-254138664",
+		"coord": "249138664-254138664",
 		"category": "Noncoding",
 		"value": 0
 	},
 	{
-		"coord: ""249138664-254138664",
+		"coord": "249138664-254138664",
 		"category": "Coding",
 		"value": 25
 	},
 	{
-		"coord: ""164138664-169138664",
+		"coord": "164138664-169138664",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""164138664-169138664",
+		"coord": "164138664-169138664",
 		"category": "Coding",
 		"value": 29
 	},
 	{
-		"coord: ""254138664-259138664",
+		"coord": "254138664-259138664",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""254138664-259138664",
+		"coord": "254138664-259138664",
 		"category": "Coding",
 		"value": 125
 	},
 	{
-		"coord: ""259138664-264138664",
+		"coord": "259138664-264138664",
 		"category": "Noncoding",
 		"value": 64
 	},
 	{
-		"coord: ""259138664-264138664",
+		"coord": "259138664-264138664",
 		"category": "Coding",
 		"value": 132
 	},
 	{
-		"coord: ""264138664-269138664",
+		"coord": "264138664-269138664",
 		"category": "Noncoding",
 		"value": 73
 	},
 	{
-		"coord: ""264138664-269138664",
+		"coord": "264138664-269138664",
 		"category": "Coding",
 		"value": 70
 	},
 	{
-		"coord: ""269138664-274138664",
+		"coord": "269138664-274138664",
 		"category": "Noncoding",
 		"value": 6
 	},
 	{
-		"coord: ""269138664-274138664",
+		"coord": "269138664-274138664",
 		"category": "Coding",
 		"value": 74
 	},
 	{
-		"coord: ""274138664-279138664",
+		"coord": "274138664-279138664",
 		"category": "Noncoding",
 		"value": 65
 	},
 	{
-		"coord: ""274138664-279138664",
+		"coord": "274138664-279138664",
 		"category": "Coding",
 		"value": 40
 	},
 	{
-		"coord: ""279138664-284138664",
+		"coord": "279138664-284138664",
 		"category": "Noncoding",
 		"value": 23
 	},
 	{
-		"coord: ""279138664-284138664",
+		"coord": "279138664-284138664",
 		"category": "Coding",
 		"value": 72
 	},
 	{
-		"coord: ""284138664-289138664",
+		"coord": "284138664-289138664",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""284138664-289138664",
+		"coord": "284138664-289138664",
 		"category": "Coding",
 		"value": 35
 	},
 	{
-		"coord: ""289138664-294138664",
+		"coord": "289138664-294138664",
 		"category": "Noncoding",
 		"value": 20
 	},
 	{
-		"coord: ""289138664-294138664",
+		"coord": "289138664-294138664",
 		"category": "Coding",
 		"value": 85
 	},
 	{
-		"coord: ""294138664-299138664",
+		"coord": "294138664-299138664",
 		"category": "Noncoding",
 		"value": 44
 	},
 	{
-		"coord: ""294138664-299138664",
+		"coord": "294138664-299138664",
 		"category": "Coding",
 		"value": 25
 	},
 	{
-		"coord: ""299138664-304138664",
+		"coord": "299138664-304138664",
 		"category": "Noncoding",
 		"value": 44
 	},
 	{
-		"coord: ""299138664-304138664",
+		"coord": "299138664-304138664",
 		"category": "Coding",
 		"value": 104
 	},
 	{
-		"coord: ""169138664-174138664",
+		"coord": "169138664-174138664",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""169138664-174138664",
+		"coord": "169138664-174138664",
 		"category": "Coding",
 		"value": 14
 	},
 	{
-		"coord: ""304138664-305502685",
+		"coord": "304138664-305502685",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""304138664-305502685",
+		"coord": "304138664-305502685",
 		"category": "Coding",
 		"value": 95
 	},
 	{
-		"coord: ""174138664-179138664",
+		"coord": "174138664-179138664",
 		"category": "Noncoding",
 		"value": 7
 	},
 	{
-		"coord: ""174138664-179138664",
+		"coord": "174138664-179138664",
 		"category": "Coding",
 		"value": 70
 	},
 	{
-		"coord: ""179138664-184138664",
+		"coord": "179138664-184138664",
 		"category": "Noncoding",
 		"value": 84
 	},
 	{
-		"coord: ""179138664-184138664",
+		"coord": "179138664-184138664",
 		"category": "Coding",
 		"value": 103
 	},
 	{
-		"coord: ""184138664-189138664",
+		"coord": "184138664-189138664",
 		"category": "Noncoding",
 		"value": 6
 	},
 	{
-		"coord: ""184138664-189138664",
+		"coord": "184138664-189138664",
 		"category": "Coding",
 		"value": 47
 	},
 	{
-		"coord: ""189138664-194138664",
+		"coord": "189138664-194138664",
 		"category": "Noncoding",
 		"value": 257
 	},
 	{
-		"coord: ""189138664-194138664",
+		"coord": "189138664-194138664",
 		"category": "Coding",
 		"value": 79
 	},
 	{
-		"coord: ""194138664-199138664",
+		"coord": "194138664-199138664",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""194138664-199138664",
+		"coord": "194138664-199138664",
 		"category": "Coding",
 		"value": 10
 	},
 	{
-		"coord: ""199138664-204138664",
+		"coord": "199138664-204138664",
 		"category": "Noncoding",
 		"value": 16
 	},
 	{
-		"coord: ""199138664-204138664",
+		"coord": "199138664-204138664",
 		"category": "Coding",
 		"value": 45
 	},
 	{
-		"coord: ""146364023-151364023",
+		"coord": "146364023-151364023",
 		"category": "Noncoding",
 		"value": 32
 	},
 	{
-		"coord: ""146364023-151364023",
+		"coord": "146364023-151364023",
 		"category": "Coding",
 		"value": 41
 	},
 	{
-		"coord: ""216364023-221364023",
+		"coord": "216364023-221364023",
 		"category": "Noncoding",
 		"value": 9
 	},
 	{
-		"coord: ""216364023-221364023",
+		"coord": "216364023-221364023",
 		"category": "Coding",
 		"value": 32
 	},
 	{
-		"coord: ""221364023-226364023",
+		"coord": "221364023-226364023",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""221364023-226364023",
+		"coord": "221364023-226364023",
 		"category": "Coding",
 		"value": 61
 	},
 	{
-		"coord: ""231364023-236364023",
+		"coord": "231364023-236364023",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""231364023-236364023",
+		"coord": "231364023-236364023",
 		"category": "Coding",
 		"value": 89
 	},
 	{
-		"coord: ""236364023-241364023",
+		"coord": "236364023-241364023",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""236364023-241364023",
+		"coord": "236364023-241364023",
 		"category": "Coding",
 		"value": 1
 	},
 	{
-		"coord: ""151364023-156364023",
+		"coord": "151364023-156364023",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""151364023-156364023",
+		"coord": "151364023-156364023",
 		"category": "Coding",
 		"value": 55
 	},
 	{
-		"coord: ""241364023-246364023",
+		"coord": "241364023-246364023",
 		"category": "Noncoding",
 		"value": 78
 	},
 	{
-		"coord: ""241364023-246364023",
+		"coord": "241364023-246364023",
 		"category": "Coding",
 		"value": 119
 	},
 	{
-		"coord: ""246364023-251364023",
+		"coord": "246364023-251364023",
 		"category": "Noncoding",
 		"value": 6
 	},
 	{
-		"coord: ""246364023-251364023",
+		"coord": "246364023-251364023",
 		"category": "Coding",
 		"value": 72
 	},
 	{
-		"coord: ""256364023-261364023",
+		"coord": "256364023-261364023",
 		"category": "Noncoding",
 		"value": 4
 	},
 	{
-		"coord: ""256364023-261364023",
+		"coord": "256364023-261364023",
 		"category": "Coding",
 		"value": 42
 	},
 	{
-		"coord: ""261364023-266364023",
+		"coord": "261364023-266364023",
 		"category": "Noncoding",
 		"value": 121
 	},
 	{
-		"coord: ""261364023-266364023",
+		"coord": "261364023-266364023",
 		"category": "Coding",
 		"value": 81
 	},
 	{
-		"coord: ""266364023-271364023",
+		"coord": "266364023-271364023",
 		"category": "Noncoding",
 		"value": 86
 	},
 	{
-		"coord: ""266364023-271364023",
+		"coord": "266364023-271364023",
 		"category": "Coding",
 		"value": 105
 	},
 	{
-		"coord: ""271364023-276364023",
+		"coord": "271364023-276364023",
 		"category": "Noncoding",
 		"value": 96
 	},
 	{
-		"coord: ""271364023-276364023",
+		"coord": "271364023-276364023",
 		"category": "Coding",
 		"value": 71
 	},
 	{
-		"coord: ""276364023-281364023",
+		"coord": "276364023-281364023",
 		"category": "Noncoding",
 		"value": 96
 	},
 	{
-		"coord: ""276364023-281364023",
+		"coord": "276364023-281364023",
 		"category": "Coding",
 		"value": 437
 	},
 	{
-		"coord: ""281364023-286364023",
+		"coord": "281364023-286364023",
 		"category": "Noncoding",
 		"value": 105
 	},
 	{
-		"coord: ""281364023-286364023",
+		"coord": "281364023-286364023",
 		"category": "Coding",
 		"value": 362
 	},
 	{
-		"coord: ""286364023-287577453",
+		"coord": "286364023-287577453",
 		"category": "Noncoding",
 		"value": 36
 	},
 	{
-		"coord: ""286364023-287577453",
+		"coord": "286364023-287577453",
 		"category": "Coding",
 		"value": 75
 	},
 	{
-		"coord: ""156364023-161364023",
+		"coord": "156364023-161364023",
 		"category": "Noncoding",
 		"value": 72
 	},
 	{
-		"coord: ""156364023-161364023",
+		"coord": "156364023-161364023",
 		"category": "Coding",
 		"value": 47
 	},
 	{
-		"coord: ""161364023-166364023",
+		"coord": "161364023-166364023",
 		"category": "Noncoding",
 		"value": 75
 	},
 	{
-		"coord: ""161364023-166364023",
+		"coord": "161364023-166364023",
 		"category": "Coding",
 		"value": 95
 	},
 	{
-		"coord: ""166364023-171364023",
+		"coord": "166364023-171364023",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""166364023-171364023",
+		"coord": "166364023-171364023",
 		"category": "Coding",
 		"value": 12
 	},
 	{
-		"coord: ""171364023-176364023",
+		"coord": "171364023-176364023",
 		"category": "Noncoding",
 		"value": 6
 	},
 	{
-		"coord: ""171364023-176364023",
+		"coord": "171364023-176364023",
 		"category": "Coding",
 		"value": 40
 	},
 	{
-		"coord: ""176364023-181364023",
+		"coord": "176364023-181364023",
 		"category": "Noncoding",
 		"value": 6
 	},
 	{
-		"coord: ""176364023-181364023",
+		"coord": "176364023-181364023",
 		"category": "Coding",
 		"value": 80
 	},
 	{
-		"coord: ""181364023-186364023",
+		"coord": "181364023-186364023",
 		"category": "Noncoding",
 		"value": 55
 	},
 	{
-		"coord: ""181364023-186364023",
+		"coord": "181364023-186364023",
 		"category": "Coding",
 		"value": 116
 	},
 	{
-		"coord: ""51304567-56304567",
+		"coord": "51304567-56304567",
 		"category": "Noncoding",
 		"value": 1
 	},
 	{
-		"coord: ""51304567-56304567",
+		"coord": "51304567-56304567",
 		"category": "Coding",
 		"value": 6
 	},
 	{
-		"coord: ""96304567-101304567",
+		"coord": "96304567-101304567",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""96304567-101304567",
+		"coord": "96304567-101304567",
 		"category": "Coding",
 		"value": 31
 	},
 	{
-		"coord: ""101304567-106304567",
+		"coord": "101304567-106304567",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""101304567-106304567",
+		"coord": "101304567-106304567",
 		"category": "Coding",
 		"value": 100
 	},
 	{
-		"coord: ""111304567-116304567",
+		"coord": "111304567-116304567",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""111304567-116304567",
+		"coord": "111304567-116304567",
 		"category": "Coding",
 		"value": 39
 	},
 	{
-		"coord: ""116304567-121304567",
+		"coord": "116304567-121304567",
 		"category": "Noncoding",
 		"value": 37
 	},
 	{
-		"coord: ""116304567-121304567",
+		"coord": "116304567-121304567",
 		"category": "Coding",
 		"value": 46
 	},
 	{
-		"coord: ""121304567-126304567",
+		"coord": "121304567-126304567",
 		"category": "Noncoding",
 		"value": 74
 	},
 	{
-		"coord: ""121304567-126304567",
+		"coord": "121304567-126304567",
 		"category": "Coding",
 		"value": 66
 	},
 	{
-		"coord: ""126304567-131304567",
+		"coord": "126304567-131304567",
 		"category": "Noncoding",
 		"value": 11
 	},
 	{
-		"coord: ""126304567-131304567",
+		"coord": "126304567-131304567",
 		"category": "Coding",
 		"value": 12
 	},
 	{
-		"coord: ""131304567-136304567",
+		"coord": "131304567-136304567",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""131304567-136304567",
+		"coord": "131304567-136304567",
 		"category": "Coding",
 		"value": 8
 	},
 	{
-		"coord: ""56304567-61304567",
+		"coord": "56304567-61304567",
 		"category": "Noncoding",
 		"value": 5
 	},
 	{
-		"coord: ""56304567-61304567",
+		"coord": "56304567-61304567",
 		"category": "Coding",
 		"value": 15
 	},
 	{
-		"coord: ""146304567-151304567",
+		"coord": "146304567-151304567",
 		"category": "Noncoding",
 		"value": 18
 	},
 	{
-		"coord: ""146304567-151304567",
+		"coord": "146304567-151304567",
 		"category": "Coding",
 		"value": 27
 	},
 	{
-		"coord: ""151304567-156304567",
+		"coord": "151304567-156304567",
 		"category": "Noncoding",
 		"value": 0
 	},
 	{
-		"coord: ""151304567-156304567",
+		"coord": "151304567-156304567",
 		"category": "Coding",
 		"value": 11
 	},
 	{
-		"coord: ""156304567-161304567",
+		"coord": "156304567-161304567",
 		"category": "Noncoding",
 		"value": 11
 	},
 	{
-		"coord: ""156304567-161304567",
+		"coord": "156304567-161304567",
 		"category": "Coding",
 		"value": 31
 	},
 	{
-		"coord: ""166304567-171304567",
+		"coord": "166304567-171304567",
 		"category": "Noncoding",
 		"value": 0
 	},
 	{
-		"coord: ""166304567-171304567",
+		"coord": "166304567-171304567",
 		"category": "Coding",
 		"value": 18
 	},
 	{
-		"coord: ""176304567-181304567",
+		"coord": "176304567-181304567",
 		"category": "Noncoding",
 		"value": 6
 	},
 	{
-		"coord: ""176304567-181304567",
+		"coord": "176304567-181304567",
 		"category": "Coding",
 		"value": 19
 	},
 	{
-		"coord: ""186304567-191304567",
+		"coord": "186304567-191304567",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""186304567-191304567",
+		"coord": "186304567-191304567",
 		"category": "Coding",
 		"value": 10
 	},
 	{
-		"coord: ""191304567-196304567",
+		"coord": "191304567-196304567",
 		"category": "Noncoding",
 		"value": 10
 	},
 	{
-		"coord: ""191304567-196304567",
+		"coord": "191304567-196304567",
 		"category": "Coding",
 		"value": 1
 	},
 	{
-		"coord: ""61304567-66304567",
+		"coord": "61304567-66304567",
 		"category": "Noncoding",
 		"value": 15
 	},
 	{
-		"coord: ""61304567-66304567",
+		"coord": "61304567-66304567",
 		"category": "Coding",
 		"value": 47
 	},
 	{
-		"coord: ""196304567-201304567",
+		"coord": "196304567-201304567",
 		"category": "Noncoding",
 		"value": 203
 	},
 	{
-		"coord: ""196304567-201304567",
+		"coord": "196304567-201304567",
 		"category": "Coding",
 		"value": 39
 	},
 	{
-		"coord: ""201304567-206304567",
+		"coord": "201304567-206304567",
 		"category": "Noncoding",
 		"value": 2
 	},
 	{
-		"coord: ""201304567-206304567",
+		"coord": "201304567-206304567",
 		"category": "Coding",
 		"value": 43
 	},
 	{
-		"coord: ""66304567-71304567",
+		"coord": "66304567-71304567",
 		"category": "Noncoding",
 		"value": 3
 	},
 	{
-		"coord: ""66304567-71304567",
+		"coord": "66304567-71304567",
 		"category": "Coding",
 		"value": 48
 	},
 	{
-		"coord: ""71304567-76304567",
+		"coord": "71304567-76304567",
 		"category": "Noncoding",
 		"value": 36
 	},
 	{
-		"coord: ""71304567-76304567",
+		"coord": "71304567-76304567",
 		"category": "Coding",
 		"value": 84
 	},
 	{
-		"coord: ""76304567-81304567",
+		"coord": "76304567-81304567",
 		"category": "Noncoding",
 		"value": 13
 	},
 	{
-		"coord: ""76304567-81304567",
+		"coord": "76304567-81304567",
 		"category": "Coding",
 		"value": 3
 	},
 	{
-		"coord: ""81304567-86304567",
+		"coord": "81304567-86304567",
 		"category": "Noncoding",
 		"value": 8
 	},
 	{
-		"coord: ""81304567-86304567",
+		"coord": "81304567-86304567",
 		"category": "Coding",
 		"value": 5
 	},
 	{
-		"coord: ""86304567-91304567",
+		"coord": "86304567-91304567",
 		"category": "Noncoding",
 		"value": 35
 	},
 	{
-		"coord: ""86304567-91304567",
+		"coord": "86304567-91304567",
 		"category": "Coding",
 		"value": 57
 	},
 	{
-		"coord: ""91304567-96304567",
+		"coord": "91304567-96304567",
 		"category": "Noncoding",
 		"value": 31
 	},
 	{
-		"coord: ""91304567-96304567",
+		"coord": "91304567-96304567",
 		"category": "Coding",
 		"value": 46
 	}
